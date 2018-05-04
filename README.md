@@ -1,2 +1,2 @@
 # PYtes
-Some Python Utils and Learnings
+Collection of bytes. Written in Python. 
