@@ -18,17 +18,7 @@
                 "Axar Patel (kxp)"
             ],
             "transfers": 6,
-            "freeTransfer": false,
             "matchId": 7894,
-            "transfersRemaining": 25,
-            "stealthList": [
-                7905,
-                7907,
-                7909
-            ],
-            "doublePointsList": [
-                7917
-            ],
             "matchDescription": "mi vs csk",
             "teams": [
                 "mumbai-indians",
@@ -53,17 +43,7 @@
                 "Gautam Gambhir (dd)"
             ],
             "transfers": 3,
-            "freeTransfer": false,
             "matchId": 7895,
-            "transfersRemaining": 25,
-            "stealthList": [
-                7905,
-                7907,
-                7909
-            ],
-            "doublePointsList": [
-                7917
-            ],
             "matchDescription": "kxp vs dd",
             "teams": [
                 "kings-xi-punjab",
@@ -88,17 +68,7 @@
                 "Gautam Gambhir (dd)"
             ],
             "transfers": 3,
-            "freeTransfer": false,
             "matchId": 7895,
-            "transfersRemaining": 25,
-            "stealthList": [
-                7905,
-                7907,
-                7909
-            ],
-            "doublePointsList": [
-                7917
-            ],
             "matchDescription": "kkr vs rcb",
             "teams": [
                 "kolkata-knight-riders",
@@ -123,17 +93,7 @@
                 "Siddarth Kaul (sh)"
             ],
             "transfers": 3,
-            "freeTransfer": true,
             "matchId": 7897,
-            "transfersRemaining": 25,
-            "stealthList": [
-                7905,
-                7907,
-                7909
-            ],
-            "doublePointsList": [
-                7917
-            ],
             "matchDescription": "sh vs rr",
             "teams": [
                 "sunrisers-hyderabad",
@@ -158,17 +118,7 @@
                 "Nitish Rana (kkr)"
             ],
             "transfers": 1,
-            "freeTransfer": true,
             "matchId": 7898,
-            "transfersRemaining": 25,
-            "stealthList": [
-                7905,
-                7907,
-                7909
-            ],
-            "doublePointsList": [
-                7917
-            ],
             "matchDescription": "csk vs kkr",
             "teams": [
                 "chennai-super-kings",
@@ -193,17 +143,7 @@
                 "Rahul Tripathi (rr)"
             ],
             "transfers": 2,
-            "freeTransfer": true,
             "matchId": 7899,
-            "transfersRemaining": 25,
-            "stealthList": [
-                7905,
-                7907,
-                7909
-            ],
-            "doublePointsList": [
-                7917
-            ],
             "matchDescription": "rr vs dd",
             "teams": [
                 "rajasthan-royals",
@@ -228,17 +168,7 @@
                 "Hardik Pandya (mi)"
             ],
             "transfers": 3,
-            "freeTransfer": true,
             "matchId": 7900,
-            "transfersRemaining": 25,
-            "stealthList": [
-                7905,
-                7907,
-                7909
-            ],
-            "doublePointsList": [
-                7917
-            ],
             "matchDescription": "sh vs mi",
             "teams": [
                 "sunrisers-hyderabad",
@@ -263,17 +193,7 @@
                 "Chris Woakes (rcb)"
             ],
             "transfers": 4,
-            "freeTransfer": true,
             "matchId": 7901,
-            "transfersRemaining": 25,
-            "stealthList": [
-                7905,
-                7907,
-                7909
-            ],
-            "doublePointsList": [
-                7917
-            ],
             "matchDescription": "rcb vs kxp",
             "teams": [
                 "royal-challengers-bangalore",
@@ -298,17 +218,7 @@
                 "Mayank Markande (mi)"
             ],
             "transfers": 0,
-            "freeTransfer": true,
             "matchId": 7902,
-            "transfersRemaining": 25,
-            "stealthList": [
-                7905,
-                7907,
-                7909
-            ],
-            "doublePointsList": [
-                7917
-            ],
             "matchDescription": "mi vs dd",
             "teams": [
                 "mumbai-indians",
@@ -333,17 +243,7 @@
                 "Nitish Rana (kkr)"
             ],
             "transfers": 2,
-            "freeTransfer": true,
             "matchId": 7903,
-            "transfersRemaining": 25,
-            "stealthList": [
-                7905,
-                7907,
-                7909
-            ],
-            "doublePointsList": [
-                7917
-            ],
             "matchDescription": "kkr vs sh",
             "teams": [
                 "kolkata-knight-riders",
@@ -368,17 +268,7 @@
                 "Kulwant Khejroliya (rcb)"
             ],
             "transfers": 2,
-            "freeTransfer": true,
             "matchId": 7904,
-            "transfersRemaining": 25,
-            "stealthList": [
-                7905,
-                7907,
-                7909
-            ],
-            "doublePointsList": [
-                7917
-            ],
             "matchDescription": "rcb vs rr",
             "teams": [
                 "royal-challengers-bangalore",
@@ -403,17 +293,7 @@
                 "Mayank Agarwal (kxp)"
             ],
             "transfers": 1,
-            "freeTransfer": true,
             "matchId": 7905,
-            "transfersRemaining": 25,
-            "stealthList": [
-                7905,
-                7907,
-                7909
-            ],
-            "doublePointsList": [
-                7917
-            ],
             "matchDescription": "kxp vs csk",
             "teams": [
                 "kings-xi-punjab",
@@ -438,17 +318,7 @@
                 "Shahbaz Nadeem (dd)"
             ],
             "transfers": 1,
-            "freeTransfer": true,
             "matchId": 7906,
-            "transfersRemaining": 25,
-            "stealthList": [
-                7905,
-                7907,
-                7909
-            ],
-            "doublePointsList": [
-                7917
-            ],
             "matchDescription": "kkr vs dd",
             "teams": [
                 "kolkata-knight-riders",
@@ -473,17 +343,7 @@
                 "Shivam Mavi (kkr)"
             ],
             "transfers": 1,
-            "freeTransfer": true,
             "matchId": 7907,
-            "transfersRemaining": 25,
-            "stealthList": [
-                7905,
-                7907,
-                7909
-            ],
-            "doublePointsList": [
-                7917
-            ],
             "matchDescription": "mi vs rcb",
             "teams": [
                 "mumbai-indians",
@@ -508,17 +368,7 @@
                 "Ben Stokes (rr)"
             ],
             "transfers": 2,
-            "freeTransfer": true,
             "matchId": 7908,
-            "transfersRemaining": 25,
-            "stealthList": [
-                7905,
-                7907,
-                7909
-            ],
-            "doublePointsList": [
-                7917
-            ],
             "matchDescription": "rr vs kkr",
             "teams": [
                 "rajasthan-royals",
@@ -543,17 +393,7 @@
                 "Siddarth Kaul (sh)"
             ],
             "transfers": 2,
-            "freeTransfer": true,
             "matchId": 7909,
-            "transfersRemaining": 25,
-            "stealthList": [
-                7905,
-                7907,
-                7909
-            ],
-            "doublePointsList": [
-                7917
-            ],
             "matchDescription": "kxp vs sh",
             "teams": [
                 "kings-xi-punjab",
@@ -578,17 +418,7 @@
                 "Krishnappa Gowtham (rr)"
             ],
             "transfers": 1,
-            "freeTransfer": true,
             "matchId": 7910,
-            "transfersRemaining": 25,
-            "stealthList": [
-                7905,
-                7907,
-                7909
-            ],
-            "doublePointsList": [
-                7917
-            ],
             "matchDescription": "csk vs rr",
             "teams": [
                 "chennai-super-kings",
@@ -613,17 +443,7 @@
                 "Mayank Agarwal (kxp)"
             ],
             "transfers": 0,
-            "freeTransfer": true,
             "matchId": 7911,
-            "transfersRemaining": 25,
-            "stealthList": [
-                7905,
-                7907,
-                7909
-            ],
-            "doublePointsList": [
-                7917
-            ],
             "matchDescription": "kkr vs kxp",
             "teams": [
                 "kolkata-knight-riders",
@@ -648,17 +468,7 @@
                 "Jason Roy (dd)"
             ],
             "transfers": 3,
-            "freeTransfer": true,
             "matchId": 7912,
-            "transfersRemaining": 25,
-            "stealthList": [
-                7905,
-                7907,
-                7909
-            ],
-            "doublePointsList": [
-                7917
-            ],
             "matchDescription": "rcb vs dd",
             "teams": [
                 "royal-challengers-bangalore",
@@ -683,17 +493,7 @@
                 "Deepak Chahar (csk)"
             ],
             "transfers": 1,
-            "freeTransfer": true,
             "matchId": 7913,
-            "transfersRemaining": 25,
-            "stealthList": [
-                7905,
-                7907,
-                7909
-            ],
-            "doublePointsList": [
-                7917
-            ],
             "matchDescription": "sh vs csk",
             "teams": [
                 "sunrisers-hyderabad",
@@ -718,17 +518,7 @@
                 "Krunal Pandya (mi)"
             ],
             "transfers": 1,
-            "freeTransfer": true,
             "matchId": 7914,
-            "transfersRemaining": 25,
-            "stealthList": [
-                7905,
-                7907,
-                7909
-            ],
-            "doublePointsList": [
-                7917
-            ],
             "matchDescription": "rr vs mi",
             "teams": [
                 "rajasthan-royals",
@@ -753,17 +543,7 @@
                 "Mayank Agarwal (kxp)"
             ],
             "transfers": 1,
-            "freeTransfer": true,
             "matchId": 7915,
-            "transfersRemaining": 25,
-            "stealthList": [
-                7905,
-                7907,
-                7909
-            ],
-            "doublePointsList": [
-                7917
-            ],
             "matchDescription": "dd vs kxp",
             "teams": [
                 "delhi-daredevils",
@@ -788,17 +568,7 @@
                 "Ishan Kishan (mi)"
             ],
             "transfers": 0,
-            "freeTransfer": true,
             "matchId": 7916,
-            "transfersRemaining": 25,
-            "stealthList": [
-                7905,
-                7907,
-                7909
-            ],
-            "doublePointsList": [
-                7917
-            ],
             "matchDescription": "mi vs sh",
             "teams": [
                 "mumbai-indians",
@@ -823,17 +593,7 @@
                 "Ambati Rayudu (csk)"
             ],
             "transfers": 4,
-            "freeTransfer": true,
             "matchId": 7917,
-            "transfersRemaining": 25,
-            "stealthList": [
-                7905,
-                7907,
-                7909
-            ],
-            "doublePointsList": [
-                7917
-            ],
             "matchDescription": "rcb vs csk",
             "teams": [
                 "royal-challengers-bangalore",
@@ -858,17 +618,7 @@
                 "Basil Thampi (sh)"
             ],
             "transfers": 1,
-            "freeTransfer": true,
             "matchId": 7918,
-            "transfersRemaining": 25,
-            "stealthList": [
-                7905,
-                7907,
-                7909
-            ],
-            "doublePointsList": [
-                7917
-            ],
             "matchDescription": "sh vs kxp",
             "teams": [
                 "sunrisers-hyderabad",
@@ -893,17 +643,7 @@
                 "Chris Lynn (kkr)"
             ],
             "transfers": 2,
-            "freeTransfer": true,
             "matchId": 7919,
-            "transfersRemaining": 25,
-            "stealthList": [
-                7905,
-                7907,
-                7909
-            ],
-            "doublePointsList": [
-                7917
-            ],
             "matchDescription": "dd vs kkr",
             "teams": [
                 "delhi-daredevils",
@@ -928,17 +668,7 @@
                 "Suryakumar Yadav (mi)"
             ],
             "transfers": 0,
-            "freeTransfer": true,
             "matchId": 7920,
-            "transfersRemaining": 25,
-            "stealthList": [
-                7905,
-                7907,
-                7909
-            ],
-            "doublePointsList": [
-                7917
-            ],
             "matchDescription": "csk vs mi",
             "teams": [
                 "chennai-super-kings",
@@ -963,17 +693,7 @@
                 "Rahul Tripathi (rr)"
             ],
             "transfers": 1,
-            "freeTransfer": true,
             "matchId": 7921,
-            "transfersRemaining": 25,
-            "stealthList": [
-                7905,
-                7907,
-                7909
-            ],
-            "doublePointsList": [
-                7917
-            ],
             "matchDescription": "rr vs sh",
             "teams": [
                 "rajasthan-royals",
@@ -998,17 +718,7 @@
                 "Quinton De Kock (rcb)"
             ],
             "transfers": 2,
-            "freeTransfer": true,
             "matchId": 7922,
-            "transfersRemaining": 25,
-            "stealthList": [
-                7905,
-                7907,
-                7909
-            ],
-            "doublePointsList": [
-                7917
-            ],
             "matchDescription": "rcb vs kkr",
             "teams": [
                 "royal-challengers-bangalore",
@@ -1033,17 +743,7 @@
                 "Avesh Khan (dd)"
             ],
             "transfers": 2,
-            "freeTransfer": true,
             "matchId": 7923,
-            "transfersRemaining": 25,
-            "stealthList": [
-                7905,
-                7907,
-                7909
-            ],
-            "doublePointsList": [
-                7917
-            ],
             "matchDescription": "csk vs dd",
             "teams": [
                 "chennai-super-kings",
@@ -1068,17 +768,7 @@
                 "Krunal Pandya (mi)"
             ],
             "transfers": 1,
-            "freeTransfer": true,
             "matchId": 7924,
-            "transfersRemaining": 25,
-            "stealthList": [
-                7905,
-                7907,
-                7909
-            ],
-            "doublePointsList": [
-                7917
-            ],
             "matchDescription": "rcb vs mi",
             "teams": [
                 "royal-challengers-bangalore",
@@ -1103,17 +793,7 @@
                 "Shahbaz Nadeem (dd)"
             ],
             "transfers": 1,
-            "freeTransfer": true,
             "matchId": 7925,
-            "transfersRemaining": 25,
-            "stealthList": [
-                7905,
-                7907,
-                7909
-            ],
-            "doublePointsList": [
-                7917
-            ],
             "matchDescription": "dd vs rr",
             "teams": [
                 "delhi-daredevils",
@@ -1138,17 +818,7 @@
                 "Lungi Ngidi (csk)"
             ],
             "transfers": 2,
-            "freeTransfer": true,
             "matchId": 7926,
-            "transfersRemaining": 25,
-            "stealthList": [
-                7905,
-                7907,
-                7909
-            ],
-            "doublePointsList": [
-                7917
-            ],
             "matchDescription": "kkr vs csk",
             "teams": [
                 "kolkata-knight-riders",
@@ -1173,17 +843,7 @@
                 "Lungi Ngidi (csk)"
             ],
             "transfers": 2,
-            "freeTransfer": true,
             "matchId": 7926,
-            "transfersRemaining": 25,
-            "stealthList": [
-                7905,
-                7907,
-                7909
-            ],
-            "doublePointsList": [
-                7917
-            ],
             "matchDescription": "kxp vs mi",
             "teams": [
                 "kings-xi-punjab",
@@ -1210,17 +870,7 @@
                 "Mark Wood (csk)"
             ],
             "transfers": 12,
-            "freeTransfer": true,
             "matchId": 7894,
-            "transfersRemaining": 27,
-            "stealthList": [
-                7911,
-                7913,
-                7917
-            ],
-            "doublePointsList": [
-                7917
-            ],
             "matchDescription": "mi vs csk",
             "teams": [
                 "mumbai-indians",
@@ -1245,17 +895,7 @@
                 "Andre Russell (kkr)"
             ],
             "transfers": 3,
-            "freeTransfer": false,
             "matchId": 7895,
-            "transfersRemaining": 27,
-            "stealthList": [
-                7911,
-                7913,
-                7917
-            ],
-            "doublePointsList": [
-                7917
-            ],
             "matchDescription": "kxp vs dd",
             "teams": [
                 "kings-xi-punjab",
@@ -1280,17 +920,7 @@
                 "Yuzvendra Chahal (rcb)"
             ],
             "transfers": 1,
-            "freeTransfer": false,
             "matchId": 7896,
-            "transfersRemaining": 27,
-            "stealthList": [
-                7911,
-                7913,
-                7917
-            ],
-            "doublePointsList": [
-                7917
-            ],
             "matchDescription": "kkr vs rcb",
             "teams": [
                 "kolkata-knight-riders",
@@ -1315,17 +945,7 @@
                 "Bhuvneshwar Kumar (sh)"
             ],
             "transfers": 3,
-            "freeTransfer": false,
             "matchId": 7897,
-            "transfersRemaining": 27,
-            "stealthList": [
-                7911,
-                7913,
-                7917
-            ],
-            "doublePointsList": [
-                7917
-            ],
             "matchDescription": "sh vs rr",
             "teams": [
                 "sunrisers-hyderabad",
@@ -1350,17 +970,7 @@
                 "Shane Watson (csk)"
             ],
             "transfers": 1,
-            "freeTransfer": false,
             "matchId": 7898,
-            "transfersRemaining": 27,
-            "stealthList": [
-                7911,
-                7913,
-                7917
-            ],
-            "doublePointsList": [
-                7917
-            ],
             "matchDescription": "csk vs kkr",
             "teams": [
                 "chennai-super-kings",
@@ -1385,17 +995,7 @@
                 "Rahul Tripathi (rr)"
             ],
             "transfers": 1,
-            "freeTransfer": true,
             "matchId": 7899,
-            "transfersRemaining": 27,
-            "stealthList": [
-                7911,
-                7913,
-                7917
-            ],
-            "doublePointsList": [
-                7917
-            ],
             "matchDescription": "rr vs dd",
             "teams": [
                 "rajasthan-royals",
@@ -1420,17 +1020,7 @@
                 "Shikhar Dhawan (sh)"
             ],
             "transfers": 2,
-            "freeTransfer": true,
             "matchId": 7900,
-            "transfersRemaining": 27,
-            "stealthList": [
-                7911,
-                7913,
-                7917
-            ],
-            "doublePointsList": [
-                7917
-            ],
             "matchDescription": "sh vs mi",
             "teams": [
                 "sunrisers-hyderabad",
@@ -1455,17 +1045,7 @@
                 "Nitish Rana (kkr)"
             ],
             "transfers": 3,
-            "freeTransfer": true,
             "matchId": 7901,
-            "transfersRemaining": 27,
-            "stealthList": [
-                7911,
-                7913,
-                7917
-            ],
-            "doublePointsList": [
-                7917
-            ],
             "matchDescription": "rcb vs kxp",
             "teams": [
                 "royal-challengers-bangalore",
@@ -1490,17 +1070,7 @@
                 "Siddarth Kaul (sh)"
             ],
             "transfers": 0,
-            "freeTransfer": true,
             "matchId": 7902,
-            "transfersRemaining": 27,
-            "stealthList": [
-                7911,
-                7913,
-                7917
-            ],
-            "doublePointsList": [
-                7917
-            ],
             "matchDescription": "mi vs dd",
             "teams": [
                 "mumbai-indians",
@@ -1525,17 +1095,7 @@
                 "Siddarth Kaul (sh)"
             ],
             "transfers": 0,
-            "freeTransfer": false,
             "matchId": 7903,
-            "transfersRemaining": 27,
-            "stealthList": [
-                7911,
-                7913,
-                7917
-            ],
-            "doublePointsList": [
-                7917
-            ],
             "matchDescription": "kkr vs sh",
             "teams": [
                 "kolkata-knight-riders",
@@ -1560,17 +1120,7 @@
                 "Deepak Chahar (csk)"
             ],
             "transfers": 4,
-            "freeTransfer": true,
             "matchId": 7904,
-            "transfersRemaining": 27,
-            "stealthList": [
-                7911,
-                7913,
-                7917
-            ],
-            "doublePointsList": [
-                7917
-            ],
             "matchDescription": "rcb vs rr",
             "teams": [
                 "royal-challengers-bangalore",
@@ -1595,17 +1145,7 @@
                 "Deepak Chahar (csk)"
             ],
             "transfers": 0,
-            "freeTransfer": false,
             "matchId": 7905,
-            "transfersRemaining": 27,
-            "stealthList": [
-                7911,
-                7913,
-                7917
-            ],
-            "doublePointsList": [
-                7917
-            ],
             "matchDescription": "kxp vs csk",
             "teams": [
                 "kings-xi-punjab",
@@ -1630,17 +1170,7 @@
                 "Sunil Narine (kkr)"
             ],
             "transfers": 2,
-            "freeTransfer": true,
             "matchId": 7906,
-            "transfersRemaining": 27,
-            "stealthList": [
-                7911,
-                7913,
-                7917
-            ],
-            "doublePointsList": [
-                7917
-            ],
             "matchDescription": "kkr vs dd",
             "teams": [
                 "kolkata-knight-riders",
@@ -1665,17 +1195,7 @@
                 "Sunil Narine (kkr)"
             ],
             "transfers": 0,
-            "freeTransfer": false,
             "matchId": 7907,
-            "transfersRemaining": 27,
-            "stealthList": [
-                7911,
-                7913,
-                7917
-            ],
-            "doublePointsList": [
-                7917
-            ],
             "matchDescription": "mi vs rcb",
             "teams": [
                 "mumbai-indians",
@@ -1700,17 +1220,7 @@
                 "Sanju Samson (rr)"
             ],
             "transfers": 1,
-            "freeTransfer": true,
             "matchId": 7908,
-            "transfersRemaining": 27,
-            "stealthList": [
-                7911,
-                7913,
-                7917
-            ],
-            "doublePointsList": [
-                7917
-            ],
             "matchDescription": "rr vs kkr",
             "teams": [
                 "rajasthan-royals",
@@ -1735,17 +1245,7 @@
                 "Deepak Hooda (sh)"
             ],
             "transfers": 3,
-            "freeTransfer": true,
             "matchId": 7909,
-            "transfersRemaining": 27,
-            "stealthList": [
-                7911,
-                7913,
-                7917
-            ],
-            "doublePointsList": [
-                7917
-            ],
             "matchDescription": "kxp vs sh",
             "teams": [
                 "kings-xi-punjab",
@@ -1770,17 +1270,7 @@
                 "Krishnappa Gowtham (rr)"
             ],
             "transfers": 1,
-            "freeTransfer": true,
             "matchId": 7910,
-            "transfersRemaining": 27,
-            "stealthList": [
-                7911,
-                7913,
-                7917
-            ],
-            "doublePointsList": [
-                7917
-            ],
             "matchDescription": "csk vs rr",
             "teams": [
                 "chennai-super-kings",
@@ -1805,17 +1295,7 @@
                 "Chris Lynn (kkr)"
             ],
             "transfers": 2,
-            "freeTransfer": true,
             "matchId": 7911,
-            "transfersRemaining": 27,
-            "stealthList": [
-                7911,
-                7913,
-                7917
-            ],
-            "doublePointsList": [
-                7917
-            ],
             "matchDescription": "kkr vs kxp",
             "teams": [
                 "kolkata-knight-riders",
@@ -1840,17 +1320,7 @@
                 "Kulwant Khejroliya (rcb)"
             ],
             "transfers": 1,
-            "freeTransfer": true,
             "matchId": 7912,
-            "transfersRemaining": 27,
-            "stealthList": [
-                7911,
-                7913,
-                7917
-            ],
-            "doublePointsList": [
-                7917
-            ],
             "matchDescription": "rcb vs dd",
             "teams": [
                 "royal-challengers-bangalore",
@@ -1875,17 +1345,7 @@
                 "Deepak Chahar (csk)"
             ],
             "transfers": 2,
-            "freeTransfer": true,
             "matchId": 7913,
-            "transfersRemaining": 27,
-            "stealthList": [
-                7911,
-                7913,
-                7917
-            ],
-            "doublePointsList": [
-                7917
-            ],
             "matchDescription": "sh vs csk",
             "teams": [
                 "sunrisers-hyderabad",
@@ -1910,17 +1370,7 @@
                 "Krunal Pandya (mi)"
             ],
             "transfers": 1,
-            "freeTransfer": true,
             "matchId": 7914,
-            "transfersRemaining": 27,
-            "stealthList": [
-                7911,
-                7913,
-                7917
-            ],
-            "doublePointsList": [
-                7917
-            ],
             "matchDescription": "rr vs mi",
             "teams": [
                 "rajasthan-royals",
@@ -1945,17 +1395,7 @@
                 "Aaron Finch (kxp)"
             ],
             "transfers": 1,
-            "freeTransfer": true,
             "matchId": 7915,
-            "transfersRemaining": 27,
-            "stealthList": [
-                7911,
-                7913,
-                7917
-            ],
-            "doublePointsList": [
-                7917
-            ],
             "matchDescription": "dd vs kxp",
             "teams": [
                 "delhi-daredevils",
@@ -1980,17 +1420,7 @@
                 "Siddarth Kaul (sh)"
             ],
             "transfers": 0,
-            "freeTransfer": true,
             "matchId": 7916,
-            "transfersRemaining": 27,
-            "stealthList": [
-                7911,
-                7913,
-                7917
-            ],
-            "doublePointsList": [
-                7917
-            ],
             "matchDescription": "mi vs sh",
             "teams": [
                 "mumbai-indians",
@@ -2015,17 +1445,7 @@
                 "Rahul Tewatia (dd)"
             ],
             "transfers": 3,
-            "freeTransfer": false,
             "matchId": 7917,
-            "transfersRemaining": 27,
-            "stealthList": [
-                7911,
-                7913,
-                7917
-            ],
-            "doublePointsList": [
-                7917
-            ],
             "matchDescription": "rcb vs csk",
             "teams": [
                 "royal-challengers-bangalore",
@@ -2050,17 +1470,7 @@
                 "Ankit Rajpoot (kxp)"
             ],
             "transfers": 1,
-            "freeTransfer": true,
             "matchId": 7918,
-            "transfersRemaining": 27,
-            "stealthList": [
-                7911,
-                7913,
-                7917
-            ],
-            "doublePointsList": [
-                7917
-            ],
             "matchDescription": "sh vs kxp",
             "teams": [
                 "sunrisers-hyderabad",
@@ -2085,17 +1495,7 @@
                 "Nitish Rana (kkr)"
             ],
             "transfers": 2,
-            "freeTransfer": true,
             "matchId": 7919,
-            "transfersRemaining": 27,
-            "stealthList": [
-                7911,
-                7913,
-                7917
-            ],
-            "doublePointsList": [
-                7917
-            ],
             "matchDescription": "dd vs kkr",
             "teams": [
                 "delhi-daredevils",
@@ -2120,17 +1520,7 @@
                 "Ishan Kishan (mi)"
             ],
             "transfers": 3,
-            "freeTransfer": true,
             "matchId": 7920,
-            "transfersRemaining": 27,
-            "stealthList": [
-                7911,
-                7913,
-                7917
-            ],
-            "doublePointsList": [
-                7917
-            ],
             "matchDescription": "csk vs mi",
             "teams": [
                 "chennai-super-kings",
@@ -2155,17 +1545,7 @@
                 "Ish Sodhi (rr)"
             ],
             "transfers": 2,
-            "freeTransfer": false,
             "matchId": 7921,
-            "transfersRemaining": 27,
-            "stealthList": [
-                7911,
-                7913,
-                7917
-            ],
-            "doublePointsList": [
-                7917
-            ],
             "matchDescription": "rr vs sh",
             "teams": [
                 "rajasthan-royals",
@@ -2190,17 +1570,7 @@
                 "Shivam Mavi (kkr)"
             ],
             "transfers": 1,
-            "freeTransfer": true,
             "matchId": 7922,
-            "transfersRemaining": 27,
-            "stealthList": [
-                7911,
-                7913,
-                7917
-            ],
-            "doublePointsList": [
-                7917
-            ],
             "matchDescription": "rcb vs kkr",
             "teams": [
                 "royal-challengers-bangalore",
@@ -2225,17 +1595,7 @@
                 "Trent Boult (dd)"
             ],
             "transfers": 1,
-            "freeTransfer": true,
             "matchId": 7923,
-            "transfersRemaining": 27,
-            "stealthList": [
-                7911,
-                7913,
-                7917
-            ],
-            "doublePointsList": [
-                7917
-            ],
             "matchDescription": "csk vs dd",
             "teams": [
                 "chennai-super-kings",
@@ -2260,17 +1620,7 @@
                 "Krunal Pandya (mi)"
             ],
             "transfers": 0,
-            "freeTransfer": true,
             "matchId": 7924,
-            "transfersRemaining": 27,
-            "stealthList": [
-                7911,
-                7913,
-                7917
-            ],
-            "doublePointsList": [
-                7917
-            ],
             "matchDescription": "rcb vs mi",
             "teams": [
                 "royal-challengers-bangalore",
@@ -2295,17 +1645,7 @@
                 "Shreyas Iyer (dd)"
             ],
             "transfers": 1,
-            "freeTransfer": false,
             "matchId": 7925,
-            "transfersRemaining": 27,
-            "stealthList": [
-                7911,
-                7913,
-                7917
-            ],
-            "doublePointsList": [
-                7917
-            ],
             "matchDescription": "dd vs rr",
             "teams": [
                 "delhi-daredevils",
@@ -2330,17 +1670,7 @@
                 "Ms Dhoni (csk)"
             ],
             "transfers": 2,
-            "freeTransfer": true,
             "matchId": 7926,
-            "transfersRemaining": 27,
-            "stealthList": [
-                7911,
-                7913,
-                7917
-            ],
-            "doublePointsList": [
-                7917
-            ],
             "matchDescription": "kkr vs csk",
             "teams": [
                 "kolkata-knight-riders",
@@ -2365,17 +1695,7 @@
                 "Ms Dhoni (csk)"
             ],
             "transfers": 2,
-            "freeTransfer": true,
             "matchId": 7926,
-            "transfersRemaining": 27,
-            "stealthList": [
-                7911,
-                7913,
-                7917
-            ],
-            "doublePointsList": [
-                7917
-            ],
             "matchDescription": "kxp vs mi",
             "teams": [
                 "kings-xi-punjab",
@@ -2402,15 +1722,7 @@
                 "Deepak Hooda (sh)"
             ],
             "transfers": 0,
-            "freeTransfer": false,
             "matchId": 7894,
-            "transfersRemaining": 33,
-            "stealthList": [
-                7917
-            ],
-            "doublePointsList": [
-                7917
-            ],
             "matchDescription": "mi vs csk",
             "teams": [
                 "mumbai-indians",
@@ -2435,15 +1747,7 @@
                 "Rishabh Pant (dd)"
             ],
             "transfers": 1,
-            "freeTransfer": false,
             "matchId": 7895,
-            "transfersRemaining": 33,
-            "stealthList": [
-                7917
-            ],
-            "doublePointsList": [
-                7917
-            ],
             "matchDescription": "kxp vs dd",
             "teams": [
                 "kings-xi-punjab",
@@ -2468,15 +1772,7 @@
                 "Rishabh Pant (dd)"
             ],
             "transfers": 0,
-            "freeTransfer": false,
             "matchId": 7896,
-            "transfersRemaining": 33,
-            "stealthList": [
-                7917
-            ],
-            "doublePointsList": [
-                7917
-            ],
             "matchDescription": "kkr vs rcb",
             "teams": [
                 "kolkata-knight-riders",
@@ -2501,15 +1797,7 @@
                 "Rishabh Pant (dd)"
             ],
             "transfers": 0,
-            "freeTransfer": false,
             "matchId": 7897,
-            "transfersRemaining": 33,
-            "stealthList": [
-                7917
-            ],
-            "doublePointsList": [
-                7917
-            ],
             "matchDescription": "sh vs rr",
             "teams": [
                 "sunrisers-hyderabad",
@@ -2534,15 +1822,7 @@
                 "Rinku Singh (kkr)"
             ],
             "transfers": 1,
-            "freeTransfer": true,
             "matchId": 7898,
-            "transfersRemaining": 33,
-            "stealthList": [
-                7917
-            ],
-            "doublePointsList": [
-                7917
-            ],
             "matchDescription": "csk vs kkr",
             "teams": [
                 "chennai-super-kings",
@@ -2567,15 +1847,7 @@
                 "Rahul Tripathi (rr)"
             ],
             "transfers": 3,
-            "freeTransfer": true,
             "matchId": 7899,
-            "transfersRemaining": 33,
-            "stealthList": [
-                7917
-            ],
-            "doublePointsList": [
-                7917
-            ],
             "matchDescription": "rr vs dd",
             "teams": [
                 "rajasthan-royals",
@@ -2600,15 +1872,7 @@
                 "Manish Pandey (sh)"
             ],
             "transfers": 4,
-            "freeTransfer": true,
             "matchId": 7900,
-            "transfersRemaining": 33,
-            "stealthList": [
-                7917
-            ],
-            "doublePointsList": [
-                7917
-            ],
             "matchDescription": "sh vs mi",
             "teams": [
                 "sunrisers-hyderabad",
@@ -2633,15 +1897,7 @@
                 "Mayank Agarwal (kxp)"
             ],
             "transfers": 1,
-            "freeTransfer": true,
             "matchId": 7901,
-            "transfersRemaining": 33,
-            "stealthList": [
-                7917
-            ],
-            "doublePointsList": [
-                7917
-            ],
             "matchDescription": "rcb vs kxp",
             "teams": [
                 "royal-challengers-bangalore",
@@ -2666,15 +1922,7 @@
                 "Krunal Pandya (mi)"
             ],
             "transfers": 1,
-            "freeTransfer": true,
             "matchId": 7902,
-            "transfersRemaining": 33,
-            "stealthList": [
-                7917
-            ],
-            "doublePointsList": [
-                7917
-            ],
             "matchDescription": "mi vs dd",
             "teams": [
                 "mumbai-indians",
@@ -2699,15 +1947,7 @@
                 "Sunil Narine (kkr)"
             ],
             "transfers": 2,
-            "freeTransfer": true,
             "matchId": 7903,
-            "transfersRemaining": 33,
-            "stealthList": [
-                7917
-            ],
-            "doublePointsList": [
-                7917
-            ],
             "matchDescription": "kkr vs sh",
             "teams": [
                 "kolkata-knight-riders",
@@ -2732,15 +1972,7 @@
                 "Sunil Narine (kkr)"
             ],
             "transfers": 0,
-            "freeTransfer": false,
             "matchId": 7904,
-            "transfersRemaining": 33,
-            "stealthList": [
-                7917
-            ],
-            "doublePointsList": [
-                7917
-            ],
             "matchDescription": "rcb vs rr",
             "teams": [
                 "royal-challengers-bangalore",
@@ -2765,15 +1997,7 @@
                 "Deepak Chahar (csk)"
             ],
             "transfers": 2,
-            "freeTransfer": true,
             "matchId": 7905,
-            "transfersRemaining": 33,
-            "stealthList": [
-                7917
-            ],
-            "doublePointsList": [
-                7917
-            ],
             "matchDescription": "kxp vs csk",
             "teams": [
                 "kings-xi-punjab",
@@ -2798,15 +2022,7 @@
                 "Deepak Chahar (csk)"
             ],
             "transfers": 0,
-            "freeTransfer": false,
             "matchId": 7906,
-            "transfersRemaining": 33,
-            "stealthList": [
-                7917
-            ],
-            "doublePointsList": [
-                7917
-            ],
             "matchDescription": "kkr vs dd",
             "teams": [
                 "kolkata-knight-riders",
@@ -2831,15 +2047,7 @@
                 "Krunal Pandya (mi)"
             ],
             "transfers": 2,
-            "freeTransfer": true,
             "matchId": 7907,
-            "transfersRemaining": 33,
-            "stealthList": [
-                7917
-            ],
-            "doublePointsList": [
-                7917
-            ],
             "matchDescription": "mi vs rcb",
             "teams": [
                 "mumbai-indians",
@@ -2864,15 +2072,7 @@
                 "Andre Russell (kkr)"
             ],
             "transfers": 3,
-            "freeTransfer": true,
             "matchId": 7908,
-            "transfersRemaining": 33,
-            "stealthList": [
-                7917
-            ],
-            "doublePointsList": [
-                7917
-            ],
             "matchDescription": "rr vs kkr",
             "teams": [
                 "rajasthan-royals",
@@ -2897,15 +2097,7 @@
                 "Siddarth Kaul (sh)"
             ],
             "transfers": 2,
-            "freeTransfer": true,
             "matchId": 7909,
-            "transfersRemaining": 33,
-            "stealthList": [
-                7917
-            ],
-            "doublePointsList": [
-                7917
-            ],
             "matchDescription": "kxp vs sh",
             "teams": [
                 "kings-xi-punjab",
@@ -2930,15 +2122,7 @@
                 "Ambati Rayudu (csk)"
             ],
             "transfers": 1,
-            "freeTransfer": true,
             "matchId": 7910,
-            "transfersRemaining": 33,
-            "stealthList": [
-                7917
-            ],
-            "doublePointsList": [
-                7917
-            ],
             "matchDescription": "csk vs rr",
             "teams": [
                 "chennai-super-kings",
@@ -2963,15 +2147,7 @@
                 "Rahul Tewatia (dd)"
             ],
             "transfers": 0,
-            "freeTransfer": true,
             "matchId": 7911,
-            "transfersRemaining": 33,
-            "stealthList": [
-                7917
-            ],
-            "doublePointsList": [
-                7917
-            ],
             "matchDescription": "kkr vs kxp",
             "teams": [
                 "kolkata-knight-riders",
@@ -2996,15 +2172,7 @@
                 "Harshal Patel (dd)"
             ],
             "transfers": 2,
-            "freeTransfer": true,
             "matchId": 7912,
-            "transfersRemaining": 33,
-            "stealthList": [
-                7917
-            ],
-            "doublePointsList": [
-                7917
-            ],
             "matchDescription": "rcb vs dd",
             "teams": [
                 "royal-challengers-bangalore",
@@ -3029,15 +2197,7 @@
                 "Manish Pandey (sh)"
             ],
             "transfers": 1,
-            "freeTransfer": true,
             "matchId": 7913,
-            "transfersRemaining": 33,
-            "stealthList": [
-                7917
-            ],
-            "doublePointsList": [
-                7917
-            ],
             "matchDescription": "sh vs csk",
             "teams": [
                 "sunrisers-hyderabad",
@@ -3062,15 +2222,7 @@
                 "Krunal Pandya (mi)"
             ],
             "transfers": 2,
-            "freeTransfer": true,
             "matchId": 7914,
-            "transfersRemaining": 33,
-            "stealthList": [
-                7917
-            ],
-            "doublePointsList": [
-                7917
-            ],
             "matchDescription": "rr vs mi",
             "teams": [
                 "rajasthan-royals",
@@ -3095,15 +2247,7 @@
                 "Mayank Agarwal (kxp)"
             ],
             "transfers": 0,
-            "freeTransfer": true,
             "matchId": 7915,
-            "transfersRemaining": 33,
-            "stealthList": [
-                7917
-            ],
-            "doublePointsList": [
-                7917
-            ],
             "matchDescription": "dd vs kxp",
             "teams": [
                 "delhi-daredevils",
@@ -3128,15 +2272,7 @@
                 "Shakib Al Hasan (sh)"
             ],
             "transfers": 2,
-            "freeTransfer": true,
             "matchId": 7916,
-            "transfersRemaining": 33,
-            "stealthList": [
-                7917
-            ],
-            "doublePointsList": [
-                7917
-            ],
             "matchDescription": "mi vs sh",
             "teams": [
                 "mumbai-indians",
@@ -3161,15 +2297,7 @@
                 "Yuzvendra Chahal (rcb)"
             ],
             "transfers": 3,
-            "freeTransfer": true,
             "matchId": 7917,
-            "transfersRemaining": 33,
-            "stealthList": [
-                7917
-            ],
-            "doublePointsList": [
-                7917
-            ],
             "matchDescription": "rcb vs csk",
             "teams": [
                 "royal-challengers-bangalore",
@@ -3194,15 +2322,7 @@
                 "Nitish Rana (kkr)"
             ],
             "transfers": 0,
-            "freeTransfer": true,
             "matchId": 7918,
-            "transfersRemaining": 33,
-            "stealthList": [
-                7917
-            ],
-            "doublePointsList": [
-                7917
-            ],
             "matchDescription": "sh vs kxp",
             "teams": [
                 "sunrisers-hyderabad",
@@ -3227,15 +2347,7 @@
                 "Rahul Tewatia (dd)"
             ],
             "transfers": 1,
-            "freeTransfer": true,
             "matchId": 7919,
-            "transfersRemaining": 33,
-            "stealthList": [
-                7917
-            ],
-            "doublePointsList": [
-                7917
-            ],
             "matchDescription": "dd vs kkr",
             "teams": [
                 "delhi-daredevils",
@@ -3260,15 +2372,7 @@
                 "Krunal Pandya (mi)"
             ],
             "transfers": 1,
-            "freeTransfer": true,
             "matchId": 7920,
-            "transfersRemaining": 33,
-            "stealthList": [
-                7917
-            ],
-            "doublePointsList": [
-                7917
-            ],
             "matchDescription": "csk vs mi",
             "teams": [
                 "chennai-super-kings",
@@ -3293,15 +2397,7 @@
                 "Krishnappa Gowtham (rr)"
             ],
             "transfers": 1,
-            "freeTransfer": true,
             "matchId": 7921,
-            "transfersRemaining": 33,
-            "stealthList": [
-                7917
-            ],
-            "doublePointsList": [
-                7917
-            ],
             "matchDescription": "rr vs sh",
             "teams": [
                 "rajasthan-royals",
@@ -3326,15 +2422,7 @@
                 "Prithvi Shaw (dd)"
             ],
             "transfers": 1,
-            "freeTransfer": true,
             "matchId": 7922,
-            "transfersRemaining": 33,
-            "stealthList": [
-                7917
-            ],
-            "doublePointsList": [
-                7917
-            ],
             "matchDescription": "rcb vs kkr",
             "teams": [
                 "royal-challengers-bangalore",
@@ -3359,15 +2447,7 @@
                 "Avesh Khan (dd)"
             ],
             "transfers": 1,
-            "freeTransfer": true,
             "matchId": 7923,
-            "transfersRemaining": 33,
-            "stealthList": [
-                7917
-            ],
-            "doublePointsList": [
-                7917
-            ],
             "matchDescription": "csk vs dd",
             "teams": [
                 "chennai-super-kings",
@@ -3392,15 +2472,7 @@
                 "Ab De Villiers (rcb)"
             ],
             "transfers": 2,
-            "freeTransfer": true,
             "matchId": 7924,
-            "transfersRemaining": 33,
-            "stealthList": [
-                7917
-            ],
-            "doublePointsList": [
-                7917
-            ],
             "matchDescription": "rcb vs mi",
             "teams": [
                 "royal-challengers-bangalore",
@@ -3425,15 +2497,7 @@
                 "Krishnappa Gowtham (rr)"
             ],
             "transfers": 0,
-            "freeTransfer": true,
             "matchId": 7925,
-            "transfersRemaining": 33,
-            "stealthList": [
-                7917
-            ],
-            "doublePointsList": [
-                7917
-            ],
             "matchDescription": "dd vs rr",
             "teams": [
                 "delhi-daredevils",
@@ -3458,15 +2522,7 @@
                 "Robin Uthappa (kkr)"
             ],
             "transfers": 2,
-            "freeTransfer": true,
             "matchId": 7926,
-            "transfersRemaining": 33,
-            "stealthList": [
-                7917
-            ],
-            "doublePointsList": [
-                7917
-            ],
             "matchDescription": "kkr vs csk",
             "teams": [
                 "kolkata-knight-riders",
@@ -3491,15 +2547,7 @@
                 "Robin Uthappa (kkr)"
             ],
             "transfers": 2,
-            "freeTransfer": true,
             "matchId": 7926,
-            "transfersRemaining": 33,
-            "stealthList": [
-                7917
-            ],
-            "doublePointsList": [
-                7917
-            ],
             "matchDescription": "kxp vs mi",
             "teams": [
                 "kings-xi-punjab",
@@ -3526,17 +2574,7 @@
                 "Washington Sundar (rcb)"
             ],
             "transfers": 0,
-            "freeTransfer": false,
             "matchId": 7894,
-            "transfersRemaining": 33,
-            "stealthList": [
-                7922,
-                7924
-            ],
-            "doublePointsList": [
-                7922,
-                7924
-            ],
             "matchDescription": "mi vs csk",
             "teams": [
                 "mumbai-indians",
@@ -3561,17 +2599,7 @@
                 "Glenn Maxwell (dd)"
             ],
             "transfers": 1,
-            "freeTransfer": false,
             "matchId": 7895,
-            "transfersRemaining": 33,
-            "stealthList": [
-                7922,
-                7924
-            ],
-            "doublePointsList": [
-                7922,
-                7924
-            ],
             "matchDescription": "kxp vs dd",
             "teams": [
                 "kings-xi-punjab",
@@ -3596,17 +2624,7 @@
                 "Dinesh Karthik (kkr)"
             ],
             "transfers": 1,
-            "freeTransfer": false,
             "matchId": 7896,
-            "transfersRemaining": 33,
-            "stealthList": [
-                7922,
-                7924
-            ],
-            "doublePointsList": [
-                7922,
-                7924
-            ],
             "matchDescription": "kkr vs rcb",
             "teams": [
                 "kolkata-knight-riders",
@@ -3631,17 +2649,7 @@
                 "Stuart Binny (rr)"
             ],
             "transfers": 4,
-            "freeTransfer": false,
             "matchId": 7897,
-            "transfersRemaining": 33,
-            "stealthList": [
-                7922,
-                7924
-            ],
-            "doublePointsList": [
-                7922,
-                7924
-            ],
             "matchDescription": "sh vs rr",
             "teams": [
                 "sunrisers-hyderabad",
@@ -3666,17 +2674,7 @@
                 "Nitish Rana (kkr)"
             ],
             "transfers": 0,
-            "freeTransfer": true,
             "matchId": 7898,
-            "transfersRemaining": 33,
-            "stealthList": [
-                7922,
-                7924
-            ],
-            "doublePointsList": [
-                7922,
-                7924
-            ],
             "matchDescription": "csk vs kkr",
             "teams": [
                 "chennai-super-kings",
@@ -3701,17 +2699,7 @@
                 "Chris Morris (dd)"
             ],
             "transfers": 1,
-            "freeTransfer": false,
             "matchId": 7899,
-            "transfersRemaining": 33,
-            "stealthList": [
-                7922,
-                7924
-            ],
-            "doublePointsList": [
-                7922,
-                7924
-            ],
             "matchDescription": "rr vs dd",
             "teams": [
                 "rajasthan-royals",
@@ -3736,17 +2724,7 @@
                 "Rohit Sharma (mi)"
             ],
             "transfers": 3,
-            "freeTransfer": true,
             "matchId": 7900,
-            "transfersRemaining": 33,
-            "stealthList": [
-                7922,
-                7924
-            ],
-            "doublePointsList": [
-                7922,
-                7924
-            ],
             "matchDescription": "sh vs mi",
             "teams": [
                 "sunrisers-hyderabad",
@@ -3771,17 +2749,7 @@
                 "Mayank Agarwal (kxp)"
             ],
             "transfers": 2,
-            "freeTransfer": true,
             "matchId": 7901,
-            "transfersRemaining": 33,
-            "stealthList": [
-                7922,
-                7924
-            ],
-            "doublePointsList": [
-                7922,
-                7924
-            ],
             "matchDescription": "rcb vs kxp",
             "teams": [
                 "royal-challengers-bangalore",
@@ -3806,17 +2774,7 @@
                 "Sunil Narine (kkr)"
             ],
             "transfers": 3,
-            "freeTransfer": true,
             "matchId": 7902,
-            "transfersRemaining": 33,
-            "stealthList": [
-                7922,
-                7924
-            ],
-            "doublePointsList": [
-                7922,
-                7924
-            ],
             "matchDescription": "mi vs dd",
             "teams": [
                 "mumbai-indians",
@@ -3841,17 +2799,7 @@
                 "Shubman Gill (kkr)"
             ],
             "transfers": 0,
-            "freeTransfer": true,
             "matchId": 7903,
-            "transfersRemaining": 33,
-            "stealthList": [
-                7922,
-                7924
-            ],
-            "doublePointsList": [
-                7922,
-                7924
-            ],
             "matchDescription": "kkr vs sh",
             "teams": [
                 "kolkata-knight-riders",
@@ -3876,17 +2824,7 @@
                 "Mayank Agarwal (kxp)"
             ],
             "transfers": 5,
-            "freeTransfer": true,
             "matchId": 7904,
-            "transfersRemaining": 33,
-            "stealthList": [
-                7922,
-                7924
-            ],
-            "doublePointsList": [
-                7922,
-                7924
-            ],
             "matchDescription": "rcb vs rr",
             "teams": [
                 "royal-challengers-bangalore",
@@ -3911,17 +2849,7 @@
                 "Deepak Chahar (csk)"
             ],
             "transfers": 0,
-            "freeTransfer": true,
             "matchId": 7905,
-            "transfersRemaining": 33,
-            "stealthList": [
-                7922,
-                7924
-            ],
-            "doublePointsList": [
-                7922,
-                7924
-            ],
             "matchDescription": "kxp vs csk",
             "teams": [
                 "kings-xi-punjab",
@@ -3946,17 +2874,7 @@
                 "Nan (n)"
             ],
             "transfers": 2,
-            "freeTransfer": true,
             "matchId": 7906,
-            "transfersRemaining": 33,
-            "stealthList": [
-                7922,
-                7924
-            ],
-            "doublePointsList": [
-                7922,
-                7924
-            ],
             "matchDescription": "kkr vs dd",
             "teams": [
                 "kolkata-knight-riders",
@@ -3981,17 +2899,7 @@
                 "Mayank Markande (mi)"
             ],
             "transfers": 0,
-            "freeTransfer": true,
             "matchId": 7907,
-            "transfersRemaining": 33,
-            "stealthList": [
-                7922,
-                7924
-            ],
-            "doublePointsList": [
-                7922,
-                7924
-            ],
             "matchDescription": "mi vs rcb",
             "teams": [
                 "mumbai-indians",
@@ -4016,17 +2924,7 @@
                 "Chris Lynn (kkr)"
             ],
             "transfers": 1,
-            "freeTransfer": true,
             "matchId": 7908,
-            "transfersRemaining": 33,
-            "stealthList": [
-                7922,
-                7924
-            ],
-            "doublePointsList": [
-                7922,
-                7924
-            ],
             "matchDescription": "rr vs kkr",
             "teams": [
                 "rajasthan-royals",
@@ -4051,17 +2949,7 @@
                 "Siddarth Kaul (sh)"
             ],
             "transfers": 1,
-            "freeTransfer": true,
             "matchId": 7909,
-            "transfersRemaining": 33,
-            "stealthList": [
-                7922,
-                7924
-            ],
-            "doublePointsList": [
-                7922,
-                7924
-            ],
             "matchDescription": "kxp vs sh",
             "teams": [
                 "kings-xi-punjab",
@@ -4086,17 +2974,7 @@
                 "Krishnappa Gowtham (rr)"
             ],
             "transfers": 1,
-            "freeTransfer": true,
             "matchId": 7910,
-            "transfersRemaining": 33,
-            "stealthList": [
-                7922,
-                7924
-            ],
-            "doublePointsList": [
-                7922,
-                7924
-            ],
             "matchDescription": "csk vs rr",
             "teams": [
                 "chennai-super-kings",
@@ -4121,17 +2999,7 @@
                 "Virat Kohli (rcb)"
             ],
             "transfers": 1,
-            "freeTransfer": true,
             "matchId": 7911,
-            "transfersRemaining": 33,
-            "stealthList": [
-                7922,
-                7924
-            ],
-            "doublePointsList": [
-                7922,
-                7924
-            ],
             "matchDescription": "kkr vs kxp",
             "teams": [
                 "kolkata-knight-riders",
@@ -4156,17 +3024,7 @@
                 "Rahul Tewatia (dd)"
             ],
             "transfers": 0,
-            "freeTransfer": true,
             "matchId": 7912,
-            "transfersRemaining": 33,
-            "stealthList": [
-                7922,
-                7924
-            ],
-            "doublePointsList": [
-                7922,
-                7924
-            ],
             "matchDescription": "rcb vs dd",
             "teams": [
                 "royal-challengers-bangalore",
@@ -4191,17 +3049,7 @@
                 "Siddarth Kaul (sh)"
             ],
             "transfers": 0,
-            "freeTransfer": true,
             "matchId": 7913,
-            "transfersRemaining": 33,
-            "stealthList": [
-                7922,
-                7924
-            ],
-            "doublePointsList": [
-                7922,
-                7924
-            ],
             "matchDescription": "sh vs csk",
             "teams": [
                 "sunrisers-hyderabad",
@@ -4226,17 +3074,7 @@
                 "Rohit Sharma (mi)"
             ],
             "transfers": 2,
-            "freeTransfer": true,
             "matchId": 7914,
-            "transfersRemaining": 33,
-            "stealthList": [
-                7922,
-                7924
-            ],
-            "doublePointsList": [
-                7922,
-                7924
-            ],
             "matchDescription": "rr vs mi",
             "teams": [
                 "rajasthan-royals",
@@ -4261,17 +3099,7 @@
                 "Rishabh Pant (dd)"
             ],
             "transfers": 1,
-            "freeTransfer": true,
             "matchId": 7915,
-            "transfersRemaining": 33,
-            "stealthList": [
-                7922,
-                7924
-            ],
-            "doublePointsList": [
-                7922,
-                7924
-            ],
             "matchDescription": "dd vs kxp",
             "teams": [
                 "delhi-daredevils",
@@ -4296,17 +3124,7 @@
                 "Shikhar Dhawan (sh)"
             ],
             "transfers": 1,
-            "freeTransfer": true,
             "matchId": 7916,
-            "transfersRemaining": 33,
-            "stealthList": [
-                7922,
-                7924
-            ],
-            "doublePointsList": [
-                7922,
-                7924
-            ],
             "matchDescription": "mi vs sh",
             "teams": [
                 "mumbai-indians",
@@ -4331,17 +3149,7 @@
                 "Ab De Villiers (rcb)"
             ],
             "transfers": 2,
-            "freeTransfer": true,
             "matchId": 7917,
-            "transfersRemaining": 33,
-            "stealthList": [
-                7922,
-                7924
-            ],
-            "doublePointsList": [
-                7922,
-                7924
-            ],
             "matchDescription": "rcb vs csk",
             "teams": [
                 "royal-challengers-bangalore",
@@ -4366,17 +3174,7 @@
                 "Chris Gayle (kxp)"
             ],
             "transfers": 1,
-            "freeTransfer": true,
             "matchId": 7918,
-            "transfersRemaining": 33,
-            "stealthList": [
-                7922,
-                7924
-            ],
-            "doublePointsList": [
-                7922,
-                7924
-            ],
             "matchDescription": "sh vs kxp",
             "teams": [
                 "sunrisers-hyderabad",
@@ -4401,17 +3199,7 @@
                 "Shreyas Iyer (dd)"
             ],
             "transfers": 2,
-            "freeTransfer": true,
             "matchId": 7919,
-            "transfersRemaining": 33,
-            "stealthList": [
-                7922,
-                7924
-            ],
-            "doublePointsList": [
-                7922,
-                7924
-            ],
             "matchDescription": "dd vs kkr",
             "teams": [
                 "delhi-daredevils",
@@ -4436,17 +3224,7 @@
                 "Suryakumar Yadav (mi)"
             ],
             "transfers": 1,
-            "freeTransfer": true,
             "matchId": 7920,
-            "transfersRemaining": 33,
-            "stealthList": [
-                7922,
-                7924
-            ],
-            "doublePointsList": [
-                7922,
-                7924
-            ],
             "matchDescription": "csk vs mi",
             "teams": [
                 "chennai-super-kings",
@@ -4471,17 +3249,7 @@
                 "Nitish Rana (kkr)"
             ],
             "transfers": 0,
-            "freeTransfer": true,
             "matchId": 7921,
-            "transfersRemaining": 33,
-            "stealthList": [
-                7922,
-                7924
-            ],
-            "doublePointsList": [
-                7922,
-                7924
-            ],
             "matchDescription": "rr vs sh",
             "teams": [
                 "rajasthan-royals",
@@ -4506,17 +3274,7 @@
                 "Quinton De Kock (rcb)"
             ],
             "transfers": 3,
-            "freeTransfer": true,
             "matchId": 7922,
-            "transfersRemaining": 33,
-            "stealthList": [
-                7922,
-                7924
-            ],
-            "doublePointsList": [
-                7922,
-                7924
-            ],
             "matchDescription": "rcb vs kkr",
             "teams": [
                 "royal-challengers-bangalore",
@@ -4541,17 +3299,7 @@
                 "Suryakumar Yadav (mi)"
             ],
             "transfers": 1,
-            "freeTransfer": true,
             "matchId": 7923,
-            "transfersRemaining": 33,
-            "stealthList": [
-                7922,
-                7924
-            ],
-            "doublePointsList": [
-                7922,
-                7924
-            ],
             "matchDescription": "csk vs dd",
             "teams": [
                 "chennai-super-kings",
@@ -4576,17 +3324,7 @@
                 "Krunal Pandya (mi)"
             ],
             "transfers": 1,
-            "freeTransfer": true,
             "matchId": 7924,
-            "transfersRemaining": 33,
-            "stealthList": [
-                7922,
-                7924
-            ],
-            "doublePointsList": [
-                7922,
-                7924
-            ],
             "matchDescription": "rcb vs mi",
             "teams": [
                 "royal-challengers-bangalore",
@@ -4611,17 +3349,7 @@
                 "Krishnappa Gowtham (rr)"
             ],
             "transfers": 1,
-            "freeTransfer": true,
             "matchId": 7925,
-            "transfersRemaining": 33,
-            "stealthList": [
-                7922,
-                7924
-            ],
-            "doublePointsList": [
-                7922,
-                7924
-            ],
             "matchDescription": "dd vs rr",
             "teams": [
                 "delhi-daredevils",
@@ -4646,17 +3374,7 @@
                 "Shubman Gill (kkr)"
             ],
             "transfers": 0,
-            "freeTransfer": true,
             "matchId": 7926,
-            "transfersRemaining": 33,
-            "stealthList": [
-                7922,
-                7924
-            ],
-            "doublePointsList": [
-                7922,
-                7924
-            ],
             "matchDescription": "kkr vs csk",
             "teams": [
                 "kolkata-knight-riders",
@@ -4681,17 +3399,7 @@
                 "Shubman Gill (kkr)"
             ],
             "transfers": 0,
-            "freeTransfer": true,
             "matchId": 7926,
-            "transfersRemaining": 33,
-            "stealthList": [
-                7922,
-                7924
-            ],
-            "doublePointsList": [
-                7922,
-                7924
-            ],
             "matchDescription": "kxp vs mi",
             "teams": [
                 "kings-xi-punjab",
@@ -4718,17 +3426,7 @@
                 "Evin Lewis (mi)"
             ],
             "transfers": 16,
-            "freeTransfer": true,
             "matchId": 7894,
-            "transfersRemaining": 33,
-            "stealthList": [
-                7900,
-                7915,
-                7922
-            ],
-            "doublePointsList": [
-                7922
-            ],
             "matchDescription": "mi vs csk",
             "teams": [
                 "mumbai-indians",
@@ -4753,17 +3451,7 @@
                 "Ab De Villiers (rcb)"
             ],
             "transfers": 4,
-            "freeTransfer": true,
             "matchId": 7895,
-            "transfersRemaining": 33,
-            "stealthList": [
-                7900,
-                7915,
-                7922
-            ],
-            "doublePointsList": [
-                7922
-            ],
             "matchDescription": "kxp vs dd",
             "teams": [
                 "kings-xi-punjab",
@@ -4788,17 +3476,7 @@
                 "Ab De Villiers (rcb)"
             ],
             "transfers": 4,
-            "freeTransfer": true,
             "matchId": 7895,
-            "transfersRemaining": 33,
-            "stealthList": [
-                7900,
-                7915,
-                7922
-            ],
-            "doublePointsList": [
-                7922
-            ],
             "matchDescription": "kkr vs rcb",
             "teams": [
                 "kolkata-knight-riders",
@@ -4823,17 +3501,7 @@
                 "Wriddhiman Saha (sh)"
             ],
             "transfers": 2,
-            "freeTransfer": false,
             "matchId": 7897,
-            "transfersRemaining": 33,
-            "stealthList": [
-                7900,
-                7915,
-                7922
-            ],
-            "doublePointsList": [
-                7922
-            ],
             "matchDescription": "sh vs rr",
             "teams": [
                 "sunrisers-hyderabad",
@@ -4858,17 +3526,7 @@
                 "Dinesh Karthik (kkr)"
             ],
             "transfers": 3,
-            "freeTransfer": false,
             "matchId": 7898,
-            "transfersRemaining": 33,
-            "stealthList": [
-                7900,
-                7915,
-                7922
-            ],
-            "doublePointsList": [
-                7922
-            ],
             "matchDescription": "csk vs kkr",
             "teams": [
                 "chennai-super-kings",
@@ -4893,17 +3551,7 @@
                 "Dinesh Karthik (kkr)"
             ],
             "transfers": 0,
-            "freeTransfer": false,
             "matchId": 7899,
-            "transfersRemaining": 33,
-            "stealthList": [
-                7900,
-                7915,
-                7922
-            ],
-            "doublePointsList": [
-                7922
-            ],
             "matchDescription": "rr vs dd",
             "teams": [
                 "rajasthan-royals",
@@ -4928,17 +3576,7 @@
                 "Krunal Pandya (mi)"
             ],
             "transfers": 6,
-            "freeTransfer": true,
             "matchId": 7900,
-            "transfersRemaining": 33,
-            "stealthList": [
-                7900,
-                7915,
-                7922
-            ],
-            "doublePointsList": [
-                7922
-            ],
             "matchDescription": "sh vs mi",
             "teams": [
                 "sunrisers-hyderabad",
@@ -4963,17 +3601,7 @@
                 "Aaron Finch (kxp)"
             ],
             "transfers": 1,
-            "freeTransfer": true,
             "matchId": 7901,
-            "transfersRemaining": 33,
-            "stealthList": [
-                7900,
-                7915,
-                7922
-            ],
-            "doublePointsList": [
-                7922
-            ],
             "matchDescription": "rcb vs kxp",
             "teams": [
                 "royal-challengers-bangalore",
@@ -4998,17 +3626,7 @@
                 "Chris Morris (dd)"
             ],
             "transfers": 1,
-            "freeTransfer": true,
             "matchId": 7902,
-            "transfersRemaining": 33,
-            "stealthList": [
-                7900,
-                7915,
-                7922
-            ],
-            "doublePointsList": [
-                7922
-            ],
             "matchDescription": "mi vs dd",
             "teams": [
                 "mumbai-indians",
@@ -5033,17 +3651,7 @@
                 "Siddarth Kaul (sh)"
             ],
             "transfers": 1,
-            "freeTransfer": true,
             "matchId": 7903,
-            "transfersRemaining": 33,
-            "stealthList": [
-                7900,
-                7915,
-                7922
-            ],
-            "doublePointsList": [
-                7922
-            ],
             "matchDescription": "kkr vs sh",
             "teams": [
                 "kolkata-knight-riders",
@@ -5068,17 +3676,7 @@
                 "Kulwant Khejroliya (rcb)"
             ],
             "transfers": 1,
-            "freeTransfer": true,
             "matchId": 7904,
-            "transfersRemaining": 33,
-            "stealthList": [
-                7900,
-                7915,
-                7922
-            ],
-            "doublePointsList": [
-                7922
-            ],
             "matchDescription": "rcb vs rr",
             "teams": [
                 "royal-challengers-bangalore",
@@ -5103,17 +3701,7 @@
                 "Deepak Chahar (csk)"
             ],
             "transfers": 1,
-            "freeTransfer": true,
             "matchId": 7905,
-            "transfersRemaining": 33,
-            "stealthList": [
-                7900,
-                7915,
-                7922
-            ],
-            "doublePointsList": [
-                7922
-            ],
             "matchDescription": "kxp vs csk",
             "teams": [
                 "kings-xi-punjab",
@@ -5138,17 +3726,7 @@
                 "Kulwant Khejroliya (rcb)"
             ],
             "transfers": 1,
-            "freeTransfer": true,
             "matchId": 7906,
-            "transfersRemaining": 33,
-            "stealthList": [
-                7900,
-                7915,
-                7922
-            ],
-            "doublePointsList": [
-                7922
-            ],
             "matchDescription": "kkr vs dd",
             "teams": [
                 "kolkata-knight-riders",
@@ -5173,17 +3751,7 @@
                 "Krunal Pandya (mi)"
             ],
             "transfers": 0,
-            "freeTransfer": true,
             "matchId": 7907,
-            "transfersRemaining": 33,
-            "stealthList": [
-                7900,
-                7915,
-                7922
-            ],
-            "doublePointsList": [
-                7922
-            ],
             "matchDescription": "mi vs rcb",
             "teams": [
                 "mumbai-indians",
@@ -5208,17 +3776,7 @@
                 "Shreyas Gopal (rr)"
             ],
             "transfers": 2,
-            "freeTransfer": true,
             "matchId": 7908,
-            "transfersRemaining": 33,
-            "stealthList": [
-                7900,
-                7915,
-                7922
-            ],
-            "doublePointsList": [
-                7922
-            ],
             "matchDescription": "rr vs kkr",
             "teams": [
                 "rajasthan-royals",
@@ -5243,17 +3801,7 @@
                 "Shakib Al Hasan (sh)"
             ],
             "transfers": 2,
-            "freeTransfer": true,
             "matchId": 7909,
-            "transfersRemaining": 33,
-            "stealthList": [
-                7900,
-                7915,
-                7922
-            ],
-            "doublePointsList": [
-                7922
-            ],
             "matchDescription": "kxp vs sh",
             "teams": [
                 "kings-xi-punjab",
@@ -5278,17 +3826,7 @@
                 "Rahul Tripathi (rr)"
             ],
             "transfers": 1,
-            "freeTransfer": true,
             "matchId": 7910,
-            "transfersRemaining": 33,
-            "stealthList": [
-                7900,
-                7915,
-                7922
-            ],
-            "doublePointsList": [
-                7922
-            ],
             "matchDescription": "csk vs rr",
             "teams": [
                 "chennai-super-kings",
@@ -5313,17 +3851,7 @@
                 "Nitish Rana (kkr)"
             ],
             "transfers": 0,
-            "freeTransfer": true,
             "matchId": 7911,
-            "transfersRemaining": 33,
-            "stealthList": [
-                7900,
-                7915,
-                7922
-            ],
-            "doublePointsList": [
-                7922
-            ],
             "matchDescription": "kkr vs kxp",
             "teams": [
                 "kolkata-knight-riders",
@@ -5348,17 +3876,7 @@
                 "Rahul Tewatia (dd)"
             ],
             "transfers": 1,
-            "freeTransfer": true,
             "matchId": 7912,
-            "transfersRemaining": 33,
-            "stealthList": [
-                7900,
-                7915,
-                7922
-            ],
-            "doublePointsList": [
-                7922
-            ],
             "matchDescription": "rcb vs dd",
             "teams": [
                 "royal-challengers-bangalore",
@@ -5383,17 +3901,7 @@
                 "Siddarth Kaul (sh)"
             ],
             "transfers": 1,
-            "freeTransfer": true,
             "matchId": 7913,
-            "transfersRemaining": 33,
-            "stealthList": [
-                7900,
-                7915,
-                7922
-            ],
-            "doublePointsList": [
-                7922
-            ],
             "matchDescription": "sh vs csk",
             "teams": [
                 "sunrisers-hyderabad",
@@ -5418,17 +3926,7 @@
                 "Krunal Pandya (mi)"
             ],
             "transfers": 0,
-            "freeTransfer": true,
             "matchId": 7914,
-            "transfersRemaining": 33,
-            "stealthList": [
-                7900,
-                7915,
-                7922
-            ],
-            "doublePointsList": [
-                7922
-            ],
             "matchDescription": "rr vs mi",
             "teams": [
                 "rajasthan-royals",
@@ -5453,17 +3951,7 @@
                 "Shreyas Iyer (dd)"
             ],
             "transfers": 2,
-            "freeTransfer": true,
             "matchId": 7915,
-            "transfersRemaining": 33,
-            "stealthList": [
-                7900,
-                7915,
-                7922
-            ],
-            "doublePointsList": [
-                7922
-            ],
             "matchDescription": "dd vs kxp",
             "teams": [
                 "delhi-daredevils",
@@ -5488,17 +3976,7 @@
                 "Ishan Kishan (mi)"
             ],
             "transfers": 0,
-            "freeTransfer": true,
             "matchId": 7916,
-            "transfersRemaining": 33,
-            "stealthList": [
-                7900,
-                7915,
-                7922
-            ],
-            "doublePointsList": [
-                7922
-            ],
             "matchDescription": "mi vs sh",
             "teams": [
                 "mumbai-indians",
@@ -5523,17 +4001,7 @@
                 "Ankit Rajpoot (kxp)"
             ],
             "transfers": 2,
-            "freeTransfer": true,
             "matchId": 7917,
-            "transfersRemaining": 33,
-            "stealthList": [
-                7900,
-                7915,
-                7922
-            ],
-            "doublePointsList": [
-                7922
-            ],
             "matchDescription": "rcb vs csk",
             "teams": [
                 "royal-challengers-bangalore",
@@ -5558,17 +4026,7 @@
                 "Siddarth Kaul (sh)"
             ],
             "transfers": 0,
-            "freeTransfer": true,
             "matchId": 7918,
-            "transfersRemaining": 33,
-            "stealthList": [
-                7900,
-                7915,
-                7922
-            ],
-            "doublePointsList": [
-                7922
-            ],
             "matchDescription": "sh vs kxp",
             "teams": [
                 "sunrisers-hyderabad",
@@ -5593,17 +4051,7 @@
                 "Chris Lynn (kkr)"
             ],
             "transfers": 2,
-            "freeTransfer": true,
             "matchId": 7919,
-            "transfersRemaining": 33,
-            "stealthList": [
-                7900,
-                7915,
-                7922
-            ],
-            "doublePointsList": [
-                7922
-            ],
             "matchDescription": "dd vs kkr",
             "teams": [
                 "delhi-daredevils",
@@ -5628,17 +4076,7 @@
                 "Ishan Kishan (mi)"
             ],
             "transfers": 0,
-            "freeTransfer": true,
             "matchId": 7920,
-            "transfersRemaining": 33,
-            "stealthList": [
-                7900,
-                7915,
-                7922
-            ],
-            "doublePointsList": [
-                7922
-            ],
             "matchDescription": "csk vs mi",
             "teams": [
                 "chennai-super-kings",
@@ -5663,17 +4101,7 @@
                 "Siddarth Kaul (sh)"
             ],
             "transfers": 1,
-            "freeTransfer": true,
             "matchId": 7921,
-            "transfersRemaining": 33,
-            "stealthList": [
-                7900,
-                7915,
-                7922
-            ],
-            "doublePointsList": [
-                7922
-            ],
             "matchDescription": "rr vs sh",
             "teams": [
                 "rajasthan-royals",
@@ -5698,17 +4126,7 @@
                 "Andre Russell (kkr)"
             ],
             "transfers": 2,
-            "freeTransfer": true,
             "matchId": 7922,
-            "transfersRemaining": 33,
-            "stealthList": [
-                7900,
-                7915,
-                7922
-            ],
-            "doublePointsList": [
-                7922
-            ],
             "matchDescription": "rcb vs kkr",
             "teams": [
                 "royal-challengers-bangalore",
@@ -5733,17 +4151,7 @@
                 "Ambati Rayudu (csk)"
             ],
             "transfers": 1,
-            "freeTransfer": true,
             "matchId": 7923,
-            "transfersRemaining": 33,
-            "stealthList": [
-                7900,
-                7915,
-                7922
-            ],
-            "doublePointsList": [
-                7922
-            ],
             "matchDescription": "csk vs dd",
             "teams": [
                 "chennai-super-kings",
@@ -5768,17 +4176,7 @@
                 "Krunal Pandya (mi)"
             ],
             "transfers": 1,
-            "freeTransfer": true,
             "matchId": 7924,
-            "transfersRemaining": 33,
-            "stealthList": [
-                7900,
-                7915,
-                7922
-            ],
-            "doublePointsList": [
-                7922
-            ],
             "matchDescription": "rcb vs mi",
             "teams": [
                 "royal-challengers-bangalore",
@@ -5803,17 +4201,7 @@
                 "Jofra Archer (rr)"
             ],
             "transfers": 1,
-            "freeTransfer": false,
             "matchId": 7925,
-            "transfersRemaining": 33,
-            "stealthList": [
-                7900,
-                7915,
-                7922
-            ],
-            "doublePointsList": [
-                7922
-            ],
             "matchDescription": "dd vs rr",
             "teams": [
                 "delhi-daredevils",
@@ -5838,17 +4226,7 @@
                 "Lungi Ngidi (csk)"
             ],
             "transfers": 2,
-            "freeTransfer": true,
             "matchId": 7926,
-            "transfersRemaining": 33,
-            "stealthList": [
-                7900,
-                7915,
-                7922
-            ],
-            "doublePointsList": [
-                7922
-            ],
             "matchDescription": "kkr vs csk",
             "teams": [
                 "kolkata-knight-riders",
@@ -5873,17 +4251,7 @@
                 "Lungi Ngidi (csk)"
             ],
             "transfers": 2,
-            "freeTransfer": true,
             "matchId": 7926,
-            "transfersRemaining": 33,
-            "stealthList": [
-                7900,
-                7915,
-                7922
-            ],
-            "doublePointsList": [
-                7922
-            ],
             "matchDescription": "kxp vs mi",
             "teams": [
                 "kings-xi-punjab",
@@ -5910,13 +4278,7 @@
                 "Harbhajan Singh (csk)"
             ],
             "transfers": 1,
-            "freeTransfer": false,
             "matchId": 7894,
-            "transfersRemaining": 44,
-            "stealthList": [
-                7900
-            ],
-            "doublePointsList": [],
             "matchDescription": "mi vs csk",
             "teams": [
                 "mumbai-indians",
@@ -5941,13 +4303,7 @@
                 "Harbhajan Singh (csk)"
             ],
             "transfers": 1,
-            "freeTransfer": false,
             "matchId": 7894,
-            "transfersRemaining": 44,
-            "stealthList": [
-                7900
-            ],
-            "doublePointsList": [],
             "matchDescription": "kxp vs dd",
             "teams": [
                 "kings-xi-punjab",
@@ -5972,13 +4328,7 @@
                 "Harbhajan Singh (csk)"
             ],
             "transfers": 1,
-            "freeTransfer": false,
             "matchId": 7894,
-            "transfersRemaining": 44,
-            "stealthList": [
-                7900
-            ],
-            "doublePointsList": [],
             "matchDescription": "kkr vs rcb",
             "teams": [
                 "kolkata-knight-riders",
@@ -6003,13 +4353,7 @@
                 "Alex Hales (sh)"
             ],
             "transfers": 4,
-            "freeTransfer": false,
             "matchId": 7897,
-            "transfersRemaining": 44,
-            "stealthList": [
-                7900
-            ],
-            "doublePointsList": [],
             "matchDescription": "sh vs rr",
             "teams": [
                 "sunrisers-hyderabad",
@@ -6034,13 +4378,7 @@
                 "Sunil Narine (kkr)"
             ],
             "transfers": 1,
-            "freeTransfer": true,
             "matchId": 7898,
-            "transfersRemaining": 44,
-            "stealthList": [
-                7900
-            ],
-            "doublePointsList": [],
             "matchDescription": "csk vs kkr",
             "teams": [
                 "chennai-super-kings",
@@ -6065,13 +4403,7 @@
                 "Glenn Maxwell (dd)"
             ],
             "transfers": 1,
-            "freeTransfer": true,
             "matchId": 7899,
-            "transfersRemaining": 44,
-            "stealthList": [
-                7900
-            ],
-            "doublePointsList": [],
             "matchDescription": "rr vs dd",
             "teams": [
                 "rajasthan-royals",
@@ -6096,13 +4428,7 @@
                 "Siddarth Kaul (sh)"
             ],
             "transfers": 2,
-            "freeTransfer": true,
             "matchId": 7900,
-            "transfersRemaining": 44,
-            "stealthList": [
-                7900
-            ],
-            "doublePointsList": [],
             "matchDescription": "sh vs mi",
             "teams": [
                 "sunrisers-hyderabad",
@@ -6127,13 +4453,7 @@
                 "Mujeeb Ur Rahman (kxp)"
             ],
             "transfers": 1,
-            "freeTransfer": true,
             "matchId": 7901,
-            "transfersRemaining": 44,
-            "stealthList": [
-                7900
-            ],
-            "doublePointsList": [],
             "matchDescription": "rcb vs kxp",
             "teams": [
                 "royal-challengers-bangalore",
@@ -6158,13 +4478,7 @@
                 "Shahbaz Nadeem (dd)"
             ],
             "transfers": 0,
-            "freeTransfer": true,
             "matchId": 7902,
-            "transfersRemaining": 44,
-            "stealthList": [
-                7900
-            ],
-            "doublePointsList": [],
             "matchDescription": "mi vs dd",
             "teams": [
                 "mumbai-indians",
@@ -6189,13 +4503,7 @@
                 "Robin Uthappa (kkr)"
             ],
             "transfers": 1,
-            "freeTransfer": true,
             "matchId": 7903,
-            "transfersRemaining": 44,
-            "stealthList": [
-                7900
-            ],
-            "doublePointsList": [],
             "matchDescription": "kkr vs sh",
             "teams": [
                 "kolkata-knight-riders",
@@ -6220,13 +4528,7 @@
                 "Virat Kohli (rcb)"
             ],
             "transfers": 1,
-            "freeTransfer": true,
             "matchId": 7904,
-            "transfersRemaining": 44,
-            "stealthList": [
-                7900
-            ],
-            "doublePointsList": [],
             "matchDescription": "rcb vs rr",
             "teams": [
                 "royal-challengers-bangalore",
@@ -6251,13 +4553,7 @@
                 "Virat Kohli (rcb)"
             ],
             "transfers": 0,
-            "freeTransfer": false,
             "matchId": 7905,
-            "transfersRemaining": 44,
-            "stealthList": [
-                7900
-            ],
-            "doublePointsList": [],
             "matchDescription": "kxp vs csk",
             "teams": [
                 "kings-xi-punjab",
@@ -6282,13 +4578,7 @@
                 "Jason Roy (dd)"
             ],
             "transfers": 1,
-            "freeTransfer": true,
             "matchId": 7906,
-            "transfersRemaining": 44,
-            "stealthList": [
-                7900
-            ],
-            "doublePointsList": [],
             "matchDescription": "kkr vs dd",
             "teams": [
                 "kolkata-knight-riders",
@@ -6313,13 +4603,7 @@
                 "Krunal Pandya (mi)"
             ],
             "transfers": 1,
-            "freeTransfer": true,
             "matchId": 7907,
-            "transfersRemaining": 44,
-            "stealthList": [
-                7900
-            ],
-            "doublePointsList": [],
             "matchDescription": "mi vs rcb",
             "teams": [
                 "mumbai-indians",
@@ -6344,13 +4628,7 @@
                 "Sunil Narine (kkr)"
             ],
             "transfers": 2,
-            "freeTransfer": true,
             "matchId": 7908,
-            "transfersRemaining": 44,
-            "stealthList": [
-                7900
-            ],
-            "doublePointsList": [],
             "matchDescription": "rr vs kkr",
             "teams": [
                 "rajasthan-royals",
@@ -6375,13 +4653,7 @@
                 "Shakib Al Hasan (sh)"
             ],
             "transfers": 2,
-            "freeTransfer": true,
             "matchId": 7909,
-            "transfersRemaining": 44,
-            "stealthList": [
-                7900
-            ],
-            "doublePointsList": [],
             "matchDescription": "kxp vs sh",
             "teams": [
                 "kings-xi-punjab",
@@ -6406,13 +4678,7 @@
                 "Deepak Chahar (csk)"
             ],
             "transfers": 2,
-            "freeTransfer": true,
             "matchId": 7910,
-            "transfersRemaining": 44,
-            "stealthList": [
-                7900
-            ],
-            "doublePointsList": [],
             "matchDescription": "csk vs rr",
             "teams": [
                 "chennai-super-kings",
@@ -6437,13 +4703,7 @@
                 "Lokesh Rahul (kxp)"
             ],
             "transfers": 1,
-            "freeTransfer": true,
             "matchId": 7911,
-            "transfersRemaining": 44,
-            "stealthList": [
-                7900
-            ],
-            "doublePointsList": [],
             "matchDescription": "kkr vs kxp",
             "teams": [
                 "kolkata-knight-riders",
@@ -6468,13 +4728,7 @@
                 "Virat Kohli (rcb)"
             ],
             "transfers": 1,
-            "freeTransfer": true,
             "matchId": 7912,
-            "transfersRemaining": 44,
-            "stealthList": [
-                7900
-            ],
-            "doublePointsList": [],
             "matchDescription": "rcb vs dd",
             "teams": [
                 "royal-challengers-bangalore",
@@ -6499,13 +4753,7 @@
                 "Deepak Chahar (csk)"
             ],
             "transfers": 0,
-            "freeTransfer": true,
             "matchId": 7913,
-            "transfersRemaining": 44,
-            "stealthList": [
-                7900
-            ],
-            "doublePointsList": [],
             "matchDescription": "sh vs csk",
             "teams": [
                 "sunrisers-hyderabad",
@@ -6530,13 +4778,7 @@
                 "Krunal Pandya (mi)"
             ],
             "transfers": 2,
-            "freeTransfer": true,
             "matchId": 7914,
-            "transfersRemaining": 44,
-            "stealthList": [
-                7900
-            ],
-            "doublePointsList": [],
             "matchDescription": "rr vs mi",
             "teams": [
                 "rajasthan-royals",
@@ -6561,13 +4803,7 @@
                 "Rishabh Pant (dd)"
             ],
             "transfers": 1,
-            "freeTransfer": true,
             "matchId": 7915,
-            "transfersRemaining": 44,
-            "stealthList": [
-                7900
-            ],
-            "doublePointsList": [],
             "matchDescription": "dd vs kxp",
             "teams": [
                 "delhi-daredevils",
@@ -6592,13 +4828,7 @@
                 "Siddarth Kaul (sh)"
             ],
             "transfers": 0,
-            "freeTransfer": true,
             "matchId": 7916,
-            "transfersRemaining": 44,
-            "stealthList": [
-                7900
-            ],
-            "doublePointsList": [],
             "matchDescription": "mi vs sh",
             "teams": [
                 "mumbai-indians",
@@ -6623,13 +4853,7 @@
                 "Ab De Villiers (rcb)"
             ],
             "transfers": 2,
-            "freeTransfer": true,
             "matchId": 7917,
-            "transfersRemaining": 44,
-            "stealthList": [
-                7900
-            ],
-            "doublePointsList": [],
             "matchDescription": "rcb vs csk",
             "teams": [
                 "royal-challengers-bangalore",
@@ -6654,13 +4878,7 @@
                 "Ankit Rajpoot (kxp)"
             ],
             "transfers": 0,
-            "freeTransfer": true,
             "matchId": 7918,
-            "transfersRemaining": 44,
-            "stealthList": [
-                7900
-            ],
-            "doublePointsList": [],
             "matchDescription": "sh vs kxp",
             "teams": [
                 "sunrisers-hyderabad",
@@ -6685,13 +4903,7 @@
                 "Andre Russell (kkr)"
             ],
             "transfers": 1,
-            "freeTransfer": true,
             "matchId": 7919,
-            "transfersRemaining": 44,
-            "stealthList": [
-                7900
-            ],
-            "doublePointsList": [],
             "matchDescription": "dd vs kkr",
             "teams": [
                 "delhi-daredevils",
@@ -6716,13 +4928,7 @@
                 "Krunal Pandya (mi)"
             ],
             "transfers": 0,
-            "freeTransfer": true,
             "matchId": 7920,
-            "transfersRemaining": 44,
-            "stealthList": [
-                7900
-            ],
-            "doublePointsList": [],
             "matchDescription": "csk vs mi",
             "teams": [
                 "chennai-super-kings",
@@ -6747,13 +4953,7 @@
                 "Krishnappa Gowtham (rr)"
             ],
             "transfers": 0,
-            "freeTransfer": true,
             "matchId": 7921,
-            "transfersRemaining": 44,
-            "stealthList": [
-                7900
-            ],
-            "doublePointsList": [],
             "matchDescription": "rr vs sh",
             "teams": [
                 "rajasthan-royals",
@@ -6778,13 +4978,7 @@
                 "Murugan Ashwin (rcb)"
             ],
             "transfers": 0,
-            "freeTransfer": true,
             "matchId": 7922,
-            "transfersRemaining": 44,
-            "stealthList": [
-                7900
-            ],
-            "doublePointsList": [],
             "matchDescription": "rcb vs kkr",
             "teams": [
                 "royal-challengers-bangalore",
@@ -6809,13 +5003,7 @@
                 "Colin Munro (dd)"
             ],
             "transfers": 1,
-            "freeTransfer": true,
             "matchId": 7923,
-            "transfersRemaining": 44,
-            "stealthList": [
-                7900
-            ],
-            "doublePointsList": [],
             "matchDescription": "csk vs dd",
             "teams": [
                 "chennai-super-kings",
@@ -6840,13 +5028,7 @@
                 "Brendon Mccullum (rcb)"
             ],
             "transfers": 1,
-            "freeTransfer": true,
             "matchId": 7924,
-            "transfersRemaining": 44,
-            "stealthList": [
-                7900
-            ],
-            "doublePointsList": [],
             "matchDescription": "rcb vs mi",
             "teams": [
                 "royal-challengers-bangalore",
@@ -6871,13 +5053,7 @@
                 "Krishnappa Gowtham (rr)"
             ],
             "transfers": 1,
-            "freeTransfer": true,
             "matchId": 7925,
-            "transfersRemaining": 44,
-            "stealthList": [
-                7900
-            ],
-            "doublePointsList": [],
             "matchDescription": "dd vs rr",
             "teams": [
                 "delhi-daredevils",
@@ -6902,13 +5078,7 @@
                 "Robin Uthappa (kkr)"
             ],
             "transfers": 1,
-            "freeTransfer": true,
             "matchId": 7926,
-            "transfersRemaining": 44,
-            "stealthList": [
-                7900
-            ],
-            "doublePointsList": [],
             "matchDescription": "kkr vs csk",
             "teams": [
                 "kolkata-knight-riders",
@@ -6933,13 +5103,7 @@
                 "Robin Uthappa (kkr)"
             ],
             "transfers": 1,
-            "freeTransfer": true,
             "matchId": 7926,
-            "transfersRemaining": 44,
-            "stealthList": [
-                7900
-            ],
-            "doublePointsList": [],
             "matchDescription": "kxp vs mi",
             "teams": [
                 "kings-xi-punjab",
@@ -6966,13 +5130,7 @@
                 "Andre Russell (kkr)"
             ],
             "transfers": 7,
-            "freeTransfer": true,
             "matchId": 7894,
-            "transfersRemaining": 35,
-            "stealthList": [],
-            "doublePointsList": [
-                7926
-            ],
             "matchDescription": "mi vs csk",
             "teams": [
                 "mumbai-indians",
@@ -6997,13 +5155,7 @@
                 "Andre Russell (kkr)"
             ],
             "transfers": 0,
-            "freeTransfer": false,
             "matchId": 7895,
-            "transfersRemaining": 35,
-            "stealthList": [],
-            "doublePointsList": [
-                7926
-            ],
             "matchDescription": "kxp vs dd",
             "teams": [
                 "kings-xi-punjab",
@@ -7028,13 +5180,7 @@
                 "Andre Russell (kkr)"
             ],
             "transfers": 0,
-            "freeTransfer": false,
             "matchId": 7896,
-            "transfersRemaining": 35,
-            "stealthList": [],
-            "doublePointsList": [
-                7926
-            ],
             "matchDescription": "kkr vs rcb",
             "teams": [
                 "kolkata-knight-riders",
@@ -7059,13 +5205,7 @@
                 "Bhuvneshwar Kumar (sh)"
             ],
             "transfers": 5,
-            "freeTransfer": true,
             "matchId": 7897,
-            "transfersRemaining": 35,
-            "stealthList": [],
-            "doublePointsList": [
-                7926
-            ],
             "matchDescription": "sh vs rr",
             "teams": [
                 "sunrisers-hyderabad",
@@ -7090,13 +5230,7 @@
                 "Nitish Rana (kkr)"
             ],
             "transfers": 0,
-            "freeTransfer": true,
             "matchId": 7898,
-            "transfersRemaining": 35,
-            "stealthList": [],
-            "doublePointsList": [
-                7926
-            ],
             "matchDescription": "csk vs kkr",
             "teams": [
                 "chennai-super-kings",
@@ -7121,13 +5255,7 @@
                 "Gautam Gambhir (dd)"
             ],
             "transfers": 2,
-            "freeTransfer": false,
             "matchId": 7899,
-            "transfersRemaining": 35,
-            "stealthList": [],
-            "doublePointsList": [
-                7926
-            ],
             "matchDescription": "rr vs dd",
             "teams": [
                 "rajasthan-royals",
@@ -7152,13 +5280,7 @@
                 "Suryakumar Yadav (mi)"
             ],
             "transfers": 1,
-            "freeTransfer": true,
             "matchId": 7900,
-            "transfersRemaining": 35,
-            "stealthList": [],
-            "doublePointsList": [
-                7926
-            ],
             "matchDescription": "sh vs mi",
             "teams": [
                 "sunrisers-hyderabad",
@@ -7183,13 +5305,7 @@
                 "Mohit Sharma (kxp)"
             ],
             "transfers": 3,
-            "freeTransfer": false,
             "matchId": 7901,
-            "transfersRemaining": 35,
-            "stealthList": [],
-            "doublePointsList": [
-                7926
-            ],
             "matchDescription": "rcb vs kxp",
             "teams": [
                 "royal-challengers-bangalore",
@@ -7214,13 +5330,7 @@
                 "Piyush Chawla (kkr)"
             ],
             "transfers": 1,
-            "freeTransfer": false,
             "matchId": 7902,
-            "transfersRemaining": 35,
-            "stealthList": [],
-            "doublePointsList": [
-                7926
-            ],
             "matchDescription": "mi vs dd",
             "teams": [
                 "mumbai-indians",
@@ -7245,13 +5355,7 @@
                 "Siddarth Kaul (sh)"
             ],
             "transfers": 0,
-            "freeTransfer": true,
             "matchId": 7903,
-            "transfersRemaining": 35,
-            "stealthList": [],
-            "doublePointsList": [
-                7926
-            ],
             "matchDescription": "kkr vs sh",
             "teams": [
                 "kolkata-knight-riders",
@@ -7276,13 +5380,7 @@
                 "Sanju Samson (rr)"
             ],
             "transfers": 2,
-            "freeTransfer": true,
             "matchId": 7904,
-            "transfersRemaining": 35,
-            "stealthList": [],
-            "doublePointsList": [
-                7926
-            ],
             "matchDescription": "rcb vs rr",
             "teams": [
                 "royal-challengers-bangalore",
@@ -7307,13 +5405,7 @@
                 "Chris Gayle (kxp)"
             ],
             "transfers": 3,
-            "freeTransfer": false,
             "matchId": 7905,
-            "transfersRemaining": 35,
-            "stealthList": [],
-            "doublePointsList": [
-                7926
-            ],
             "matchDescription": "kxp vs csk",
             "teams": [
                 "kings-xi-punjab",
@@ -7338,13 +5430,7 @@
                 "Chris Gayle (kxp)"
             ],
             "transfers": 0,
-            "freeTransfer": false,
             "matchId": 7906,
-            "transfersRemaining": 35,
-            "stealthList": [],
-            "doublePointsList": [
-                7926
-            ],
             "matchDescription": "kkr vs dd",
             "teams": [
                 "kolkata-knight-riders",
@@ -7369,13 +5455,7 @@
                 "Ishan Kishan (mi)"
             ],
             "transfers": 2,
-            "freeTransfer": true,
             "matchId": 7907,
-            "transfersRemaining": 35,
-            "stealthList": [],
-            "doublePointsList": [
-                7926
-            ],
             "matchDescription": "mi vs rcb",
             "teams": [
                 "mumbai-indians",
@@ -7400,13 +5480,7 @@
                 "Krishnappa Gowtham (rr)"
             ],
             "transfers": 1,
-            "freeTransfer": true,
             "matchId": 7908,
-            "transfersRemaining": 35,
-            "stealthList": [],
-            "doublePointsList": [
-                7926
-            ],
             "matchDescription": "rr vs kkr",
             "teams": [
                 "rajasthan-royals",
@@ -7431,13 +5505,7 @@
                 "Siddarth Kaul (sh)"
             ],
             "transfers": 1,
-            "freeTransfer": true,
             "matchId": 7909,
-            "transfersRemaining": 35,
-            "stealthList": [],
-            "doublePointsList": [
-                7926
-            ],
             "matchDescription": "kxp vs sh",
             "teams": [
                 "kings-xi-punjab",
@@ -7462,13 +5530,7 @@
                 "Imran Tahir (csk)"
             ],
             "transfers": 2,
-            "freeTransfer": false,
             "matchId": 7910,
-            "transfersRemaining": 35,
-            "stealthList": [],
-            "doublePointsList": [
-                7926
-            ],
             "matchDescription": "csk vs rr",
             "teams": [
                 "chennai-super-kings",
@@ -7493,13 +5555,7 @@
                 "Imran Tahir (csk)"
             ],
             "transfers": 0,
-            "freeTransfer": false,
             "matchId": 7911,
-            "transfersRemaining": 35,
-            "stealthList": [],
-            "doublePointsList": [
-                7926
-            ],
             "matchDescription": "kkr vs kxp",
             "teams": [
                 "kolkata-knight-riders",
@@ -7524,13 +5580,7 @@
                 "Virat Kohli (rcb)"
             ],
             "transfers": 2,
-            "freeTransfer": true,
             "matchId": 7912,
-            "transfersRemaining": 35,
-            "stealthList": [],
-            "doublePointsList": [
-                7926
-            ],
             "matchDescription": "rcb vs dd",
             "teams": [
                 "royal-challengers-bangalore",
@@ -7555,13 +5605,7 @@
                 "Siddarth Kaul (sh)"
             ],
             "transfers": 1,
-            "freeTransfer": true,
             "matchId": 7913,
-            "transfersRemaining": 35,
-            "stealthList": [],
-            "doublePointsList": [
-                7926
-            ],
             "matchDescription": "sh vs csk",
             "teams": [
                 "sunrisers-hyderabad",
@@ -7586,13 +5630,7 @@
                 "Mayank Markande (mi)"
             ],
             "transfers": 2,
-            "freeTransfer": true,
             "matchId": 7914,
-            "transfersRemaining": 35,
-            "stealthList": [],
-            "doublePointsList": [
-                7926
-            ],
             "matchDescription": "rr vs mi",
             "teams": [
                 "rajasthan-royals",
@@ -7617,13 +5655,7 @@
                 "Aaron Finch (kxp)"
             ],
             "transfers": 2,
-            "freeTransfer": false,
             "matchId": 7915,
-            "transfersRemaining": 35,
-            "stealthList": [],
-            "doublePointsList": [
-                7926
-            ],
             "matchDescription": "dd vs kxp",
             "teams": [
                 "delhi-daredevils",
@@ -7648,13 +5680,7 @@
                 "Siddarth Kaul (sh)"
             ],
             "transfers": 2,
-            "freeTransfer": true,
             "matchId": 7916,
-            "transfersRemaining": 35,
-            "stealthList": [],
-            "doublePointsList": [
-                7926
-            ],
             "matchDescription": "mi vs sh",
             "teams": [
                 "mumbai-indians",
@@ -7679,13 +5705,7 @@
                 "Ab De Villiers (rcb)"
             ],
             "transfers": 1,
-            "freeTransfer": true,
             "matchId": 7917,
-            "transfersRemaining": 35,
-            "stealthList": [],
-            "doublePointsList": [
-                7926
-            ],
             "matchDescription": "rcb vs csk",
             "teams": [
                 "royal-challengers-bangalore",
@@ -7710,13 +5730,7 @@
                 "Ankit Rajpoot (kxp)"
             ],
             "transfers": 0,
-            "freeTransfer": true,
             "matchId": 7918,
-            "transfersRemaining": 35,
-            "stealthList": [],
-            "doublePointsList": [
-                7926
-            ],
             "matchDescription": "sh vs kxp",
             "teams": [
                 "sunrisers-hyderabad",
@@ -7741,13 +5755,7 @@
                 "Nitish Rana (kkr)"
             ],
             "transfers": 1,
-            "freeTransfer": true,
             "matchId": 7919,
-            "transfersRemaining": 35,
-            "stealthList": [],
-            "doublePointsList": [
-                7926
-            ],
             "matchDescription": "dd vs kkr",
             "teams": [
                 "delhi-daredevils",
@@ -7772,13 +5780,7 @@
                 "Mayank Markande (mi)"
             ],
             "transfers": 1,
-            "freeTransfer": true,
             "matchId": 7920,
-            "transfersRemaining": 35,
-            "stealthList": [],
-            "doublePointsList": [
-                7926
-            ],
             "matchDescription": "csk vs mi",
             "teams": [
                 "chennai-super-kings",
@@ -7803,13 +5805,7 @@
                 "Krishnappa Gowtham (rr)"
             ],
             "transfers": 0,
-            "freeTransfer": true,
             "matchId": 7921,
-            "transfersRemaining": 35,
-            "stealthList": [],
-            "doublePointsList": [
-                7926
-            ],
             "matchDescription": "rr vs sh",
             "teams": [
                 "rajasthan-royals",
@@ -7834,13 +5830,7 @@
                 "Shubman Gill (kkr)"
             ],
             "transfers": 1,
-            "freeTransfer": true,
             "matchId": 7922,
-            "transfersRemaining": 35,
-            "stealthList": [],
-            "doublePointsList": [
-                7926
-            ],
             "matchDescription": "rcb vs kkr",
             "teams": [
                 "royal-challengers-bangalore",
@@ -7865,13 +5855,7 @@
                 "Prithvi Shaw (dd)"
             ],
             "transfers": 1,
-            "freeTransfer": true,
             "matchId": 7923,
-            "transfersRemaining": 35,
-            "stealthList": [],
-            "doublePointsList": [
-                7926
-            ],
             "matchDescription": "csk vs dd",
             "teams": [
                 "chennai-super-kings",
@@ -7896,13 +5880,7 @@
                 "Krunal Pandya (mi)"
             ],
             "transfers": 0,
-            "freeTransfer": true,
             "matchId": 7924,
-            "transfersRemaining": 35,
-            "stealthList": [],
-            "doublePointsList": [
-                7926
-            ],
             "matchDescription": "rcb vs mi",
             "teams": [
                 "royal-challengers-bangalore",
@@ -7927,13 +5905,7 @@
                 "Shahbaz Nadeem (dd)"
             ],
             "transfers": 1,
-            "freeTransfer": true,
             "matchId": 7925,
-            "transfersRemaining": 35,
-            "stealthList": [],
-            "doublePointsList": [
-                7926
-            ],
             "matchDescription": "dd vs rr",
             "teams": [
                 "delhi-daredevils",
@@ -7958,13 +5930,7 @@
                 "Sunil Narine (kkr)"
             ],
             "transfers": 2,
-            "freeTransfer": true,
             "matchId": 7926,
-            "transfersRemaining": 35,
-            "stealthList": [],
-            "doublePointsList": [
-                7926
-            ],
             "matchDescription": "kkr vs csk",
             "teams": [
                 "kolkata-knight-riders",
@@ -7989,13 +5955,7 @@
                 "Sunil Narine (kkr)"
             ],
             "transfers": 2,
-            "freeTransfer": true,
             "matchId": 7926,
-            "transfersRemaining": 35,
-            "stealthList": [],
-            "doublePointsList": [
-                7926
-            ],
             "matchDescription": "kxp vs mi",
             "teams": [
                 "kings-xi-punjab",
@@ -8022,11 +5982,7 @@
                 "Deepak Chahar (csk)"
             ],
             "transfers": 3,
-            "freeTransfer": true,
             "matchId": 7894,
-            "transfersRemaining": 45,
-            "stealthList": [],
-            "doublePointsList": [],
             "matchDescription": "mi vs csk",
             "teams": [
                 "mumbai-indians",
@@ -8051,11 +6007,7 @@
                 "Yuvraj Singh (kxp)"
             ],
             "transfers": 2,
-            "freeTransfer": false,
             "matchId": 7895,
-            "transfersRemaining": 45,
-            "stealthList": [],
-            "doublePointsList": [],
             "matchDescription": "kxp vs dd",
             "teams": [
                 "kings-xi-punjab",
@@ -8080,11 +6032,7 @@
                 "Brendon Mccullum (rcb)"
             ],
             "transfers": 3,
-            "freeTransfer": false,
             "matchId": 7896,
-            "transfersRemaining": 45,
-            "stealthList": [],
-            "doublePointsList": [],
             "matchDescription": "kkr vs rcb",
             "teams": [
                 "kolkata-knight-riders",
@@ -8109,11 +6057,7 @@
                 "Jaydev Unadkat (rr)"
             ],
             "transfers": 4,
-            "freeTransfer": false,
             "matchId": 7897,
-            "transfersRemaining": 45,
-            "stealthList": [],
-            "doublePointsList": [],
             "matchDescription": "sh vs rr",
             "teams": [
                 "sunrisers-hyderabad",
@@ -8138,11 +6082,7 @@
                 "Jaydev Unadkat (rr)"
             ],
             "transfers": 0,
-            "freeTransfer": false,
             "matchId": 7898,
-            "transfersRemaining": 45,
-            "stealthList": [],
-            "doublePointsList": [],
             "matchDescription": "csk vs kkr",
             "teams": [
                 "chennai-super-kings",
@@ -8167,11 +6107,7 @@
                 "Rishabh Pant (dd)"
             ],
             "transfers": 1,
-            "freeTransfer": true,
             "matchId": 7899,
-            "transfersRemaining": 45,
-            "stealthList": [],
-            "doublePointsList": [],
             "matchDescription": "rr vs dd",
             "teams": [
                 "rajasthan-royals",
@@ -8196,11 +6132,7 @@
                 "Mayank Markande (mi)"
             ],
             "transfers": 1,
-            "freeTransfer": true,
             "matchId": 7900,
-            "transfersRemaining": 45,
-            "stealthList": [],
-            "doublePointsList": [],
             "matchDescription": "sh vs mi",
             "teams": [
                 "sunrisers-hyderabad",
@@ -8225,11 +6157,7 @@
                 "Kulwant Khejroliya (rcb)"
             ],
             "transfers": 4,
-            "freeTransfer": true,
             "matchId": 7901,
-            "transfersRemaining": 45,
-            "stealthList": [],
-            "doublePointsList": [],
             "matchDescription": "rcb vs kxp",
             "teams": [
                 "royal-challengers-bangalore",
@@ -8254,11 +6182,7 @@
                 "Mayank Markande (mi)"
             ],
             "transfers": 0,
-            "freeTransfer": true,
             "matchId": 7902,
-            "transfersRemaining": 45,
-            "stealthList": [],
-            "doublePointsList": [],
             "matchDescription": "mi vs dd",
             "teams": [
                 "mumbai-indians",
@@ -8283,11 +6207,7 @@
                 "Mayank Markande (mi)"
             ],
             "transfers": 0,
-            "freeTransfer": true,
             "matchId": 7902,
-            "transfersRemaining": 45,
-            "stealthList": [],
-            "doublePointsList": [],
             "matchDescription": "kkr vs sh",
             "teams": [
                 "kolkata-knight-riders",
@@ -8312,11 +6232,7 @@
                 "Mayank Markande (mi)"
             ],
             "transfers": 0,
-            "freeTransfer": true,
             "matchId": 7902,
-            "transfersRemaining": 45,
-            "stealthList": [],
-            "doublePointsList": [],
             "matchDescription": "rcb vs rr",
             "teams": [
                 "royal-challengers-bangalore",
@@ -8341,11 +6257,7 @@
                 "Mayank Markande (mi)"
             ],
             "transfers": 0,
-            "freeTransfer": true,
             "matchId": 7902,
-            "transfersRemaining": 45,
-            "stealthList": [],
-            "doublePointsList": [],
             "matchDescription": "kxp vs csk",
             "teams": [
                 "kings-xi-punjab",
@@ -8370,11 +6282,7 @@
                 "Mayank Markande (mi)"
             ],
             "transfers": 0,
-            "freeTransfer": false,
             "matchId": 7906,
-            "transfersRemaining": 45,
-            "stealthList": [],
-            "doublePointsList": [],
             "matchDescription": "kkr vs dd",
             "teams": [
                 "kolkata-knight-riders",
@@ -8399,11 +6307,7 @@
                 "Hardik Pandya (mi)"
             ],
             "transfers": 1,
-            "freeTransfer": false,
             "matchId": 7907,
-            "transfersRemaining": 45,
-            "stealthList": [],
-            "doublePointsList": [],
             "matchDescription": "mi vs rcb",
             "teams": [
                 "mumbai-indians",
@@ -8428,11 +6332,7 @@
                 "Ajinkya Rahane (rr)"
             ],
             "transfers": 2,
-            "freeTransfer": true,
             "matchId": 7908,
-            "transfersRemaining": 45,
-            "stealthList": [],
-            "doublePointsList": [],
             "matchDescription": "rr vs kkr",
             "teams": [
                 "rajasthan-royals",
@@ -8457,11 +6357,7 @@
                 "Aaron Finch (kxp)"
             ],
             "transfers": 2,
-            "freeTransfer": false,
             "matchId": 7909,
-            "transfersRemaining": 45,
-            "stealthList": [],
-            "doublePointsList": [],
             "matchDescription": "kxp vs sh",
             "teams": [
                 "kings-xi-punjab",
@@ -8486,11 +6382,7 @@
                 "Aaron Finch (kxp)"
             ],
             "transfers": 0,
-            "freeTransfer": false,
             "matchId": 7910,
-            "transfersRemaining": 45,
-            "stealthList": [],
-            "doublePointsList": [],
             "matchDescription": "csk vs rr",
             "teams": [
                 "chennai-super-kings",
@@ -8515,11 +6407,7 @@
                 "Shivam Mavi (kkr)"
             ],
             "transfers": 0,
-            "freeTransfer": true,
             "matchId": 7911,
-            "transfersRemaining": 45,
-            "stealthList": [],
-            "doublePointsList": [],
             "matchDescription": "kkr vs kxp",
             "teams": [
                 "kolkata-knight-riders",
@@ -8544,11 +6432,7 @@
                 "Virat Kohli (rcb)"
             ],
             "transfers": 2,
-            "freeTransfer": true,
             "matchId": 7912,
-            "transfersRemaining": 45,
-            "stealthList": [],
-            "doublePointsList": [],
             "matchDescription": "rcb vs dd",
             "teams": [
                 "royal-challengers-bangalore",
@@ -8573,11 +6457,7 @@
                 "Nan (n)"
             ],
             "transfers": 0,
-            "freeTransfer": true,
             "matchId": 7913,
-            "transfersRemaining": 45,
-            "stealthList": [],
-            "doublePointsList": [],
             "matchDescription": "sh vs csk",
             "teams": [
                 "sunrisers-hyderabad",
@@ -8602,11 +6482,7 @@
                 "Evin Lewis (mi)"
             ],
             "transfers": 1,
-            "freeTransfer": true,
             "matchId": 7914,
-            "transfersRemaining": 45,
-            "stealthList": [],
-            "doublePointsList": [],
             "matchDescription": "rr vs mi",
             "teams": [
                 "rajasthan-royals",
@@ -8631,11 +6507,7 @@
                 "Evin Lewis (mi)"
             ],
             "transfers": 0,
-            "freeTransfer": false,
             "matchId": 7915,
-            "transfersRemaining": 45,
-            "stealthList": [],
-            "doublePointsList": [],
             "matchDescription": "dd vs kxp",
             "teams": [
                 "delhi-daredevils",
@@ -8660,11 +6532,7 @@
                 "Shikhar Dhawan (sh)"
             ],
             "transfers": 1,
-            "freeTransfer": true,
             "matchId": 7916,
-            "transfersRemaining": 45,
-            "stealthList": [],
-            "doublePointsList": [],
             "matchDescription": "mi vs sh",
             "teams": [
                 "mumbai-indians",
@@ -8689,11 +6557,7 @@
                 "Deepak Chahar (csk)"
             ],
             "transfers": 0,
-            "freeTransfer": true,
             "matchId": 7917,
-            "transfersRemaining": 45,
-            "stealthList": [],
-            "doublePointsList": [],
             "matchDescription": "rcb vs csk",
             "teams": [
                 "royal-challengers-bangalore",
@@ -8718,11 +6582,7 @@
                 "Nitish Rana (kkr)"
             ],
             "transfers": 0,
-            "freeTransfer": true,
             "matchId": 7918,
-            "transfersRemaining": 45,
-            "stealthList": [],
-            "doublePointsList": [],
             "matchDescription": "sh vs kxp",
             "teams": [
                 "sunrisers-hyderabad",
@@ -8747,11 +6607,7 @@
                 "Rahul Tewatia (dd)"
             ],
             "transfers": 1,
-            "freeTransfer": true,
             "matchId": 7919,
-            "transfersRemaining": 45,
-            "stealthList": [],
-            "doublePointsList": [],
             "matchDescription": "dd vs kkr",
             "teams": [
                 "delhi-daredevils",
@@ -8776,11 +6632,7 @@
                 "Krishnappa Gowtham (rr)"
             ],
             "transfers": 1,
-            "freeTransfer": true,
             "matchId": 7920,
-            "transfersRemaining": 45,
-            "stealthList": [],
-            "doublePointsList": [],
             "matchDescription": "csk vs mi",
             "teams": [
                 "chennai-super-kings",
@@ -8805,11 +6657,7 @@
                 "Basil Thampi (sh)"
             ],
             "transfers": 0,
-            "freeTransfer": true,
             "matchId": 7921,
-            "transfersRemaining": 45,
-            "stealthList": [],
-            "doublePointsList": [],
             "matchDescription": "rr vs sh",
             "teams": [
                 "rajasthan-royals",
@@ -8834,11 +6682,7 @@
                 "Virat Kohli (rcb)"
             ],
             "transfers": 1,
-            "freeTransfer": true,
             "matchId": 7922,
-            "transfersRemaining": 45,
-            "stealthList": [],
-            "doublePointsList": [],
             "matchDescription": "rcb vs kkr",
             "teams": [
                 "royal-challengers-bangalore",
@@ -8863,11 +6707,7 @@
                 "Prithvi Shaw (dd)"
             ],
             "transfers": 1,
-            "freeTransfer": true,
             "matchId": 7923,
-            "transfersRemaining": 45,
-            "stealthList": [],
-            "doublePointsList": [],
             "matchDescription": "csk vs dd",
             "teams": [
                 "chennai-super-kings",
@@ -8892,11 +6732,7 @@
                 "Suryakumar Yadav (mi)"
             ],
             "transfers": 0,
-            "freeTransfer": true,
             "matchId": 7924,
-            "transfersRemaining": 45,
-            "stealthList": [],
-            "doublePointsList": [],
             "matchDescription": "rcb vs mi",
             "teams": [
                 "royal-challengers-bangalore",
@@ -8921,11 +6757,7 @@
                 "Avesh Khan (dd)"
             ],
             "transfers": 0,
-            "freeTransfer": true,
             "matchId": 7925,
-            "transfersRemaining": 45,
-            "stealthList": [],
-            "doublePointsList": [],
             "matchDescription": "dd vs rr",
             "teams": [
                 "delhi-daredevils",
@@ -8950,11 +6782,7 @@
                 "Km Asif (csk)"
             ],
             "transfers": 2,
-            "freeTransfer": true,
             "matchId": 7926,
-            "transfersRemaining": 45,
-            "stealthList": [],
-            "doublePointsList": [],
             "matchDescription": "kkr vs csk",
             "teams": [
                 "kolkata-knight-riders",
@@ -8979,11 +6807,7 @@
                 "Km Asif (csk)"
             ],
             "transfers": 2,
-            "freeTransfer": true,
             "matchId": 7926,
-            "transfersRemaining": 45,
-            "stealthList": [],
-            "doublePointsList": [],
             "matchDescription": "kxp vs mi",
             "teams": [
                 "kings-xi-punjab",
@@ -9010,11 +6834,7 @@
                 "Yuvraj Singh (kxp)"
             ],
             "transfers": 0,
-            "freeTransfer": false,
             "matchId": 7895,
-            "transfersRemaining": 39,
-            "stealthList": [],
-            "doublePointsList": [],
             "matchDescription": "kxp vs dd",
             "teams": [
                 "kings-xi-punjab",
@@ -9039,11 +6859,7 @@
                 "Yuvraj Singh (kxp)"
             ],
             "transfers": 0,
-            "freeTransfer": false,
             "matchId": 7896,
-            "transfersRemaining": 39,
-            "stealthList": [],
-            "doublePointsList": [],
             "matchDescription": "kkr vs rcb",
             "teams": [
                 "kolkata-knight-riders",
@@ -9068,11 +6884,7 @@
                 "Yuvraj Singh (kxp)"
             ],
             "transfers": 0,
-            "freeTransfer": false,
             "matchId": 7896,
-            "transfersRemaining": 39,
-            "stealthList": [],
-            "doublePointsList": [],
             "matchDescription": "sh vs rr",
             "teams": [
                 "sunrisers-hyderabad",
@@ -9097,11 +6909,7 @@
                 "Deepak Chahar (csk)"
             ],
             "transfers": 3,
-            "freeTransfer": true,
             "matchId": 7898,
-            "transfersRemaining": 39,
-            "stealthList": [],
-            "doublePointsList": [],
             "matchDescription": "csk vs kkr",
             "teams": [
                 "chennai-super-kings",
@@ -9126,11 +6934,7 @@
                 "Mayank Markande (mi)"
             ],
             "transfers": 2,
-            "freeTransfer": true,
             "matchId": 7899,
-            "transfersRemaining": 39,
-            "stealthList": [],
-            "doublePointsList": [],
             "matchDescription": "rr vs dd",
             "teams": [
                 "rajasthan-royals",
@@ -9155,11 +6959,7 @@
                 "Bhuvneshwar Kumar (sh)"
             ],
             "transfers": 3,
-            "freeTransfer": true,
             "matchId": 7900,
-            "transfersRemaining": 39,
-            "stealthList": [],
-            "doublePointsList": [],
             "matchDescription": "sh vs mi",
             "teams": [
                 "sunrisers-hyderabad",
@@ -9184,11 +6984,7 @@
                 "Aaron Finch (kxp)"
             ],
             "transfers": 7,
-            "freeTransfer": false,
             "matchId": 7901,
-            "transfersRemaining": 39,
-            "stealthList": [],
-            "doublePointsList": [],
             "matchDescription": "rcb vs kxp",
             "teams": [
                 "royal-challengers-bangalore",
@@ -9213,11 +7009,7 @@
                 "Rashid Khan (sh)"
             ],
             "transfers": 4,
-            "freeTransfer": false,
             "matchId": 7902,
-            "transfersRemaining": 39,
-            "stealthList": [],
-            "doublePointsList": [],
             "matchDescription": "mi vs dd",
             "teams": [
                 "mumbai-indians",
@@ -9242,11 +7034,7 @@
                 "Rashid Khan (sh)"
             ],
             "transfers": 0,
-            "freeTransfer": false,
             "matchId": 7903,
-            "transfersRemaining": 39,
-            "stealthList": [],
-            "doublePointsList": [],
             "matchDescription": "kkr vs sh",
             "teams": [
                 "kolkata-knight-riders",
@@ -9271,11 +7059,7 @@
                 "Rashid Khan (sh)"
             ],
             "transfers": 0,
-            "freeTransfer": false,
             "matchId": 7903,
-            "transfersRemaining": 39,
-            "stealthList": [],
-            "doublePointsList": [],
             "matchDescription": "rcb vs rr",
             "teams": [
                 "royal-challengers-bangalore",
@@ -9300,11 +7084,7 @@
                 "Harbhajan Singh (csk)"
             ],
             "transfers": 6,
-            "freeTransfer": false,
             "matchId": 7905,
-            "transfersRemaining": 39,
-            "stealthList": [],
-            "doublePointsList": [],
             "matchDescription": "kxp vs csk",
             "teams": [
                 "kings-xi-punjab",
@@ -9329,11 +7109,7 @@
                 "Harbhajan Singh (csk)"
             ],
             "transfers": 6,
-            "freeTransfer": false,
             "matchId": 7905,
-            "transfersRemaining": 39,
-            "stealthList": [],
-            "doublePointsList": [],
             "matchDescription": "kkr vs dd",
             "teams": [
                 "kolkata-knight-riders",
@@ -9358,11 +7134,7 @@
                 "Kieron Pollard (mi)"
             ],
             "transfers": 2,
-            "freeTransfer": false,
             "matchId": 7907,
-            "transfersRemaining": 39,
-            "stealthList": [],
-            "doublePointsList": [],
             "matchDescription": "mi vs rcb",
             "teams": [
                 "mumbai-indians",
@@ -9387,11 +7159,7 @@
                 "Kieron Pollard (mi)"
             ],
             "transfers": 2,
-            "freeTransfer": false,
             "matchId": 7908,
-            "transfersRemaining": 39,
-            "stealthList": [],
-            "doublePointsList": [],
             "matchDescription": "rr vs kkr",
             "teams": [
                 "rajasthan-royals",
@@ -9416,11 +7184,7 @@
                 "Bhuvneshwar Kumar (sh)"
             ],
             "transfers": 1,
-            "freeTransfer": false,
             "matchId": 7909,
-            "transfersRemaining": 39,
-            "stealthList": [],
-            "doublePointsList": [],
             "matchDescription": "kxp vs sh",
             "teams": [
                 "kings-xi-punjab",
@@ -9445,11 +7209,7 @@
                 "Harbhajan Singh (csk)"
             ],
             "transfers": 1,
-            "freeTransfer": false,
             "matchId": 7910,
-            "transfersRemaining": 39,
-            "stealthList": [],
-            "doublePointsList": [],
             "matchDescription": "csk vs rr",
             "teams": [
                 "chennai-super-kings",
@@ -9474,11 +7234,7 @@
                 "Harbhajan Singh (csk)"
             ],
             "transfers": 0,
-            "freeTransfer": false,
             "matchId": 7911,
-            "transfersRemaining": 39,
-            "stealthList": [],
-            "doublePointsList": [],
             "matchDescription": "kkr vs kxp",
             "teams": [
                 "kolkata-knight-riders",
@@ -9503,11 +7259,7 @@
                 "Gautam Gambhir (dd)"
             ],
             "transfers": 1,
-            "freeTransfer": false,
             "matchId": 7912,
-            "transfersRemaining": 39,
-            "stealthList": [],
-            "doublePointsList": [],
             "matchDescription": "rcb vs dd",
             "teams": [
                 "royal-challengers-bangalore",
@@ -9532,11 +7284,7 @@
                 "Gautam Gambhir (dd)"
             ],
             "transfers": 1,
-            "freeTransfer": false,
             "matchId": 7912,
-            "transfersRemaining": 39,
-            "stealthList": [],
-            "doublePointsList": [],
             "matchDescription": "sh vs csk",
             "teams": [
                 "sunrisers-hyderabad",
@@ -9561,11 +7309,7 @@
                 "Gautam Gambhir (dd)"
             ],
             "transfers": 1,
-            "freeTransfer": false,
             "matchId": 7912,
-            "transfersRemaining": 39,
-            "stealthList": [],
-            "doublePointsList": [],
             "matchDescription": "rr vs mi",
             "teams": [
                 "rajasthan-royals",
@@ -9590,11 +7334,7 @@
                 "Gautam Gambhir (dd)"
             ],
             "transfers": 1,
-            "freeTransfer": false,
             "matchId": 7912,
-            "transfersRemaining": 39,
-            "stealthList": [],
-            "doublePointsList": [],
             "matchDescription": "dd vs kxp",
             "teams": [
                 "delhi-daredevils",
@@ -9619,11 +7359,7 @@
                 "Gautam Gambhir (dd)"
             ],
             "transfers": 0,
-            "freeTransfer": false,
             "matchId": 7916,
-            "transfersRemaining": 39,
-            "stealthList": [],
-            "doublePointsList": [],
             "matchDescription": "mi vs sh",
             "teams": [
                 "mumbai-indians",
@@ -9648,11 +7384,7 @@
                 "Gautam Gambhir (dd)"
             ],
             "transfers": 0,
-            "freeTransfer": false,
             "matchId": 7917,
-            "transfersRemaining": 39,
-            "stealthList": [],
-            "doublePointsList": [],
             "matchDescription": "rcb vs csk",
             "teams": [
                 "royal-challengers-bangalore",
@@ -9677,11 +7409,7 @@
                 "Gautam Gambhir (dd)"
             ],
             "transfers": 0,
-            "freeTransfer": false,
             "matchId": 7918,
-            "transfersRemaining": 39,
-            "stealthList": [],
-            "doublePointsList": [],
             "matchDescription": "sh vs kxp",
             "teams": [
                 "sunrisers-hyderabad",
@@ -9706,11 +7434,7 @@
                 "Gautam Gambhir (dd)"
             ],
             "transfers": 0,
-            "freeTransfer": false,
             "matchId": 7919,
-            "transfersRemaining": 39,
-            "stealthList": [],
-            "doublePointsList": [],
             "matchDescription": "dd vs kkr",
             "teams": [
                 "delhi-daredevils",
@@ -9735,11 +7459,7 @@
                 "Shardul Thakur (csk)"
             ],
             "transfers": 1,
-            "freeTransfer": false,
             "matchId": 7920,
-            "transfersRemaining": 39,
-            "stealthList": [],
-            "doublePointsList": [],
             "matchDescription": "csk vs mi",
             "teams": [
                 "chennai-super-kings",
@@ -9764,11 +7484,7 @@
                 "Shardul Thakur (csk)"
             ],
             "transfers": 0,
-            "freeTransfer": false,
             "matchId": 7921,
-            "transfersRemaining": 39,
-            "stealthList": [],
-            "doublePointsList": [],
             "matchDescription": "rr vs sh",
             "teams": [
                 "rajasthan-royals",
@@ -9793,11 +7509,7 @@
                 "Shardul Thakur (csk)"
             ],
             "transfers": 0,
-            "freeTransfer": false,
             "matchId": 7921,
-            "transfersRemaining": 39,
-            "stealthList": [],
-            "doublePointsList": [],
             "matchDescription": "rcb vs kkr",
             "teams": [
                 "royal-challengers-bangalore",
@@ -9822,11 +7534,7 @@
                 "Shreyas Iyer (dd)"
             ],
             "transfers": 1,
-            "freeTransfer": false,
             "matchId": 7923,
-            "transfersRemaining": 39,
-            "stealthList": [],
-            "doublePointsList": [],
             "matchDescription": "csk vs dd",
             "teams": [
                 "chennai-super-kings",
@@ -9851,11 +7559,7 @@
                 "Sunil Narine (kkr)"
             ],
             "transfers": 2,
-            "freeTransfer": false,
             "matchId": 7924,
-            "transfersRemaining": 39,
-            "stealthList": [],
-            "doublePointsList": [],
             "matchDescription": "rcb vs mi",
             "teams": [
                 "royal-challengers-bangalore",
@@ -9880,11 +7584,7 @@
                 "Sunil Narine (kkr)"
             ],
             "transfers": 0,
-            "freeTransfer": false,
             "matchId": 7925,
-            "transfersRemaining": 39,
-            "stealthList": [],
-            "doublePointsList": [],
             "matchDescription": "dd vs rr",
             "teams": [
                 "delhi-daredevils",
@@ -9909,11 +7609,7 @@
                 "Sunil Narine (kkr)"
             ],
             "transfers": 0,
-            "freeTransfer": false,
             "matchId": 7926,
-            "transfersRemaining": 39,
-            "stealthList": [],
-            "doublePointsList": [],
             "matchDescription": "kkr vs csk",
             "teams": [
                 "kolkata-knight-riders",
@@ -9938,11 +7634,7 @@
                 "Sunil Narine (kkr)"
             ],
             "transfers": 0,
-            "freeTransfer": false,
             "matchId": 7926,
-            "transfersRemaining": 39,
-            "stealthList": [],
-            "doublePointsList": [],
             "matchDescription": "kxp vs mi",
             "teams": [
                 "kings-xi-punjab",
@@ -9969,18 +7661,7 @@
                 "Manish Pandey (sh)"
             ],
             "transfers": 0,
-            "freeTransfer": false,
             "matchId": 7902,
-            "transfersRemaining": 17,
-            "stealthList": [
-                7924,
-                7925
-            ],
-            "doublePointsList": [
-                7919,
-                7922,
-                7924
-            ],
             "matchDescription": "mi vs dd",
             "teams": [
                 "mumbai-indians",
@@ -10005,18 +7686,7 @@
                 "Manish Pandey (sh)"
             ],
             "transfers": 0,
-            "freeTransfer": false,
             "matchId": 7903,
-            "transfersRemaining": 17,
-            "stealthList": [
-                7924,
-                7925
-            ],
-            "doublePointsList": [
-                7919,
-                7922,
-                7924
-            ],
             "matchDescription": "kkr vs sh",
             "teams": [
                 "kolkata-knight-riders",
@@ -10041,18 +7711,7 @@
                 "Manish Pandey (sh)"
             ],
             "transfers": 0,
-            "freeTransfer": false,
             "matchId": 7904,
-            "transfersRemaining": 17,
-            "stealthList": [
-                7924,
-                7925
-            ],
-            "doublePointsList": [
-                7919,
-                7922,
-                7924
-            ],
             "matchDescription": "rcb vs rr",
             "teams": [
                 "royal-challengers-bangalore",
@@ -10077,18 +7736,7 @@
                 "Manish Pandey (sh)"
             ],
             "transfers": 0,
-            "freeTransfer": false,
             "matchId": 7904,
-            "transfersRemaining": 17,
-            "stealthList": [
-                7924,
-                7925
-            ],
-            "doublePointsList": [
-                7919,
-                7922,
-                7924
-            ],
             "matchDescription": "kxp vs csk",
             "teams": [
                 "kings-xi-punjab",
@@ -10113,18 +7761,7 @@
                 "Shubman Gill (kkr)"
             ],
             "transfers": 2,
-            "freeTransfer": true,
             "matchId": 7906,
-            "transfersRemaining": 17,
-            "stealthList": [
-                7924,
-                7925
-            ],
-            "doublePointsList": [
-                7919,
-                7922,
-                7924
-            ],
             "matchDescription": "kkr vs dd",
             "teams": [
                 "kolkata-knight-riders",
@@ -10149,18 +7786,7 @@
                 "Quinton De Kock (rcb)"
             ],
             "transfers": 9,
-            "freeTransfer": true,
             "matchId": 7907,
-            "transfersRemaining": 17,
-            "stealthList": [
-                7924,
-                7925
-            ],
-            "doublePointsList": [
-                7919,
-                7922,
-                7924
-            ],
             "matchDescription": "mi vs rcb",
             "teams": [
                 "mumbai-indians",
@@ -10185,18 +7811,7 @@
                 "Robin Uthappa (kkr)"
             ],
             "transfers": 7,
-            "freeTransfer": true,
             "matchId": 7908,
-            "transfersRemaining": 17,
-            "stealthList": [
-                7924,
-                7925
-            ],
-            "doublePointsList": [
-                7919,
-                7922,
-                7924
-            ],
             "matchDescription": "rr vs kkr",
             "teams": [
                 "rajasthan-royals",
@@ -10221,18 +7836,7 @@
                 "Ambati Rayudu (csk)"
             ],
             "transfers": 3,
-            "freeTransfer": false,
             "matchId": 7909,
-            "transfersRemaining": 17,
-            "stealthList": [
-                7924,
-                7925
-            ],
-            "doublePointsList": [
-                7919,
-                7922,
-                7924
-            ],
             "matchDescription": "kxp vs sh",
             "teams": [
                 "kings-xi-punjab",
@@ -10257,18 +7861,7 @@
                 "Sanju Samson (rr)"
             ],
             "transfers": 3,
-            "freeTransfer": true,
             "matchId": 7910,
-            "transfersRemaining": 17,
-            "stealthList": [
-                7924,
-                7925
-            ],
-            "doublePointsList": [
-                7919,
-                7922,
-                7924
-            ],
             "matchDescription": "csk vs rr",
             "teams": [
                 "chennai-super-kings",
@@ -10293,18 +7886,7 @@
                 "Shubman Gill (kkr)"
             ],
             "transfers": 7,
-            "freeTransfer": true,
             "matchId": 7911,
-            "transfersRemaining": 17,
-            "stealthList": [
-                7924,
-                7925
-            ],
-            "doublePointsList": [
-                7919,
-                7922,
-                7924
-            ],
             "matchDescription": "kkr vs kxp",
             "teams": [
                 "kolkata-knight-riders",
@@ -10329,18 +7911,7 @@
                 "Ab De Villiers (rcb)"
             ],
             "transfers": 2,
-            "freeTransfer": false,
             "matchId": 7912,
-            "transfersRemaining": 17,
-            "stealthList": [
-                7924,
-                7925
-            ],
-            "doublePointsList": [
-                7919,
-                7922,
-                7924
-            ],
             "matchDescription": "rcb vs dd",
             "teams": [
                 "royal-challengers-bangalore",
@@ -10365,18 +7936,7 @@
                 "Virat Kohli (rcb)"
             ],
             "transfers": 6,
-            "freeTransfer": true,
             "matchId": 7913,
-            "transfersRemaining": 17,
-            "stealthList": [
-                7924,
-                7925
-            ],
-            "doublePointsList": [
-                7919,
-                7922,
-                7924
-            ],
             "matchDescription": "sh vs csk",
             "teams": [
                 "sunrisers-hyderabad",
@@ -10401,18 +7961,7 @@
                 "Virat Kohli (rcb)"
             ],
             "transfers": 0,
-            "freeTransfer": false,
             "matchId": 7914,
-            "transfersRemaining": 17,
-            "stealthList": [
-                7924,
-                7925
-            ],
-            "doublePointsList": [
-                7919,
-                7922,
-                7924
-            ],
             "matchDescription": "rr vs mi",
             "teams": [
                 "rajasthan-royals",
@@ -10437,18 +7986,7 @@
                 "Virat Kohli (rcb)"
             ],
             "transfers": 0,
-            "freeTransfer": false,
             "matchId": 7915,
-            "transfersRemaining": 17,
-            "stealthList": [
-                7924,
-                7925
-            ],
-            "doublePointsList": [
-                7919,
-                7922,
-                7924
-            ],
             "matchDescription": "dd vs kxp",
             "teams": [
                 "delhi-daredevils",
@@ -10473,18 +8011,7 @@
                 "Siddarth Kaul (sh)"
             ],
             "transfers": 0,
-            "freeTransfer": true,
             "matchId": 7916,
-            "transfersRemaining": 17,
-            "stealthList": [
-                7924,
-                7925
-            ],
-            "doublePointsList": [
-                7919,
-                7922,
-                7924
-            ],
             "matchDescription": "mi vs sh",
             "teams": [
                 "mumbai-indians",
@@ -10509,18 +8036,7 @@
                 "Nitish Rana (kkr)"
             ],
             "transfers": 0,
-            "freeTransfer": true,
             "matchId": 7917,
-            "transfersRemaining": 17,
-            "stealthList": [
-                7924,
-                7925
-            ],
-            "doublePointsList": [
-                7919,
-                7922,
-                7924
-            ],
             "matchDescription": "rcb vs csk",
             "teams": [
                 "royal-challengers-bangalore",
@@ -10545,18 +8061,7 @@
                 "Sunil Narine (kkr)"
             ],
             "transfers": 1,
-            "freeTransfer": true,
             "matchId": 7918,
-            "transfersRemaining": 17,
-            "stealthList": [
-                7924,
-                7925
-            ],
-            "doublePointsList": [
-                7919,
-                7922,
-                7924
-            ],
             "matchDescription": "sh vs kxp",
             "teams": [
                 "sunrisers-hyderabad",
@@ -10581,18 +8086,7 @@
                 "Chris Lynn (kkr)"
             ],
             "transfers": 5,
-            "freeTransfer": false,
             "matchId": 7919,
-            "transfersRemaining": 17,
-            "stealthList": [
-                7924,
-                7925
-            ],
-            "doublePointsList": [
-                7919,
-                7922,
-                7924
-            ],
             "matchDescription": "dd vs kkr",
             "teams": [
                 "delhi-daredevils",
@@ -10617,18 +8111,7 @@
                 "Krunal Pandya (mi)"
             ],
             "transfers": 0,
-            "freeTransfer": true,
             "matchId": 7920,
-            "transfersRemaining": 17,
-            "stealthList": [
-                7924,
-                7925
-            ],
-            "doublePointsList": [
-                7919,
-                7922,
-                7924
-            ],
             "matchDescription": "csk vs mi",
             "teams": [
                 "chennai-super-kings",
@@ -10653,18 +8136,7 @@
                 "Nitish Rana (kkr)"
             ],
             "transfers": 0,
-            "freeTransfer": true,
             "matchId": 7921,
-            "transfersRemaining": 17,
-            "stealthList": [
-                7924,
-                7925
-            ],
-            "doublePointsList": [
-                7919,
-                7922,
-                7924
-            ],
             "matchDescription": "rr vs sh",
             "teams": [
                 "rajasthan-royals",
@@ -10689,18 +8161,7 @@
                 "Quinton De Kock (rcb)"
             ],
             "transfers": 1,
-            "freeTransfer": false,
             "matchId": 7922,
-            "transfersRemaining": 17,
-            "stealthList": [
-                7924,
-                7925
-            ],
-            "doublePointsList": [
-                7919,
-                7922,
-                7924
-            ],
             "matchDescription": "rcb vs kkr",
             "teams": [
                 "royal-challengers-bangalore",
@@ -10725,18 +8186,7 @@
                 "Deepak Chahar (csk)"
             ],
             "transfers": 0,
-            "freeTransfer": true,
             "matchId": 7923,
-            "transfersRemaining": 17,
-            "stealthList": [
-                7924,
-                7925
-            ],
-            "doublePointsList": [
-                7919,
-                7922,
-                7924
-            ],
             "matchDescription": "csk vs dd",
             "teams": [
                 "chennai-super-kings",
@@ -10761,18 +8211,7 @@
                 "Brendon Mccullum (rcb)"
             ],
             "transfers": 4,
-            "freeTransfer": true,
             "matchId": 7924,
-            "transfersRemaining": 17,
-            "stealthList": [
-                7924,
-                7925
-            ],
-            "doublePointsList": [
-                7919,
-                7922,
-                7924
-            ],
             "matchDescription": "rcb vs mi",
             "teams": [
                 "royal-challengers-bangalore",
@@ -10797,18 +8236,7 @@
                 "Dinesh Karthik (kkr)"
             ],
             "transfers": 3,
-            "freeTransfer": true,
             "matchId": 7925,
-            "transfersRemaining": 17,
-            "stealthList": [
-                7924,
-                7925
-            ],
-            "doublePointsList": [
-                7919,
-                7922,
-                7924
-            ],
             "matchDescription": "dd vs rr",
             "teams": [
                 "delhi-daredevils",
@@ -10833,18 +8261,7 @@
                 "Robin Uthappa (kkr)"
             ],
             "transfers": 4,
-            "freeTransfer": true,
             "matchId": 7926,
-            "transfersRemaining": 17,
-            "stealthList": [
-                7924,
-                7925
-            ],
-            "doublePointsList": [
-                7919,
-                7922,
-                7924
-            ],
             "matchDescription": "kkr vs csk",
             "teams": [
                 "kolkata-knight-riders",
@@ -10854,33 +8271,22 @@
         {
             "powerPlayer": "Chris Gayle (kxp)",
             "secondPowerPlayer": "Hardik Pandya (mi)",
-            "createTime": 1525391374132,
+            "createTime": 1525391862752,
             "players": [
                 "Mayank Markande (mi)",
                 "Virat Kohli (rcb)",
                 "Ms Dhoni (csk)",
                 "Umesh Yadav (rcb)",
                 "Hardik Pandya (mi)",
-                "Krishnappa Gowtham (rr)",
-                "Dinesh Karthik (kkr)",
                 "Ambati Rayudu (csk)",
-                "Suresh Raina (csk)",
-                "Andre Russell (kkr)",
-                "Chris Gayle (kxp)"
+                "Chris Gayle (kxp)",
+                "Krunal Pandya (mi)",
+                "Sunil Narine (kkr)",
+                "Shubman Gill (kkr)",
+                "Lokesh Rahul (kxp)"
             ],
-            "transfers": 1,
-            "freeTransfer": false,
+            "transfers": 4,
             "matchId": 7927,
-            "transfersRemaining": 17,
-            "stealthList": [
-                7924,
-                7925
-            ],
-            "doublePointsList": [
-                7919,
-                7922,
-                7924
-            ],
             "matchDescription": "kxp vs mi",
             "teams": [
                 "kings-xi-punjab",
