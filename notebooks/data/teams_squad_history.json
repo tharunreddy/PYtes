@@ -23,7 +23,8 @@
             "teams": [
                 "mumbai-indians",
                 "chennai-super-kings"
-            ]
+            ],
+            "numPlayersPlaying": 6
         },
         {
             "powerPlayer": "Chris Gayle (kxp)",
@@ -48,7 +49,8 @@
             "teams": [
                 "kings-xi-punjab",
                 "delhi-daredevils"
-            ]
+            ],
+            "numPlayersPlaying": 5
         },
         {
             "powerPlayer": "Chris Gayle (kxp)",
@@ -73,7 +75,8 @@
             "teams": [
                 "kolkata-knight-riders",
                 "royal-challengers-bangalore"
-            ]
+            ],
+            "numPlayersPlaying": 2
         },
         {
             "powerPlayer": "Ben Stokes (rr)",
@@ -98,7 +101,8 @@
             "teams": [
                 "sunrisers-hyderabad",
                 "rajasthan-royals"
-            ]
+            ],
+            "numPlayersPlaying": 4
         },
         {
             "powerPlayer": "Sunil Narine (kkr)",
@@ -123,7 +127,8 @@
             "teams": [
                 "chennai-super-kings",
                 "kolkata-knight-riders"
-            ]
+            ],
+            "numPlayersPlaying": 6
         },
         {
             "powerPlayer": "Glenn Maxwell (dd)",
@@ -148,7 +153,8 @@
             "teams": [
                 "rajasthan-royals",
                 "delhi-daredevils"
-            ]
+            ],
+            "numPlayersPlaying": 6
         },
         {
             "powerPlayer": "Rohit Sharma (mi)",
@@ -173,7 +179,8 @@
             "teams": [
                 "sunrisers-hyderabad",
                 "mumbai-indians"
-            ]
+            ],
+            "numPlayersPlaying": 6
         },
         {
             "powerPlayer": "Chris Woakes (rcb)",
@@ -198,7 +205,8 @@
             "teams": [
                 "royal-challengers-bangalore",
                 "kings-xi-punjab"
-            ]
+            ],
+            "numPlayersPlaying": 5
         },
         {
             "powerPlayer": "Glenn Maxwell (dd)",
@@ -223,7 +231,8 @@
             "teams": [
                 "mumbai-indians",
                 "delhi-daredevils"
-            ]
+            ],
+            "numPlayersPlaying": 6
         },
         {
             "powerPlayer": "Sunil Narine (kkr)",
@@ -248,7 +257,8 @@
             "teams": [
                 "kolkata-knight-riders",
                 "sunrisers-hyderabad"
-            ]
+            ],
+            "numPlayersPlaying": 4
         },
         {
             "powerPlayer": "Ab De Villiers (rcb)",
@@ -273,7 +283,8 @@
             "teams": [
                 "royal-challengers-bangalore",
                 "rajasthan-royals"
-            ]
+            ],
+            "numPlayersPlaying": 5
         },
         {
             "powerPlayer": "Lokesh Rahul (kxp)",
@@ -298,7 +309,8 @@
             "teams": [
                 "kings-xi-punjab",
                 "chennai-super-kings"
-            ]
+            ],
+            "numPlayersPlaying": 4
         },
         {
             "powerPlayer": "Sunil Narine (kkr)",
@@ -323,7 +335,8 @@
             "teams": [
                 "kolkata-knight-riders",
                 "delhi-daredevils"
-            ]
+            ],
+            "numPlayersPlaying": 5
         },
         {
             "powerPlayer": "Rohit Sharma (mi)",
@@ -348,7 +361,8 @@
             "teams": [
                 "mumbai-indians",
                 "royal-challengers-bangalore"
-            ]
+            ],
+            "numPlayersPlaying": 5
         },
         {
             "powerPlayer": "Sunil Narine (kkr)",
@@ -373,7 +387,8 @@
             "teams": [
                 "rajasthan-royals",
                 "kolkata-knight-riders"
-            ]
+            ],
+            "numPlayersPlaying": 7
         },
         {
             "powerPlayer": "Chris Gayle (kxp)",
@@ -398,7 +413,8 @@
             "teams": [
                 "kings-xi-punjab",
                 "sunrisers-hyderabad"
-            ]
+            ],
+            "numPlayersPlaying": 5
         },
         {
             "powerPlayer": "Suresh Raina (csk)",
@@ -423,7 +439,8 @@
             "teams": [
                 "chennai-super-kings",
                 "rajasthan-royals"
-            ]
+            ],
+            "numPlayersPlaying": 5
         },
         {
             "powerPlayer": "Sunil Narine (kkr)",
@@ -448,7 +465,8 @@
             "teams": [
                 "kolkata-knight-riders",
                 "kings-xi-punjab"
-            ]
+            ],
+            "numPlayersPlaying": 6
         },
         {
             "powerPlayer": "Jason Roy (dd)",
@@ -473,7 +491,8 @@
             "teams": [
                 "royal-challengers-bangalore",
                 "delhi-daredevils"
-            ]
+            ],
+            "numPlayersPlaying": 4
         },
         {
             "powerPlayer": "Suresh Raina (csk)",
@@ -498,7 +517,8 @@
             "teams": [
                 "sunrisers-hyderabad",
                 "chennai-super-kings"
-            ]
+            ],
+            "numPlayersPlaying": 4
         },
         {
             "powerPlayer": "Krunal Pandya (mi)",
@@ -523,7 +543,8 @@
             "teams": [
                 "rajasthan-royals",
                 "mumbai-indians"
-            ]
+            ],
+            "numPlayersPlaying": 5
         },
         {
             "powerPlayer": "Lokesh Rahul (kxp)",
@@ -548,7 +569,8 @@
             "teams": [
                 "delhi-daredevils",
                 "kings-xi-punjab"
-            ]
+            ],
+            "numPlayersPlaying": 6
         },
         {
             "powerPlayer": "Krunal Pandya (mi)",
@@ -573,7 +595,8 @@
             "teams": [
                 "mumbai-indians",
                 "sunrisers-hyderabad"
-            ]
+            ],
+            "numPlayersPlaying": 5
         },
         {
             "powerPlayer": "Ab De Villiers (rcb)",
@@ -598,7 +621,8 @@
             "teams": [
                 "royal-challengers-bangalore",
                 "chennai-super-kings"
-            ]
+            ],
+            "numPlayersPlaying": 5
         },
         {
             "powerPlayer": "Andrew Tye (kxp)",
@@ -623,7 +647,8 @@
             "teams": [
                 "sunrisers-hyderabad",
                 "kings-xi-punjab"
-            ]
+            ],
+            "numPlayersPlaying": 7
         },
         {
             "powerPlayer": "Sunil Narine (kkr)",
@@ -648,7 +673,8 @@
             "teams": [
                 "delhi-daredevils",
                 "kolkata-knight-riders"
-            ]
+            ],
+            "numPlayersPlaying": 4
         },
         {
             "powerPlayer": "Shane Watson (csk)",
@@ -673,7 +699,8 @@
             "teams": [
                 "chennai-super-kings",
                 "mumbai-indians"
-            ]
+            ],
+            "numPlayersPlaying": 4
         },
         {
             "powerPlayer": "Jofra Archer (rr)",
@@ -698,7 +725,8 @@
             "teams": [
                 "rajasthan-royals",
                 "sunrisers-hyderabad"
-            ]
+            ],
+            "numPlayersPlaying": 5
         },
         {
             "powerPlayer": "Virat Kohli (rcb)",
@@ -723,7 +751,8 @@
             "teams": [
                 "royal-challengers-bangalore",
                 "kolkata-knight-riders"
-            ]
+            ],
+            "numPlayersPlaying": 5
         },
         {
             "powerPlayer": "Ambati Rayudu (csk)",
@@ -748,7 +777,8 @@
             "teams": [
                 "chennai-super-kings",
                 "delhi-daredevils"
-            ]
+            ],
+            "numPlayersPlaying": 7
         },
         {
             "powerPlayer": "Virat Kohli (rcb)",
@@ -773,7 +803,8 @@
             "teams": [
                 "royal-challengers-bangalore",
                 "mumbai-indians"
-            ]
+            ],
+            "numPlayersPlaying": 4
         },
         {
             "powerPlayer": "Jofra Archer (rr)",
@@ -798,7 +829,8 @@
             "teams": [
                 "delhi-daredevils",
                 "rajasthan-royals"
-            ]
+            ],
+            "numPlayersPlaying": 5
         },
         {
             "powerPlayer": "Shane Watson (csk)",
@@ -823,7 +855,8 @@
             "teams": [
                 "kolkata-knight-riders",
                 "chennai-super-kings"
-            ]
+            ],
+            "numPlayersPlaying": 6
         },
         {
             "powerPlayer": "Shane Watson (csk)",
@@ -848,7 +881,8 @@
             "teams": [
                 "kings-xi-punjab",
                 "mumbai-indians"
-            ]
+            ],
+            "numPlayersPlaying": 2
         }
     ],
     "Rocky United": [
@@ -875,7 +909,8 @@
             "teams": [
                 "mumbai-indians",
                 "chennai-super-kings"
-            ]
+            ],
+            "numPlayersPlaying": 7
         },
         {
             "powerPlayer": "Gautam Gambhir (dd)",
@@ -900,7 +935,8 @@
             "teams": [
                 "kings-xi-punjab",
                 "delhi-daredevils"
-            ]
+            ],
+            "numPlayersPlaying": 3
         },
         {
             "powerPlayer": "Dinesh Karthik (kkr)",
@@ -925,7 +961,8 @@
             "teams": [
                 "kolkata-knight-riders",
                 "royal-challengers-bangalore"
-            ]
+            ],
+            "numPlayersPlaying": 4
         },
         {
             "powerPlayer": "Ben Stokes (rr)",
@@ -950,7 +987,8 @@
             "teams": [
                 "sunrisers-hyderabad",
                 "rajasthan-royals"
-            ]
+            ],
+            "numPlayersPlaying": 3
         },
         {
             "powerPlayer": "Dinesh Karthik (kkr)",
@@ -975,7 +1013,8 @@
             "teams": [
                 "chennai-super-kings",
                 "kolkata-knight-riders"
-            ]
+            ],
+            "numPlayersPlaying": 5
         },
         {
             "powerPlayer": "Chris Morris (dd)",
@@ -1000,7 +1039,8 @@
             "teams": [
                 "rajasthan-royals",
                 "delhi-daredevils"
-            ]
+            ],
+            "numPlayersPlaying": 4
         },
         {
             "powerPlayer": "Krunal Pandya (mi)",
@@ -1025,7 +1065,8 @@
             "teams": [
                 "sunrisers-hyderabad",
                 "mumbai-indians"
-            ]
+            ],
+            "numPlayersPlaying": 4
         },
         {
             "powerPlayer": "Lokesh Rahul (kxp)",
@@ -1050,7 +1091,8 @@
             "teams": [
                 "royal-challengers-bangalore",
                 "kings-xi-punjab"
-            ]
+            ],
+            "numPlayersPlaying": 3
         },
         {
             "powerPlayer": "Krunal Pandya (mi)",
@@ -1075,7 +1117,8 @@
             "teams": [
                 "mumbai-indians",
                 "delhi-daredevils"
-            ]
+            ],
+            "numPlayersPlaying": 4
         },
         {
             "powerPlayer": "Andre Russell (kkr)",
@@ -1100,7 +1143,8 @@
             "teams": [
                 "kolkata-knight-riders",
                 "sunrisers-hyderabad"
-            ]
+            ],
+            "numPlayersPlaying": 5
         },
         {
             "powerPlayer": "Virat Kohli (rcb)",
@@ -1125,7 +1169,8 @@
             "teams": [
                 "royal-challengers-bangalore",
                 "rajasthan-royals"
-            ]
+            ],
+            "numPlayersPlaying": 3
         },
         {
             "powerPlayer": "Lokesh Rahul (kxp)",
@@ -1150,7 +1195,8 @@
             "teams": [
                 "kings-xi-punjab",
                 "chennai-super-kings"
-            ]
+            ],
+            "numPlayersPlaying": 4
         },
         {
             "powerPlayer": "Sunil Narine (kkr)",
@@ -1175,7 +1221,8 @@
             "teams": [
                 "kolkata-knight-riders",
                 "delhi-daredevils"
-            ]
+            ],
+            "numPlayersPlaying": 5
         },
         {
             "powerPlayer": "Krunal Pandya (mi)",
@@ -1200,7 +1247,8 @@
             "teams": [
                 "mumbai-indians",
                 "royal-challengers-bangalore"
-            ]
+            ],
+            "numPlayersPlaying": 5
         },
         {
             "powerPlayer": "Sunil Narine (kkr)",
@@ -1225,7 +1273,8 @@
             "teams": [
                 "rajasthan-royals",
                 "kolkata-knight-riders"
-            ]
+            ],
+            "numPlayersPlaying": 5
         },
         {
             "powerPlayer": "Lokesh Rahul (kxp)",
@@ -1250,7 +1299,8 @@
             "teams": [
                 "kings-xi-punjab",
                 "sunrisers-hyderabad"
-            ]
+            ],
+            "numPlayersPlaying": 4
         },
         {
             "powerPlayer": "Ambati Rayudu (csk)",
@@ -1275,7 +1325,8 @@
             "teams": [
                 "chennai-super-kings",
                 "rajasthan-royals"
-            ]
+            ],
+            "numPlayersPlaying": 4
         },
         {
             "powerPlayer": "Sunil Narine (kkr)",
@@ -1300,7 +1351,8 @@
             "teams": [
                 "kolkata-knight-riders",
                 "kings-xi-punjab"
-            ]
+            ],
+            "numPlayersPlaying": 6
         },
         {
             "powerPlayer": "Rishabh Pant (dd)",
@@ -1325,7 +1377,8 @@
             "teams": [
                 "royal-challengers-bangalore",
                 "delhi-daredevils"
-            ]
+            ],
+            "numPlayersPlaying": 4
         },
         {
             "powerPlayer": "Kane Williamson (sh)",
@@ -1350,7 +1403,8 @@
             "teams": [
                 "sunrisers-hyderabad",
                 "chennai-super-kings"
-            ]
+            ],
+            "numPlayersPlaying": 5
         },
         {
             "powerPlayer": "Evin Lewis (mi)",
@@ -1375,7 +1429,8 @@
             "teams": [
                 "rajasthan-royals",
                 "mumbai-indians"
-            ]
+            ],
+            "numPlayersPlaying": 3
         },
         {
             "powerPlayer": "Lokesh Rahul (kxp)",
@@ -1400,7 +1455,8 @@
             "teams": [
                 "delhi-daredevils",
                 "kings-xi-punjab"
-            ]
+            ],
+            "numPlayersPlaying": 4
         },
         {
             "powerPlayer": "Kane Williamson (sh)",
@@ -1425,7 +1481,8 @@
             "teams": [
                 "mumbai-indians",
                 "sunrisers-hyderabad"
-            ]
+            ],
+            "numPlayersPlaying": 4
         },
         {
             "powerPlayer": "Virat Kohli (rcb)",
@@ -1450,7 +1507,8 @@
             "teams": [
                 "royal-challengers-bangalore",
                 "chennai-super-kings"
-            ]
+            ],
+            "numPlayersPlaying": 6
         },
         {
             "powerPlayer": "Kane Williamson (sh)",
@@ -1475,7 +1533,8 @@
             "teams": [
                 "sunrisers-hyderabad",
                 "kings-xi-punjab"
-            ]
+            ],
+            "numPlayersPlaying": 5
         },
         {
             "powerPlayer": "Sunil Narine (kkr)",
@@ -1500,7 +1559,8 @@
             "teams": [
                 "delhi-daredevils",
                 "kolkata-knight-riders"
-            ]
+            ],
+            "numPlayersPlaying": 5
         },
         {
             "powerPlayer": "Ambati Rayudu (csk)",
@@ -1525,7 +1585,8 @@
             "teams": [
                 "chennai-super-kings",
                 "mumbai-indians"
-            ]
+            ],
+            "numPlayersPlaying": 5
         },
         {
             "powerPlayer": "Ish Sodhi (rr)",
@@ -1550,7 +1611,8 @@
             "teams": [
                 "rajasthan-royals",
                 "sunrisers-hyderabad"
-            ]
+            ],
+            "numPlayersPlaying": 4
         },
         {
             "powerPlayer": "Virat Kohli (rcb)",
@@ -1575,7 +1637,8 @@
             "teams": [
                 "royal-challengers-bangalore",
                 "kolkata-knight-riders"
-            ]
+            ],
+            "numPlayersPlaying": 6
         },
         {
             "powerPlayer": "Ambati Rayudu (csk)",
@@ -1600,7 +1663,8 @@
             "teams": [
                 "chennai-super-kings",
                 "delhi-daredevils"
-            ]
+            ],
+            "numPlayersPlaying": 4
         },
         {
             "powerPlayer": "Krunal Pandya (mi)",
@@ -1625,7 +1689,8 @@
             "teams": [
                 "royal-challengers-bangalore",
                 "mumbai-indians"
-            ]
+            ],
+            "numPlayersPlaying": 5
         },
         {
             "powerPlayer": "Prithvi Shaw (dd)",
@@ -1650,7 +1715,8 @@
             "teams": [
                 "delhi-daredevils",
                 "rajasthan-royals"
-            ]
+            ],
+            "numPlayersPlaying": 5
         },
         {
             "powerPlayer": "Ambati Rayudu (csk)",
@@ -1675,7 +1741,8 @@
             "teams": [
                 "kolkata-knight-riders",
                 "chennai-super-kings"
-            ]
+            ],
+            "numPlayersPlaying": 5
         },
         {
             "powerPlayer": "Ambati Rayudu (csk)",
@@ -1700,7 +1767,8 @@
             "teams": [
                 "kings-xi-punjab",
                 "mumbai-indians"
-            ]
+            ],
+            "numPlayersPlaying": 1
         }
     ],
     "RaisedByWolves": [
@@ -1727,7 +1795,8 @@
             "teams": [
                 "mumbai-indians",
                 "chennai-super-kings"
-            ]
+            ],
+            "numPlayersPlaying": 3
         },
         {
             "powerPlayer": "Lokesh Rahul (kxp)",
@@ -1752,7 +1821,8 @@
             "teams": [
                 "kings-xi-punjab",
                 "delhi-daredevils"
-            ]
+            ],
+            "numPlayersPlaying": 3
         },
         {
             "powerPlayer": "Colin De Grandhomme (rcb)",
@@ -1777,7 +1847,8 @@
             "teams": [
                 "kolkata-knight-riders",
                 "royal-challengers-bangalore"
-            ]
+            ],
+            "numPlayersPlaying": 4
         },
         {
             "powerPlayer": "Colin De Grandhomme (rcb)",
@@ -1802,7 +1873,8 @@
             "teams": [
                 "sunrisers-hyderabad",
                 "rajasthan-royals"
-            ]
+            ],
+            "numPlayersPlaying": 1
         },
         {
             "powerPlayer": "Sunil Narine (kkr)",
@@ -1827,7 +1899,8 @@
             "teams": [
                 "chennai-super-kings",
                 "kolkata-knight-riders"
-            ]
+            ],
+            "numPlayersPlaying": 5
         },
         {
             "powerPlayer": "Ben Stokes (rr)",
@@ -1852,7 +1925,8 @@
             "teams": [
                 "rajasthan-royals",
                 "delhi-daredevils"
-            ]
+            ],
+            "numPlayersPlaying": 6
         },
         {
             "powerPlayer": "Krunal Pandya (mi)",
@@ -1877,7 +1951,8 @@
             "teams": [
                 "sunrisers-hyderabad",
                 "mumbai-indians"
-            ]
+            ],
+            "numPlayersPlaying": 6
         },
         {
             "powerPlayer": "Lokesh Rahul (kxp)",
@@ -1902,7 +1977,8 @@
             "teams": [
                 "royal-challengers-bangalore",
                 "kings-xi-punjab"
-            ]
+            ],
+            "numPlayersPlaying": 4
         },
         {
             "powerPlayer": "Trent Boult (dd)",
@@ -1927,7 +2003,8 @@
             "teams": [
                 "mumbai-indians",
                 "delhi-daredevils"
-            ]
+            ],
+            "numPlayersPlaying": 6
         },
         {
             "powerPlayer": "Sunil Narine (kkr)",
@@ -1952,7 +2029,8 @@
             "teams": [
                 "kolkata-knight-riders",
                 "sunrisers-hyderabad"
-            ]
+            ],
+            "numPlayersPlaying": 6
         },
         {
             "powerPlayer": "Sunil Narine (kkr)",
@@ -1977,7 +2055,8 @@
             "teams": [
                 "royal-challengers-bangalore",
                 "rajasthan-royals"
-            ]
+            ],
+            "numPlayersPlaying": 1
         },
         {
             "powerPlayer": "Shane Watson (csk)",
@@ -2002,7 +2081,8 @@
             "teams": [
                 "kings-xi-punjab",
                 "chennai-super-kings"
-            ]
+            ],
+            "numPlayersPlaying": 4
         },
         {
             "powerPlayer": "Shane Watson (csk)",
@@ -2027,7 +2107,8 @@
             "teams": [
                 "kolkata-knight-riders",
                 "delhi-daredevils"
-            ]
+            ],
+            "numPlayersPlaying": 5
         },
         {
             "powerPlayer": "Krunal Pandya (mi)",
@@ -2052,7 +2133,8 @@
             "teams": [
                 "mumbai-indians",
                 "royal-challengers-bangalore"
-            ]
+            ],
+            "numPlayersPlaying": 5
         },
         {
             "powerPlayer": "Sunil Narine (kkr)",
@@ -2077,7 +2159,8 @@
             "teams": [
                 "rajasthan-royals",
                 "kolkata-knight-riders"
-            ]
+            ],
+            "numPlayersPlaying": 5
         },
         {
             "powerPlayer": "Shakib Al Hasan (sh)",
@@ -2102,7 +2185,8 @@
             "teams": [
                 "kings-xi-punjab",
                 "sunrisers-hyderabad"
-            ]
+            ],
+            "numPlayersPlaying": 5
         },
         {
             "powerPlayer": "Shane Watson (csk)",
@@ -2127,7 +2211,8 @@
             "teams": [
                 "chennai-super-kings",
                 "rajasthan-royals"
-            ]
+            ],
+            "numPlayersPlaying": 4
         },
         {
             "powerPlayer": "Sunil Narine (kkr)",
@@ -2152,7 +2237,8 @@
             "teams": [
                 "kolkata-knight-riders",
                 "kings-xi-punjab"
-            ]
+            ],
+            "numPlayersPlaying": 4
         },
         {
             "powerPlayer": "Rishabh Pant (dd)",
@@ -2177,7 +2263,8 @@
             "teams": [
                 "royal-challengers-bangalore",
                 "delhi-daredevils"
-            ]
+            ],
+            "numPlayersPlaying": 5
         },
         {
             "powerPlayer": "Shane Watson (csk)",
@@ -2202,7 +2289,8 @@
             "teams": [
                 "sunrisers-hyderabad",
                 "chennai-super-kings"
-            ]
+            ],
+            "numPlayersPlaying": 5
         },
         {
             "powerPlayer": "Rohit Sharma (mi)",
@@ -2227,7 +2315,8 @@
             "teams": [
                 "rajasthan-royals",
                 "mumbai-indians"
-            ]
+            ],
+            "numPlayersPlaying": 4
         },
         {
             "powerPlayer": "Lokesh Rahul (kxp)",
@@ -2252,7 +2341,8 @@
             "teams": [
                 "delhi-daredevils",
                 "kings-xi-punjab"
-            ]
+            ],
+            "numPlayersPlaying": 5
         },
         {
             "powerPlayer": "Shakib Al Hasan (sh)",
@@ -2277,7 +2367,8 @@
             "teams": [
                 "mumbai-indians",
                 "sunrisers-hyderabad"
-            ]
+            ],
+            "numPlayersPlaying": 6
         },
         {
             "powerPlayer": "Ab De Villiers (rcb)",
@@ -2302,7 +2393,8 @@
             "teams": [
                 "royal-challengers-bangalore",
                 "chennai-super-kings"
-            ]
+            ],
+            "numPlayersPlaying": 6
         },
         {
             "powerPlayer": "Kane Williamson (sh)",
@@ -2327,7 +2419,8 @@
             "teams": [
                 "sunrisers-hyderabad",
                 "kings-xi-punjab"
-            ]
+            ],
+            "numPlayersPlaying": 4
         },
         {
             "powerPlayer": "Sunil Narine (kkr)",
@@ -2352,7 +2445,8 @@
             "teams": [
                 "delhi-daredevils",
                 "kolkata-knight-riders"
-            ]
+            ],
+            "numPlayersPlaying": 3
         },
         {
             "powerPlayer": "Ambati Rayudu (csk)",
@@ -2377,7 +2471,8 @@
             "teams": [
                 "chennai-super-kings",
                 "mumbai-indians"
-            ]
+            ],
+            "numPlayersPlaying": 5
         },
         {
             "powerPlayer": "Kane Williamson (sh)",
@@ -2402,7 +2497,8 @@
             "teams": [
                 "rajasthan-royals",
                 "sunrisers-hyderabad"
-            ]
+            ],
+            "numPlayersPlaying": 4
         },
         {
             "powerPlayer": "Virat Kohli (rcb)",
@@ -2427,7 +2523,8 @@
             "teams": [
                 "royal-challengers-bangalore",
                 "kolkata-knight-riders"
-            ]
+            ],
+            "numPlayersPlaying": 5
         },
         {
             "powerPlayer": "Ambati Rayudu (csk)",
@@ -2452,7 +2549,8 @@
             "teams": [
                 "chennai-super-kings",
                 "delhi-daredevils"
-            ]
+            ],
+            "numPlayersPlaying": 5
         },
         {
             "powerPlayer": "Virat Kohli (rcb)",
@@ -2477,7 +2575,8 @@
             "teams": [
                 "royal-challengers-bangalore",
                 "mumbai-indians"
-            ]
+            ],
+            "numPlayersPlaying": 6
         },
         {
             "powerPlayer": "Rishabh Pant (dd)",
@@ -2502,7 +2601,8 @@
             "teams": [
                 "delhi-daredevils",
                 "rajasthan-royals"
-            ]
+            ],
+            "numPlayersPlaying": 3
         },
         {
             "powerPlayer": "Ambati Rayudu (csk)",
@@ -2527,7 +2627,8 @@
             "teams": [
                 "kolkata-knight-riders",
                 "chennai-super-kings"
-            ]
+            ],
+            "numPlayersPlaying": 5
         },
         {
             "powerPlayer": "Ambati Rayudu (csk)",
@@ -2552,7 +2653,8 @@
             "teams": [
                 "kings-xi-punjab",
                 "mumbai-indians"
-            ]
+            ],
+            "numPlayersPlaying": 2
         }
     ],
     "Blaugrana": [
@@ -2579,7 +2681,8 @@
             "teams": [
                 "mumbai-indians",
                 "chennai-super-kings"
-            ]
+            ],
+            "numPlayersPlaying": 6
         },
         {
             "powerPlayer": "Glenn Maxwell (dd)",
@@ -2604,7 +2707,8 @@
             "teams": [
                 "kings-xi-punjab",
                 "delhi-daredevils"
-            ]
+            ],
+            "numPlayersPlaying": 4
         },
         {
             "powerPlayer": "Virat Kohli (rcb)",
@@ -2629,7 +2733,8 @@
             "teams": [
                 "kolkata-knight-riders",
                 "royal-challengers-bangalore"
-            ]
+            ],
+            "numPlayersPlaying": 3
         },
         {
             "powerPlayer": "Bhuvneshwar Kumar (sh)",
@@ -2654,7 +2759,8 @@
             "teams": [
                 "sunrisers-hyderabad",
                 "rajasthan-royals"
-            ]
+            ],
+            "numPlayersPlaying": 4
         },
         {
             "powerPlayer": "Nitish Rana (kkr)",
@@ -2679,7 +2785,8 @@
             "teams": [
                 "chennai-super-kings",
                 "kolkata-knight-riders"
-            ]
+            ],
+            "numPlayersPlaying": 5
         },
         {
             "powerPlayer": "Sanju Samson (rr)",
@@ -2704,7 +2811,8 @@
             "teams": [
                 "rajasthan-royals",
                 "delhi-daredevils"
-            ]
+            ],
+            "numPlayersPlaying": 5
         },
         {
             "powerPlayer": "Krunal Pandya (mi)",
@@ -2729,7 +2837,8 @@
             "teams": [
                 "sunrisers-hyderabad",
                 "mumbai-indians"
-            ]
+            ],
+            "numPlayersPlaying": 6
         },
         {
             "powerPlayer": "Mayank Agarwal (kxp)",
@@ -2754,7 +2863,8 @@
             "teams": [
                 "royal-challengers-bangalore",
                 "kings-xi-punjab"
-            ]
+            ],
+            "numPlayersPlaying": 3
         },
         {
             "powerPlayer": "Krunal Pandya (mi)",
@@ -2779,7 +2889,8 @@
             "teams": [
                 "mumbai-indians",
                 "delhi-daredevils"
-            ]
+            ],
+            "numPlayersPlaying": 6
         },
         {
             "powerPlayer": "Sunil Narine (kkr)",
@@ -2804,7 +2915,8 @@
             "teams": [
                 "kolkata-knight-riders",
                 "sunrisers-hyderabad"
-            ]
+            ],
+            "numPlayersPlaying": 5
         },
         {
             "powerPlayer": "Umesh Yadav (rcb)",
@@ -2829,7 +2941,8 @@
             "teams": [
                 "royal-challengers-bangalore",
                 "rajasthan-royals"
-            ]
+            ],
+            "numPlayersPlaying": 4
         },
         {
             "powerPlayer": "Lokesh Rahul (kxp)",
@@ -2854,7 +2967,8 @@
             "teams": [
                 "kings-xi-punjab",
                 "chennai-super-kings"
-            ]
+            ],
+            "numPlayersPlaying": 4
         },
         {
             "powerPlayer": "Sunil Narine (kkr)",
@@ -2879,7 +2993,8 @@
             "teams": [
                 "kolkata-knight-riders",
                 "delhi-daredevils"
-            ]
+            ],
+            "numPlayersPlaying": 3
         },
         {
             "powerPlayer": "Ishan Kishan (mi)",
@@ -2904,7 +3019,8 @@
             "teams": [
                 "mumbai-indians",
                 "royal-challengers-bangalore"
-            ]
+            ],
+            "numPlayersPlaying": 4
         },
         {
             "powerPlayer": "Sunil Narine (kkr)",
@@ -2929,7 +3045,8 @@
             "teams": [
                 "rajasthan-royals",
                 "kolkata-knight-riders"
-            ]
+            ],
+            "numPlayersPlaying": 5
         },
         {
             "powerPlayer": "Bhuvneshwar Kumar (sh)",
@@ -2954,7 +3071,8 @@
             "teams": [
                 "kings-xi-punjab",
                 "sunrisers-hyderabad"
-            ]
+            ],
+            "numPlayersPlaying": 4
         },
         {
             "powerPlayer": "Shane Watson (csk)",
@@ -2979,7 +3097,8 @@
             "teams": [
                 "chennai-super-kings",
                 "rajasthan-royals"
-            ]
+            ],
+            "numPlayersPlaying": 4
         },
         {
             "powerPlayer": "Sunil Narine (kkr)",
@@ -3004,7 +3123,8 @@
             "teams": [
                 "kolkata-knight-riders",
                 "kings-xi-punjab"
-            ]
+            ],
+            "numPlayersPlaying": 3
         },
         {
             "powerPlayer": "Umesh Yadav (rcb)",
@@ -3029,7 +3149,8 @@
             "teams": [
                 "royal-challengers-bangalore",
                 "delhi-daredevils"
-            ]
+            ],
+            "numPlayersPlaying": 3
         },
         {
             "powerPlayer": "Shane Watson (csk)",
@@ -3054,7 +3175,8 @@
             "teams": [
                 "sunrisers-hyderabad",
                 "chennai-super-kings"
-            ]
+            ],
+            "numPlayersPlaying": 3
         },
         {
             "powerPlayer": "Evin Lewis (mi)",
@@ -3079,7 +3201,8 @@
             "teams": [
                 "rajasthan-royals",
                 "mumbai-indians"
-            ]
+            ],
+            "numPlayersPlaying": 7
         },
         {
             "powerPlayer": "Lokesh Rahul (kxp)",
@@ -3104,7 +3227,8 @@
             "teams": [
                 "delhi-daredevils",
                 "kings-xi-punjab"
-            ]
+            ],
+            "numPlayersPlaying": 3
         },
         {
             "powerPlayer": "Shikhar Dhawan (sh)",
@@ -3129,7 +3253,8 @@
             "teams": [
                 "mumbai-indians",
                 "sunrisers-hyderabad"
-            ]
+            ],
+            "numPlayersPlaying": 6
         },
         {
             "powerPlayer": "Ab De Villiers (rcb)",
@@ -3154,7 +3279,8 @@
             "teams": [
                 "royal-challengers-bangalore",
                 "chennai-super-kings"
-            ]
+            ],
+            "numPlayersPlaying": 5
         },
         {
             "powerPlayer": "Shikhar Dhawan (sh)",
@@ -3179,7 +3305,8 @@
             "teams": [
                 "sunrisers-hyderabad",
                 "kings-xi-punjab"
-            ]
+            ],
+            "numPlayersPlaying": 5
         },
         {
             "powerPlayer": "Sunil Narine (kkr)",
@@ -3204,7 +3331,8 @@
             "teams": [
                 "delhi-daredevils",
                 "kolkata-knight-riders"
-            ]
+            ],
+            "numPlayersPlaying": 4
         },
         {
             "powerPlayer": "Shane Watson (csk)",
@@ -3229,7 +3357,8 @@
             "teams": [
                 "chennai-super-kings",
                 "mumbai-indians"
-            ]
+            ],
+            "numPlayersPlaying": 5
         },
         {
             "powerPlayer": "Shikhar Dhawan (sh)",
@@ -3254,7 +3383,8 @@
             "teams": [
                 "rajasthan-royals",
                 "sunrisers-hyderabad"
-            ]
+            ],
+            "numPlayersPlaying": 2
         },
         {
             "powerPlayer": "Virat Kohli (rcb)",
@@ -3279,7 +3409,8 @@
             "teams": [
                 "royal-challengers-bangalore",
                 "kolkata-knight-riders"
-            ]
+            ],
+            "numPlayersPlaying": 8
         },
         {
             "powerPlayer": "Shane Watson (csk)",
@@ -3304,7 +3435,8 @@
             "teams": [
                 "chennai-super-kings",
                 "delhi-daredevils"
-            ]
+            ],
+            "numPlayersPlaying": 3
         },
         {
             "powerPlayer": "Virat Kohli (rcb)",
@@ -3329,7 +3461,8 @@
             "teams": [
                 "royal-challengers-bangalore",
                 "mumbai-indians"
-            ]
+            ],
+            "numPlayersPlaying": 7
         },
         {
             "powerPlayer": "Shreyas Iyer (dd)",
@@ -3354,7 +3487,8 @@
             "teams": [
                 "delhi-daredevils",
                 "rajasthan-royals"
-            ]
+            ],
+            "numPlayersPlaying": 3
         },
         {
             "powerPlayer": "Ambati Rayudu (csk)",
@@ -3379,7 +3513,8 @@
             "teams": [
                 "kolkata-knight-riders",
                 "chennai-super-kings"
-            ]
+            ],
+            "numPlayersPlaying": 4
         },
         {
             "powerPlayer": "Ambati Rayudu (csk)",
@@ -3404,7 +3539,8 @@
             "teams": [
                 "kings-xi-punjab",
                 "mumbai-indians"
-            ]
+            ],
+            "numPlayersPlaying": 1
         }
     ],
     "Alpine Warriors": [
@@ -3431,7 +3567,8 @@
             "teams": [
                 "mumbai-indians",
                 "chennai-super-kings"
-            ]
+            ],
+            "numPlayersPlaying": 5
         },
         {
             "powerPlayer": "Marcus Stoinis (kxp)",
@@ -3456,7 +3593,8 @@
             "teams": [
                 "kings-xi-punjab",
                 "delhi-daredevils"
-            ]
+            ],
+            "numPlayersPlaying": 6
         },
         {
             "powerPlayer": "Marcus Stoinis (kxp)",
@@ -3481,7 +3619,8 @@
             "teams": [
                 "kolkata-knight-riders",
                 "royal-challengers-bangalore"
-            ]
+            ],
+            "numPlayersPlaying": 5
         },
         {
             "powerPlayer": "Ben Stokes (rr)",
@@ -3506,7 +3645,8 @@
             "teams": [
                 "sunrisers-hyderabad",
                 "rajasthan-royals"
-            ]
+            ],
+            "numPlayersPlaying": 2
         },
         {
             "powerPlayer": "Dinesh Karthik (kkr)",
@@ -3531,7 +3671,8 @@
             "teams": [
                 "chennai-super-kings",
                 "kolkata-knight-riders"
-            ]
+            ],
+            "numPlayersPlaying": 5
         },
         {
             "powerPlayer": "Colin Munro (dd)",
@@ -3556,7 +3697,8 @@
             "teams": [
                 "rajasthan-royals",
                 "delhi-daredevils"
-            ]
+            ],
+            "numPlayersPlaying": 4
         },
         {
             "powerPlayer": "Rohit Sharma (mi)",
@@ -3581,7 +3723,8 @@
             "teams": [
                 "sunrisers-hyderabad",
                 "mumbai-indians"
-            ]
+            ],
+            "numPlayersPlaying": 7
         },
         {
             "powerPlayer": "Aaron Finch (kxp)",
@@ -3606,7 +3749,8 @@
             "teams": [
                 "royal-challengers-bangalore",
                 "kings-xi-punjab"
-            ]
+            ],
+            "numPlayersPlaying": 4
         },
         {
             "powerPlayer": "Rohit Sharma (mi)",
@@ -3631,7 +3775,8 @@
             "teams": [
                 "mumbai-indians",
                 "delhi-daredevils"
-            ]
+            ],
+            "numPlayersPlaying": 5
         },
         {
             "powerPlayer": "Chris Lynn (kkr)",
@@ -3656,7 +3801,8 @@
             "teams": [
                 "kolkata-knight-riders",
                 "sunrisers-hyderabad"
-            ]
+            ],
+            "numPlayersPlaying": 6
         },
         {
             "powerPlayer": "Yuzvendra Chahal (rcb)",
@@ -3681,7 +3827,8 @@
             "teams": [
                 "royal-challengers-bangalore",
                 "rajasthan-royals"
-            ]
+            ],
+            "numPlayersPlaying": 3
         },
         {
             "powerPlayer": "Lokesh Rahul (kxp)",
@@ -3706,7 +3853,8 @@
             "teams": [
                 "kings-xi-punjab",
                 "chennai-super-kings"
-            ]
+            ],
+            "numPlayersPlaying": 3
         },
         {
             "powerPlayer": "Chris Lynn (kkr)",
@@ -3731,7 +3879,8 @@
             "teams": [
                 "kolkata-knight-riders",
                 "delhi-daredevils"
-            ]
+            ],
+            "numPlayersPlaying": 4
         },
         {
             "powerPlayer": "Rohit Sharma (mi)",
@@ -3756,7 +3905,8 @@
             "teams": [
                 "mumbai-indians",
                 "royal-challengers-bangalore"
-            ]
+            ],
+            "numPlayersPlaying": 5
         },
         {
             "powerPlayer": "Sunil Narine (kkr)",
@@ -3781,7 +3931,8 @@
             "teams": [
                 "rajasthan-royals",
                 "kolkata-knight-riders"
-            ]
+            ],
+            "numPlayersPlaying": 6
         },
         {
             "powerPlayer": "Shakib Al Hasan (sh)",
@@ -3806,7 +3957,8 @@
             "teams": [
                 "kings-xi-punjab",
                 "sunrisers-hyderabad"
-            ]
+            ],
+            "numPlayersPlaying": 5
         },
         {
             "powerPlayer": "Shane Watson (csk)",
@@ -3831,7 +3983,8 @@
             "teams": [
                 "chennai-super-kings",
                 "rajasthan-royals"
-            ]
+            ],
+            "numPlayersPlaying": 5
         },
         {
             "powerPlayer": "Nitish Rana (kkr)",
@@ -3856,7 +4009,8 @@
             "teams": [
                 "kolkata-knight-riders",
                 "kings-xi-punjab"
-            ]
+            ],
+            "numPlayersPlaying": 3
         },
         {
             "powerPlayer": "Rahul Tewatia (dd)",
@@ -3881,7 +4035,8 @@
             "teams": [
                 "royal-challengers-bangalore",
                 "delhi-daredevils"
-            ]
+            ],
+            "numPlayersPlaying": 2
         },
         {
             "powerPlayer": "Shane Watson (csk)",
@@ -3906,7 +4061,8 @@
             "teams": [
                 "sunrisers-hyderabad",
                 "chennai-super-kings"
-            ]
+            ],
+            "numPlayersPlaying": 5
         },
         {
             "powerPlayer": "Rohit Sharma (mi)",
@@ -3931,7 +4087,8 @@
             "teams": [
                 "rajasthan-royals",
                 "mumbai-indians"
-            ]
+            ],
+            "numPlayersPlaying": 6
         },
         {
             "powerPlayer": "Lokesh Rahul (kxp)",
@@ -3956,7 +4113,8 @@
             "teams": [
                 "delhi-daredevils",
                 "kings-xi-punjab"
-            ]
+            ],
+            "numPlayersPlaying": 4
         },
         {
             "powerPlayer": "Shakib Al Hasan (sh)",
@@ -3981,7 +4139,8 @@
             "teams": [
                 "mumbai-indians",
                 "sunrisers-hyderabad"
-            ]
+            ],
+            "numPlayersPlaying": 5
         },
         {
             "powerPlayer": "Virat Kohli (rcb)",
@@ -4006,7 +4165,8 @@
             "teams": [
                 "royal-challengers-bangalore",
                 "chennai-super-kings"
-            ]
+            ],
+            "numPlayersPlaying": 4
         },
         {
             "powerPlayer": "Andrew Tye (kxp)",
@@ -4031,7 +4191,8 @@
             "teams": [
                 "sunrisers-hyderabad",
                 "kings-xi-punjab"
-            ]
+            ],
+            "numPlayersPlaying": 5
         },
         {
             "powerPlayer": "Sunil Narine (kkr)",
@@ -4056,7 +4217,8 @@
             "teams": [
                 "delhi-daredevils",
                 "kolkata-knight-riders"
-            ]
+            ],
+            "numPlayersPlaying": 4
         },
         {
             "powerPlayer": "Shane Watson (csk)",
@@ -4081,7 +4243,8 @@
             "teams": [
                 "chennai-super-kings",
                 "mumbai-indians"
-            ]
+            ],
+            "numPlayersPlaying": 4
         },
         {
             "powerPlayer": "Rashid Khan (sh)",
@@ -4106,7 +4269,8 @@
             "teams": [
                 "rajasthan-royals",
                 "sunrisers-hyderabad"
-            ]
+            ],
+            "numPlayersPlaying": 2
         },
         {
             "powerPlayer": "Virat Kohli (rcb)",
@@ -4131,7 +4295,8 @@
             "teams": [
                 "royal-challengers-bangalore",
                 "kolkata-knight-riders"
-            ]
+            ],
+            "numPlayersPlaying": 6
         },
         {
             "powerPlayer": "Ambati Rayudu (csk)",
@@ -4156,7 +4321,8 @@
             "teams": [
                 "chennai-super-kings",
                 "delhi-daredevils"
-            ]
+            ],
+            "numPlayersPlaying": 5
         },
         {
             "powerPlayer": "Virat Kohli (rcb)",
@@ -4181,7 +4347,8 @@
             "teams": [
                 "royal-challengers-bangalore",
                 "mumbai-indians"
-            ]
+            ],
+            "numPlayersPlaying": 5
         },
         {
             "powerPlayer": "Jofra Archer (rr)",
@@ -4206,7 +4373,8 @@
             "teams": [
                 "delhi-daredevils",
                 "rajasthan-royals"
-            ]
+            ],
+            "numPlayersPlaying": 3
         },
         {
             "powerPlayer": "Shane Watson (csk)",
@@ -4231,7 +4399,8 @@
             "teams": [
                 "kolkata-knight-riders",
                 "chennai-super-kings"
-            ]
+            ],
+            "numPlayersPlaying": 6
         },
         {
             "powerPlayer": "Shane Watson (csk)",
@@ -4256,7 +4425,8 @@
             "teams": [
                 "kings-xi-punjab",
                 "mumbai-indians"
-            ]
+            ],
+            "numPlayersPlaying": 2
         }
     ],
     "Warriors": [
@@ -4283,7 +4453,8 @@
             "teams": [
                 "mumbai-indians",
                 "chennai-super-kings"
-            ]
+            ],
+            "numPlayersPlaying": 5
         },
         {
             "powerPlayer": "Ravindra Jadeja (csk)",
@@ -4308,7 +4479,8 @@
             "teams": [
                 "kings-xi-punjab",
                 "delhi-daredevils"
-            ]
+            ],
+            "numPlayersPlaying": 4
         },
         {
             "powerPlayer": "Ravindra Jadeja (csk)",
@@ -4333,7 +4505,8 @@
             "teams": [
                 "kolkata-knight-riders",
                 "royal-challengers-bangalore"
-            ]
+            ],
+            "numPlayersPlaying": 1
         },
         {
             "powerPlayer": "Alex Hales (sh)",
@@ -4358,7 +4531,8 @@
             "teams": [
                 "sunrisers-hyderabad",
                 "rajasthan-royals"
-            ]
+            ],
+            "numPlayersPlaying": 4
         },
         {
             "powerPlayer": "Sunil Narine (kkr)",
@@ -4383,7 +4557,8 @@
             "teams": [
                 "chennai-super-kings",
                 "kolkata-knight-riders"
-            ]
+            ],
+            "numPlayersPlaying": 3
         },
         {
             "powerPlayer": "Glenn Maxwell (dd)",
@@ -4408,7 +4583,8 @@
             "teams": [
                 "rajasthan-royals",
                 "delhi-daredevils"
-            ]
+            ],
+            "numPlayersPlaying": 4
         },
         {
             "powerPlayer": "Mayank Markande (mi)",
@@ -4433,7 +4609,8 @@
             "teams": [
                 "sunrisers-hyderabad",
                 "mumbai-indians"
-            ]
+            ],
+            "numPlayersPlaying": 7
         },
         {
             "powerPlayer": "Yuzvendra Chahal (rcb)",
@@ -4458,7 +4635,8 @@
             "teams": [
                 "royal-challengers-bangalore",
                 "kings-xi-punjab"
-            ]
+            ],
+            "numPlayersPlaying": 3
         },
         {
             "powerPlayer": "Mayank Markande (mi)",
@@ -4483,7 +4661,8 @@
             "teams": [
                 "mumbai-indians",
                 "delhi-daredevils"
-            ]
+            ],
+            "numPlayersPlaying": 7
         },
         {
             "powerPlayer": "Robin Uthappa (kkr)",
@@ -4508,7 +4687,8 @@
             "teams": [
                 "kolkata-knight-riders",
                 "sunrisers-hyderabad"
-            ]
+            ],
+            "numPlayersPlaying": 3
         },
         {
             "powerPlayer": "Virat Kohli (rcb)",
@@ -4533,7 +4713,8 @@
             "teams": [
                 "royal-challengers-bangalore",
                 "rajasthan-royals"
-            ]
+            ],
+            "numPlayersPlaying": 4
         },
         {
             "powerPlayer": "Virat Kohli (rcb)",
@@ -4558,7 +4739,8 @@
             "teams": [
                 "kings-xi-punjab",
                 "chennai-super-kings"
-            ]
+            ],
+            "numPlayersPlaying": 1
         },
         {
             "powerPlayer": "Robin Uthappa (kkr)",
@@ -4583,7 +4765,8 @@
             "teams": [
                 "kolkata-knight-riders",
                 "delhi-daredevils"
-            ]
+            ],
+            "numPlayersPlaying": 5
         },
         {
             "powerPlayer": "Krunal Pandya (mi)",
@@ -4608,7 +4791,8 @@
             "teams": [
                 "mumbai-indians",
                 "royal-challengers-bangalore"
-            ]
+            ],
+            "numPlayersPlaying": 7
         },
         {
             "powerPlayer": "Sunil Narine (kkr)",
@@ -4633,7 +4817,8 @@
             "teams": [
                 "rajasthan-royals",
                 "kolkata-knight-riders"
-            ]
+            ],
+            "numPlayersPlaying": 6
         },
         {
             "powerPlayer": "Shakib Al Hasan (sh)",
@@ -4658,7 +4843,8 @@
             "teams": [
                 "kings-xi-punjab",
                 "sunrisers-hyderabad"
-            ]
+            ],
+            "numPlayersPlaying": 3
         },
         {
             "powerPlayer": "Shane Watson (csk)",
@@ -4683,7 +4869,8 @@
             "teams": [
                 "chennai-super-kings",
                 "rajasthan-royals"
-            ]
+            ],
+            "numPlayersPlaying": 4
         },
         {
             "powerPlayer": "Sunil Narine (kkr)",
@@ -4708,7 +4895,8 @@
             "teams": [
                 "kolkata-knight-riders",
                 "kings-xi-punjab"
-            ]
+            ],
+            "numPlayersPlaying": 6
         },
         {
             "powerPlayer": "Yuzvendra Chahal (rcb)",
@@ -4733,7 +4921,8 @@
             "teams": [
                 "royal-challengers-bangalore",
                 "delhi-daredevils"
-            ]
+            ],
+            "numPlayersPlaying": 3
         },
         {
             "powerPlayer": "Shane Watson (csk)",
@@ -4758,7 +4947,8 @@
             "teams": [
                 "sunrisers-hyderabad",
                 "chennai-super-kings"
-            ]
+            ],
+            "numPlayersPlaying": 2
         },
         {
             "powerPlayer": "Rohit Sharma (mi)",
@@ -4783,7 +4973,8 @@
             "teams": [
                 "rajasthan-royals",
                 "mumbai-indians"
-            ]
+            ],
+            "numPlayersPlaying": 6
         },
         {
             "powerPlayer": "Lokesh Rahul (kxp)",
@@ -4808,7 +4999,8 @@
             "teams": [
                 "delhi-daredevils",
                 "kings-xi-punjab"
-            ]
+            ],
+            "numPlayersPlaying": 5
         },
         {
             "powerPlayer": "Krunal Pandya (mi)",
@@ -4833,7 +5025,8 @@
             "teams": [
                 "mumbai-indians",
                 "sunrisers-hyderabad"
-            ]
+            ],
+            "numPlayersPlaying": 5
         },
         {
             "powerPlayer": "Virat Kohli (rcb)",
@@ -4858,7 +5051,8 @@
             "teams": [
                 "royal-challengers-bangalore",
                 "chennai-super-kings"
-            ]
+            ],
+            "numPlayersPlaying": 5
         },
         {
             "powerPlayer": "Mujeeb Ur Rahman (kxp)",
@@ -4883,7 +5077,8 @@
             "teams": [
                 "sunrisers-hyderabad",
                 "kings-xi-punjab"
-            ]
+            ],
+            "numPlayersPlaying": 4
         },
         {
             "powerPlayer": "Nitish Rana (kkr)",
@@ -4908,7 +5103,8 @@
             "teams": [
                 "delhi-daredevils",
                 "kolkata-knight-riders"
-            ]
+            ],
+            "numPlayersPlaying": 3
         },
         {
             "powerPlayer": "Shane Watson (csk)",
@@ -4933,7 +5129,8 @@
             "teams": [
                 "chennai-super-kings",
                 "mumbai-indians"
-            ]
+            ],
+            "numPlayersPlaying": 5
         },
         {
             "powerPlayer": "Siddarth Kaul (sh)",
@@ -4958,7 +5155,8 @@
             "teams": [
                 "rajasthan-royals",
                 "sunrisers-hyderabad"
-            ]
+            ],
+            "numPlayersPlaying": 2
         },
         {
             "powerPlayer": "Virat Kohli (rcb)",
@@ -4983,7 +5181,8 @@
             "teams": [
                 "royal-challengers-bangalore",
                 "kolkata-knight-riders"
-            ]
+            ],
+            "numPlayersPlaying": 4
         },
         {
             "powerPlayer": "Shane Watson (csk)",
@@ -5008,7 +5207,8 @@
             "teams": [
                 "chennai-super-kings",
                 "delhi-daredevils"
-            ]
+            ],
+            "numPlayersPlaying": 5
         },
         {
             "powerPlayer": "Virat Kohli (rcb)",
@@ -5033,7 +5233,8 @@
             "teams": [
                 "royal-challengers-bangalore",
                 "mumbai-indians"
-            ]
+            ],
+            "numPlayersPlaying": 6
         },
         {
             "powerPlayer": "Rishabh Pant (dd)",
@@ -5058,7 +5259,8 @@
             "teams": [
                 "delhi-daredevils",
                 "rajasthan-royals"
-            ]
+            ],
+            "numPlayersPlaying": 5
         },
         {
             "powerPlayer": "Suresh Raina (csk)",
@@ -5083,7 +5285,8 @@
             "teams": [
                 "kolkata-knight-riders",
                 "chennai-super-kings"
-            ]
+            ],
+            "numPlayersPlaying": 4
         },
         {
             "powerPlayer": "Suresh Raina (csk)",
@@ -5108,7 +5311,8 @@
             "teams": [
                 "kings-xi-punjab",
                 "mumbai-indians"
-            ]
+            ],
+            "numPlayersPlaying": 2
         }
     ],
     "BaskinRobins": [
@@ -5135,7 +5339,8 @@
             "teams": [
                 "mumbai-indians",
                 "chennai-super-kings"
-            ]
+            ],
+            "numPlayersPlaying": 4
         },
         {
             "powerPlayer": "Aaron Finch (kxp)",
@@ -5160,7 +5365,8 @@
             "teams": [
                 "kings-xi-punjab",
                 "delhi-daredevils"
-            ]
+            ],
+            "numPlayersPlaying": 4
         },
         {
             "powerPlayer": "Aaron Finch (kxp)",
@@ -5185,7 +5391,8 @@
             "teams": [
                 "kolkata-knight-riders",
                 "royal-challengers-bangalore"
-            ]
+            ],
+            "numPlayersPlaying": 2
         },
         {
             "powerPlayer": "Bhuvneshwar Kumar (sh)",
@@ -5210,7 +5417,8 @@
             "teams": [
                 "sunrisers-hyderabad",
                 "rajasthan-royals"
-            ]
+            ],
+            "numPlayersPlaying": 3
         },
         {
             "powerPlayer": "Nitish Rana (kkr)",
@@ -5235,7 +5443,8 @@
             "teams": [
                 "chennai-super-kings",
                 "kolkata-knight-riders"
-            ]
+            ],
+            "numPlayersPlaying": 5
         },
         {
             "powerPlayer": "Chris Morris (dd)",
@@ -5260,7 +5469,8 @@
             "teams": [
                 "rajasthan-royals",
                 "delhi-daredevils"
-            ]
+            ],
+            "numPlayersPlaying": 4
         },
         {
             "powerPlayer": "Krunal Pandya (mi)",
@@ -5285,7 +5495,8 @@
             "teams": [
                 "sunrisers-hyderabad",
                 "mumbai-indians"
-            ]
+            ],
+            "numPlayersPlaying": 4
         },
         {
             "powerPlayer": "Brendon Mccullum (rcb)",
@@ -5310,7 +5521,8 @@
             "teams": [
                 "royal-challengers-bangalore",
                 "kings-xi-punjab"
-            ]
+            ],
+            "numPlayersPlaying": 3
         },
         {
             "powerPlayer": "Krunal Pandya (mi)",
@@ -5335,7 +5547,8 @@
             "teams": [
                 "mumbai-indians",
                 "delhi-daredevils"
-            ]
+            ],
+            "numPlayersPlaying": 4
         },
         {
             "powerPlayer": "Andre Russell (kkr)",
@@ -5360,7 +5573,8 @@
             "teams": [
                 "kolkata-knight-riders",
                 "sunrisers-hyderabad"
-            ]
+            ],
+            "numPlayersPlaying": 4
         },
         {
             "powerPlayer": "Umesh Yadav (rcb)",
@@ -5385,7 +5599,8 @@
             "teams": [
                 "royal-challengers-bangalore",
                 "rajasthan-royals"
-            ]
+            ],
+            "numPlayersPlaying": 4
         },
         {
             "powerPlayer": "Shane Watson (csk)",
@@ -5410,7 +5625,8 @@
             "teams": [
                 "kings-xi-punjab",
                 "chennai-super-kings"
-            ]
+            ],
+            "numPlayersPlaying": 5
         },
         {
             "powerPlayer": "Andre Russell (kkr)",
@@ -5435,7 +5651,8 @@
             "teams": [
                 "kolkata-knight-riders",
                 "delhi-daredevils"
-            ]
+            ],
+            "numPlayersPlaying": 3
         },
         {
             "powerPlayer": "Krunal Pandya (mi)",
@@ -5460,7 +5677,8 @@
             "teams": [
                 "mumbai-indians",
                 "royal-challengers-bangalore"
-            ]
+            ],
+            "numPlayersPlaying": 4
         },
         {
             "powerPlayer": "Andre Russell (kkr)",
@@ -5485,7 +5703,8 @@
             "teams": [
                 "rajasthan-royals",
                 "kolkata-knight-riders"
-            ]
+            ],
+            "numPlayersPlaying": 4
         },
         {
             "powerPlayer": "Lokesh Rahul (kxp)",
@@ -5510,7 +5729,8 @@
             "teams": [
                 "kings-xi-punjab",
                 "sunrisers-hyderabad"
-            ]
+            ],
+            "numPlayersPlaying": 5
         },
         {
             "powerPlayer": "Shane Watson (csk)",
@@ -5535,7 +5755,8 @@
             "teams": [
                 "chennai-super-kings",
                 "rajasthan-royals"
-            ]
+            ],
+            "numPlayersPlaying": 5
         },
         {
             "powerPlayer": "Chris Gayle (kxp)",
@@ -5560,7 +5781,8 @@
             "teams": [
                 "kolkata-knight-riders",
                 "kings-xi-punjab"
-            ]
+            ],
+            "numPlayersPlaying": 5
         },
         {
             "powerPlayer": "Virat Kohli (rcb)",
@@ -5585,7 +5807,8 @@
             "teams": [
                 "royal-challengers-bangalore",
                 "delhi-daredevils"
-            ]
+            ],
+            "numPlayersPlaying": 4
         },
         {
             "powerPlayer": "Shane Watson (csk)",
@@ -5610,7 +5833,8 @@
             "teams": [
                 "sunrisers-hyderabad",
                 "chennai-super-kings"
-            ]
+            ],
+            "numPlayersPlaying": 5
         },
         {
             "powerPlayer": "Krunal Pandya (mi)",
@@ -5635,7 +5859,8 @@
             "teams": [
                 "rajasthan-royals",
                 "mumbai-indians"
-            ]
+            ],
+            "numPlayersPlaying": 4
         },
         {
             "powerPlayer": "Aaron Finch (kxp)",
@@ -5660,7 +5885,8 @@
             "teams": [
                 "delhi-daredevils",
                 "kings-xi-punjab"
-            ]
+            ],
+            "numPlayersPlaying": 4
         },
         {
             "powerPlayer": "Krunal Pandya (mi)",
@@ -5685,7 +5911,8 @@
             "teams": [
                 "mumbai-indians",
                 "sunrisers-hyderabad"
-            ]
+            ],
+            "numPlayersPlaying": 6
         },
         {
             "powerPlayer": "Shane Watson (csk)",
@@ -5710,7 +5937,8 @@
             "teams": [
                 "royal-challengers-bangalore",
                 "chennai-super-kings"
-            ]
+            ],
+            "numPlayersPlaying": 5
         },
         {
             "powerPlayer": "Shakib Al Hasan (sh)",
@@ -5735,7 +5963,8 @@
             "teams": [
                 "sunrisers-hyderabad",
                 "kings-xi-punjab"
-            ]
+            ],
+            "numPlayersPlaying": 4
         },
         {
             "powerPlayer": "Nitish Rana (kkr)",
@@ -5760,7 +5989,8 @@
             "teams": [
                 "delhi-daredevils",
                 "kolkata-knight-riders"
-            ]
+            ],
+            "numPlayersPlaying": 3
         },
         {
             "powerPlayer": "Ambati Rayudu (csk)",
@@ -5785,7 +6015,8 @@
             "teams": [
                 "chennai-super-kings",
                 "mumbai-indians"
-            ]
+            ],
+            "numPlayersPlaying": 5
         },
         {
             "powerPlayer": "Shakib Al Hasan (sh)",
@@ -5810,7 +6041,8 @@
             "teams": [
                 "rajasthan-royals",
                 "sunrisers-hyderabad"
-            ]
+            ],
+            "numPlayersPlaying": 3
         },
         {
             "powerPlayer": "Virat Kohli (rcb)",
@@ -5835,7 +6067,8 @@
             "teams": [
                 "royal-challengers-bangalore",
                 "kolkata-knight-riders"
-            ]
+            ],
+            "numPlayersPlaying": 5
         },
         {
             "powerPlayer": "Shane Watson (csk)",
@@ -5860,7 +6093,8 @@
             "teams": [
                 "chennai-super-kings",
                 "delhi-daredevils"
-            ]
+            ],
+            "numPlayersPlaying": 5
         },
         {
             "powerPlayer": "Shane Watson (csk)",
@@ -5885,7 +6119,8 @@
             "teams": [
                 "royal-challengers-bangalore",
                 "mumbai-indians"
-            ]
+            ],
+            "numPlayersPlaying": 4
         },
         {
             "powerPlayer": "Glenn Maxwell (dd)",
@@ -5910,7 +6145,8 @@
             "teams": [
                 "delhi-daredevils",
                 "rajasthan-royals"
-            ]
+            ],
+            "numPlayersPlaying": 5
         },
         {
             "powerPlayer": "Shane Watson (csk)",
@@ -5935,7 +6171,8 @@
             "teams": [
                 "kolkata-knight-riders",
                 "chennai-super-kings"
-            ]
+            ],
+            "numPlayersPlaying": 7
         },
         {
             "powerPlayer": "Shane Watson (csk)",
@@ -5960,7 +6197,8 @@
             "teams": [
                 "kings-xi-punjab",
                 "mumbai-indians"
-            ]
+            ],
+            "numPlayersPlaying": 1
         }
     ],
     "TRDY": [
@@ -5987,7 +6225,8 @@
             "teams": [
                 "mumbai-indians",
                 "chennai-super-kings"
-            ]
+            ],
+            "numPlayersPlaying": 5
         },
         {
             "powerPlayer": "Yuvraj Singh (kxp)",
@@ -6012,7 +6251,8 @@
             "teams": [
                 "kings-xi-punjab",
                 "delhi-daredevils"
-            ]
+            ],
+            "numPlayersPlaying": 5
         },
         {
             "powerPlayer": "Brendon Mccullum (rcb)",
@@ -6037,7 +6277,8 @@
             "teams": [
                 "kolkata-knight-riders",
                 "royal-challengers-bangalore"
-            ]
+            ],
+            "numPlayersPlaying": 5
         },
         {
             "powerPlayer": "Wriddhiman Saha (sh)",
@@ -6062,7 +6303,8 @@
             "teams": [
                 "sunrisers-hyderabad",
                 "rajasthan-royals"
-            ]
+            ],
+            "numPlayersPlaying": 4
         },
         {
             "powerPlayer": "Robin Uthappa (kkr)",
@@ -6087,7 +6329,8 @@
             "teams": [
                 "chennai-super-kings",
                 "kolkata-knight-riders"
-            ]
+            ],
+            "numPlayersPlaying": 5
         },
         {
             "powerPlayer": "Rahul Tewatia (dd)",
@@ -6112,7 +6355,8 @@
             "teams": [
                 "rajasthan-royals",
                 "delhi-daredevils"
-            ]
+            ],
+            "numPlayersPlaying": 5
         },
         {
             "powerPlayer": "Rohit Sharma (mi)",
@@ -6137,7 +6381,8 @@
             "teams": [
                 "sunrisers-hyderabad",
                 "mumbai-indians"
-            ]
+            ],
+            "numPlayersPlaying": 5
         },
         {
             "powerPlayer": "Lokesh Rahul (kxp)",
@@ -6162,7 +6407,8 @@
             "teams": [
                 "royal-challengers-bangalore",
                 "kings-xi-punjab"
-            ]
+            ],
+            "numPlayersPlaying": 5
         },
         {
             "powerPlayer": "Mayank Markande (mi)",
@@ -6187,7 +6433,8 @@
             "teams": [
                 "mumbai-indians",
                 "delhi-daredevils"
-            ]
+            ],
+            "numPlayersPlaying": 4
         },
         {
             "powerPlayer": "Mayank Markande (mi)",
@@ -6212,7 +6459,8 @@
             "teams": [
                 "kolkata-knight-riders",
                 "sunrisers-hyderabad"
-            ]
+            ],
+            "numPlayersPlaying": 3
         },
         {
             "powerPlayer": "Mayank Markande (mi)",
@@ -6237,7 +6485,8 @@
             "teams": [
                 "royal-challengers-bangalore",
                 "rajasthan-royals"
-            ]
+            ],
+            "numPlayersPlaying": 2
         },
         {
             "powerPlayer": "Mayank Markande (mi)",
@@ -6262,7 +6511,8 @@
             "teams": [
                 "kings-xi-punjab",
                 "chennai-super-kings"
-            ]
+            ],
+            "numPlayersPlaying": 2
         },
         {
             "powerPlayer": "Glenn Maxwell (dd)",
@@ -6287,7 +6537,8 @@
             "teams": [
                 "kolkata-knight-riders",
                 "delhi-daredevils"
-            ]
+            ],
+            "numPlayersPlaying": 4
         },
         {
             "powerPlayer": "Hardik Pandya (mi)",
@@ -6312,7 +6563,8 @@
             "teams": [
                 "mumbai-indians",
                 "royal-challengers-bangalore"
-            ]
+            ],
+            "numPlayersPlaying": 5
         },
         {
             "powerPlayer": "Sanju Samson (rr)",
@@ -6337,7 +6589,8 @@
             "teams": [
                 "rajasthan-royals",
                 "kolkata-knight-riders"
-            ]
+            ],
+            "numPlayersPlaying": 5
         },
         {
             "powerPlayer": "Aaron Finch (kxp)",
@@ -6362,7 +6615,8 @@
             "teams": [
                 "kings-xi-punjab",
                 "sunrisers-hyderabad"
-            ]
+            ],
+            "numPlayersPlaying": 5
         },
         {
             "powerPlayer": "Sanju Samson (rr)",
@@ -6387,7 +6641,8 @@
             "teams": [
                 "chennai-super-kings",
                 "rajasthan-royals"
-            ]
+            ],
+            "numPlayersPlaying": 3
         },
         {
             "powerPlayer": "Aaron Finch (kxp)",
@@ -6412,7 +6667,8 @@
             "teams": [
                 "kolkata-knight-riders",
                 "kings-xi-punjab"
-            ]
+            ],
+            "numPlayersPlaying": 6
         },
         {
             "powerPlayer": "Glenn Maxwell (dd)",
@@ -6437,7 +6693,8 @@
             "teams": [
                 "royal-challengers-bangalore",
                 "delhi-daredevils"
-            ]
+            ],
+            "numPlayersPlaying": 4
         },
         {
             "powerPlayer": "Nan (n)",
@@ -6462,7 +6719,8 @@
             "teams": [
                 "sunrisers-hyderabad",
                 "chennai-super-kings"
-            ]
+            ],
+            "numPlayersPlaying": 2
         },
         {
             "powerPlayer": "Evin Lewis (mi)",
@@ -6487,7 +6745,8 @@
             "teams": [
                 "rajasthan-royals",
                 "mumbai-indians"
-            ]
+            ],
+            "numPlayersPlaying": 4
         },
         {
             "powerPlayer": "Aaron Finch (kxp)",
@@ -6512,7 +6771,8 @@
             "teams": [
                 "delhi-daredevils",
                 "kings-xi-punjab"
-            ]
+            ],
+            "numPlayersPlaying": 5
         },
         {
             "powerPlayer": "Shikhar Dhawan (sh)",
@@ -6537,7 +6797,8 @@
             "teams": [
                 "mumbai-indians",
                 "sunrisers-hyderabad"
-            ]
+            ],
+            "numPlayersPlaying": 4
         },
         {
             "powerPlayer": "Deepak Chahar (csk)",
@@ -6562,7 +6823,8 @@
             "teams": [
                 "royal-challengers-bangalore",
                 "chennai-super-kings"
-            ]
+            ],
+            "numPlayersPlaying": 2
         },
         {
             "powerPlayer": "Shikhar Dhawan (sh)",
@@ -6587,7 +6849,8 @@
             "teams": [
                 "sunrisers-hyderabad",
                 "kings-xi-punjab"
-            ]
+            ],
+            "numPlayersPlaying": 5
         },
         {
             "powerPlayer": "Glenn Maxwell (dd)",
@@ -6612,7 +6875,8 @@
             "teams": [
                 "delhi-daredevils",
                 "kolkata-knight-riders"
-            ]
+            ],
+            "numPlayersPlaying": 4
         },
         {
             "powerPlayer": "Ambati Rayudu (csk)",
@@ -6637,7 +6901,8 @@
             "teams": [
                 "chennai-super-kings",
                 "mumbai-indians"
-            ]
+            ],
+            "numPlayersPlaying": 4
         },
         {
             "powerPlayer": "Sanju Samson (rr)",
@@ -6662,7 +6927,8 @@
             "teams": [
                 "rajasthan-royals",
                 "sunrisers-hyderabad"
-            ]
+            ],
+            "numPlayersPlaying": 5
         },
         {
             "powerPlayer": "Virat Kohli (rcb)",
@@ -6687,7 +6953,8 @@
             "teams": [
                 "royal-challengers-bangalore",
                 "kolkata-knight-riders"
-            ]
+            ],
+            "numPlayersPlaying": 4
         },
         {
             "powerPlayer": "Ambati Rayudu (csk)",
@@ -6712,7 +6979,8 @@
             "teams": [
                 "chennai-super-kings",
                 "delhi-daredevils"
-            ]
+            ],
+            "numPlayersPlaying": 5
         },
         {
             "powerPlayer": "Virat Kohli (rcb)",
@@ -6737,7 +7005,8 @@
             "teams": [
                 "royal-challengers-bangalore",
                 "mumbai-indians"
-            ]
+            ],
+            "numPlayersPlaying": 4
         },
         {
             "powerPlayer": "Colin Munro (dd)",
@@ -6762,7 +7031,8 @@
             "teams": [
                 "delhi-daredevils",
                 "rajasthan-royals"
-            ]
+            ],
+            "numPlayersPlaying": 6
         },
         {
             "powerPlayer": "Shane Watson (csk)",
@@ -6787,7 +7057,8 @@
             "teams": [
                 "kolkata-knight-riders",
                 "chennai-super-kings"
-            ]
+            ],
+            "numPlayersPlaying": 4
         },
         {
             "powerPlayer": "Shane Watson (csk)",
@@ -6812,7 +7083,8 @@
             "teams": [
                 "kings-xi-punjab",
                 "mumbai-indians"
-            ]
+            ],
+            "numPlayersPlaying": 2
         }
     ],
     "MumbaiKarz": [
@@ -6839,7 +7111,8 @@
             "teams": [
                 "kings-xi-punjab",
                 "delhi-daredevils"
-            ]
+            ],
+            "numPlayersPlaying": 5
         },
         {
             "powerPlayer": "Glenn Maxwell (dd)",
@@ -6864,7 +7137,8 @@
             "teams": [
                 "kolkata-knight-riders",
                 "royal-challengers-bangalore"
-            ]
+            ],
+            "numPlayersPlaying": 4
         },
         {
             "powerPlayer": "Glenn Maxwell (dd)",
@@ -6889,7 +7163,8 @@
             "teams": [
                 "sunrisers-hyderabad",
                 "rajasthan-royals"
-            ]
+            ],
+            "numPlayersPlaying": 1
         },
         {
             "powerPlayer": "Dwayne Bravo (csk)",
@@ -6914,7 +7189,8 @@
             "teams": [
                 "chennai-super-kings",
                 "kolkata-knight-riders"
-            ]
+            ],
+            "numPlayersPlaying": 5
         },
         {
             "powerPlayer": "Sanju Samson (rr)",
@@ -6939,7 +7215,8 @@
             "teams": [
                 "rajasthan-royals",
                 "delhi-daredevils"
-            ]
+            ],
+            "numPlayersPlaying": 5
         },
         {
             "powerPlayer": "Hardik Pandya (mi)",
@@ -6964,7 +7241,8 @@
             "teams": [
                 "sunrisers-hyderabad",
                 "mumbai-indians"
-            ]
+            ],
+            "numPlayersPlaying": 6
         },
         {
             "powerPlayer": "Lokesh Rahul (kxp)",
@@ -6989,7 +7267,8 @@
             "teams": [
                 "royal-challengers-bangalore",
                 "kings-xi-punjab"
-            ]
+            ],
+            "numPlayersPlaying": 8
         },
         {
             "powerPlayer": "Kieron Pollard (mi)",
@@ -7014,7 +7293,8 @@
             "teams": [
                 "mumbai-indians",
                 "delhi-daredevils"
-            ]
+            ],
+            "numPlayersPlaying": 5
         },
         {
             "powerPlayer": "Kieron Pollard (mi)",
@@ -7039,7 +7319,8 @@
             "teams": [
                 "kolkata-knight-riders",
                 "sunrisers-hyderabad"
-            ]
+            ],
+            "numPlayersPlaying": 2
         },
         {
             "powerPlayer": "Kieron Pollard (mi)",
@@ -7064,7 +7345,8 @@
             "teams": [
                 "royal-challengers-bangalore",
                 "rajasthan-royals"
-            ]
+            ],
+            "numPlayersPlaying": 3
         },
         {
             "powerPlayer": "Chris Gayle (kxp)",
@@ -7089,7 +7371,8 @@
             "teams": [
                 "kings-xi-punjab",
                 "chennai-super-kings"
-            ]
+            ],
+            "numPlayersPlaying": 7
         },
         {
             "powerPlayer": "Chris Gayle (kxp)",
@@ -7114,7 +7397,8 @@
             "teams": [
                 "kolkata-knight-riders",
                 "delhi-daredevils"
-            ]
+            ],
+            "numPlayersPlaying": 0
         },
         {
             "powerPlayer": "Kieron Pollard (mi)",
@@ -7139,7 +7423,8 @@
             "teams": [
                 "mumbai-indians",
                 "royal-challengers-bangalore"
-            ]
+            ],
+            "numPlayersPlaying": 6
         },
         {
             "powerPlayer": "Sanju Samson (rr)",
@@ -7164,7 +7449,8 @@
             "teams": [
                 "rajasthan-royals",
                 "kolkata-knight-riders"
-            ]
+            ],
+            "numPlayersPlaying": 2
         },
         {
             "powerPlayer": "Chris Gayle (kxp)",
@@ -7189,7 +7475,8 @@
             "teams": [
                 "kings-xi-punjab",
                 "sunrisers-hyderabad"
-            ]
+            ],
+            "numPlayersPlaying": 4
         },
         {
             "powerPlayer": "Ms Dhoni (csk)",
@@ -7214,7 +7501,8 @@
             "teams": [
                 "chennai-super-kings",
                 "rajasthan-royals"
-            ]
+            ],
+            "numPlayersPlaying": 3
         },
         {
             "powerPlayer": "Chris Gayle (kxp)",
@@ -7239,7 +7527,8 @@
             "teams": [
                 "kolkata-knight-riders",
                 "kings-xi-punjab"
-            ]
+            ],
+            "numPlayersPlaying": 3
         },
         {
             "powerPlayer": "Virat Kohli (rcb)",
@@ -7264,7 +7553,8 @@
             "teams": [
                 "royal-challengers-bangalore",
                 "delhi-daredevils"
-            ]
+            ],
+            "numPlayersPlaying": 2
         },
         {
             "powerPlayer": "Virat Kohli (rcb)",
@@ -7289,7 +7579,8 @@
             "teams": [
                 "sunrisers-hyderabad",
                 "chennai-super-kings"
-            ]
+            ],
+            "numPlayersPlaying": 2
         },
         {
             "powerPlayer": "Virat Kohli (rcb)",
@@ -7314,7 +7605,8 @@
             "teams": [
                 "rajasthan-royals",
                 "mumbai-indians"
-            ]
+            ],
+            "numPlayersPlaying": 4
         },
         {
             "powerPlayer": "Virat Kohli (rcb)",
@@ -7339,7 +7631,8 @@
             "teams": [
                 "delhi-daredevils",
                 "kings-xi-punjab"
-            ]
+            ],
+            "numPlayersPlaying": 3
         },
         {
             "powerPlayer": "Mayank Markande (mi)",
@@ -7364,7 +7657,8 @@
             "teams": [
                 "mumbai-indians",
                 "sunrisers-hyderabad"
-            ]
+            ],
+            "numPlayersPlaying": 4
         },
         {
             "powerPlayer": "Virat Kohli (rcb)",
@@ -7389,7 +7683,8 @@
             "teams": [
                 "royal-challengers-bangalore",
                 "chennai-super-kings"
-            ]
+            ],
+            "numPlayersPlaying": 2
         },
         {
             "powerPlayer": "Chris Gayle (kxp)",
@@ -7414,7 +7709,8 @@
             "teams": [
                 "sunrisers-hyderabad",
                 "kings-xi-punjab"
-            ]
+            ],
+            "numPlayersPlaying": 3
         },
         {
             "powerPlayer": "Chris Gayle (kxp)",
@@ -7439,7 +7735,8 @@
             "teams": [
                 "delhi-daredevils",
                 "kolkata-knight-riders"
-            ]
+            ],
+            "numPlayersPlaying": 2
         },
         {
             "powerPlayer": "Suryakumar Yadav (mi)",
@@ -7464,7 +7761,8 @@
             "teams": [
                 "chennai-super-kings",
                 "mumbai-indians"
-            ]
+            ],
+            "numPlayersPlaying": 5
         },
         {
             "powerPlayer": "Sanju Samson (rr)",
@@ -7489,7 +7787,8 @@
             "teams": [
                 "rajasthan-royals",
                 "sunrisers-hyderabad"
-            ]
+            ],
+            "numPlayersPlaying": 1
         },
         {
             "powerPlayer": "Sanju Samson (rr)",
@@ -7514,7 +7813,8 @@
             "teams": [
                 "royal-challengers-bangalore",
                 "kolkata-knight-riders"
-            ]
+            ],
+            "numPlayersPlaying": 2
         },
         {
             "powerPlayer": "Ms Dhoni (csk)",
@@ -7539,7 +7839,8 @@
             "teams": [
                 "chennai-super-kings",
                 "delhi-daredevils"
-            ]
+            ],
+            "numPlayersPlaying": 3
         },
         {
             "powerPlayer": "Virat Kohli (rcb)",
@@ -7564,7 +7865,8 @@
             "teams": [
                 "royal-challengers-bangalore",
                 "mumbai-indians"
-            ]
+            ],
+            "numPlayersPlaying": 4
         },
         {
             "powerPlayer": "Sanju Samson (rr)",
@@ -7589,7 +7891,8 @@
             "teams": [
                 "delhi-daredevils",
                 "rajasthan-royals"
-            ]
+            ],
+            "numPlayersPlaying": 1
         },
         {
             "powerPlayer": "Sunil Narine (kkr)",
@@ -7614,7 +7917,8 @@
             "teams": [
                 "kolkata-knight-riders",
                 "chennai-super-kings"
-            ]
+            ],
+            "numPlayersPlaying": 4
         },
         {
             "powerPlayer": "Sunil Narine (kkr)",
@@ -7639,7 +7943,8 @@
             "teams": [
                 "kings-xi-punjab",
                 "mumbai-indians"
-            ]
+            ],
+            "numPlayersPlaying": 5
         }
     ],
     "Kolkata Rangers": [
@@ -7666,7 +7971,8 @@
             "teams": [
                 "mumbai-indians",
                 "delhi-daredevils"
-            ]
+            ],
+            "numPlayersPlaying": 2
         },
         {
             "powerPlayer": "Sunil Narine (kkr)",
@@ -7691,7 +7997,8 @@
             "teams": [
                 "kolkata-knight-riders",
                 "sunrisers-hyderabad"
-            ]
+            ],
+            "numPlayersPlaying": 6
         },
         {
             "powerPlayer": "Umesh Yadav (rcb)",
@@ -7716,7 +8023,8 @@
             "teams": [
                 "royal-challengers-bangalore",
                 "rajasthan-royals"
-            ]
+            ],
+            "numPlayersPlaying": 1
         },
         {
             "powerPlayer": "Umesh Yadav (rcb)",
@@ -7741,7 +8049,8 @@
             "teams": [
                 "kings-xi-punjab",
                 "chennai-super-kings"
-            ]
+            ],
+            "numPlayersPlaying": 2
         },
         {
             "powerPlayer": "Sunil Narine (kkr)",
@@ -7766,7 +8075,8 @@
             "teams": [
                 "kolkata-knight-riders",
                 "delhi-daredevils"
-            ]
+            ],
+            "numPlayersPlaying": 8
         },
         {
             "powerPlayer": "Hardik Pandya (mi)",
@@ -7791,7 +8101,8 @@
             "teams": [
                 "mumbai-indians",
                 "royal-challengers-bangalore"
-            ]
+            ],
+            "numPlayersPlaying": 11
         },
         {
             "powerPlayer": "Sunil Narine (kkr)",
@@ -7816,7 +8127,8 @@
             "teams": [
                 "rajasthan-royals",
                 "kolkata-knight-riders"
-            ]
+            ],
+            "numPlayersPlaying": 6
         },
         {
             "powerPlayer": "Chris Gayle (kxp)",
@@ -7841,7 +8153,8 @@
             "teams": [
                 "kings-xi-punjab",
                 "sunrisers-hyderabad"
-            ]
+            ],
+            "numPlayersPlaying": 4
         },
         {
             "powerPlayer": "Dwayne Bravo (csk)",
@@ -7866,7 +8179,8 @@
             "teams": [
                 "chennai-super-kings",
                 "rajasthan-royals"
-            ]
+            ],
+            "numPlayersPlaying": 5
         },
         {
             "powerPlayer": "Sunil Narine (kkr)",
@@ -7891,7 +8205,8 @@
             "teams": [
                 "kolkata-knight-riders",
                 "kings-xi-punjab"
-            ]
+            ],
+            "numPlayersPlaying": 8
         },
         {
             "powerPlayer": "Gautam Gambhir (dd)",
@@ -7916,7 +8231,8 @@
             "teams": [
                 "royal-challengers-bangalore",
                 "delhi-daredevils"
-            ]
+            ],
+            "numPlayersPlaying": 5
         },
         {
             "powerPlayer": "Manish Pandey (sh)",
@@ -7941,7 +8257,8 @@
             "teams": [
                 "sunrisers-hyderabad",
                 "chennai-super-kings"
-            ]
+            ],
+            "numPlayersPlaying": 3
         },
         {
             "powerPlayer": "Krunal Pandya (mi)",
@@ -7966,7 +8283,8 @@
             "teams": [
                 "rajasthan-royals",
                 "mumbai-indians"
-            ]
+            ],
+            "numPlayersPlaying": 3
         },
         {
             "powerPlayer": "Chris Gayle (kxp)",
@@ -7991,7 +8309,8 @@
             "teams": [
                 "delhi-daredevils",
                 "kings-xi-punjab"
-            ]
+            ],
+            "numPlayersPlaying": 2
         },
         {
             "powerPlayer": "Suryakumar Yadav (mi)",
@@ -8016,7 +8335,8 @@
             "teams": [
                 "mumbai-indians",
                 "sunrisers-hyderabad"
-            ]
+            ],
+            "numPlayersPlaying": 5
         },
         {
             "powerPlayer": "Virat Kohli (rcb)",
@@ -8041,7 +8361,8 @@
             "teams": [
                 "royal-challengers-bangalore",
                 "chennai-super-kings"
-            ]
+            ],
+            "numPlayersPlaying": 4
         },
         {
             "powerPlayer": "Manish Pandey (sh)",
@@ -8066,7 +8387,8 @@
             "teams": [
                 "sunrisers-hyderabad",
                 "kings-xi-punjab"
-            ]
+            ],
+            "numPlayersPlaying": 4
         },
         {
             "powerPlayer": "Sunil Narine (kkr)",
@@ -8091,7 +8413,8 @@
             "teams": [
                 "delhi-daredevils",
                 "kolkata-knight-riders"
-            ]
+            ],
+            "numPlayersPlaying": 5
         },
         {
             "powerPlayer": "Ms Dhoni (csk)",
@@ -8116,7 +8439,8 @@
             "teams": [
                 "chennai-super-kings",
                 "mumbai-indians"
-            ]
+            ],
+            "numPlayersPlaying": 4
         },
         {
             "powerPlayer": "Sunil Narine (kkr)",
@@ -8141,7 +8465,8 @@
             "teams": [
                 "rajasthan-royals",
                 "sunrisers-hyderabad"
-            ]
+            ],
+            "numPlayersPlaying": 0
         },
         {
             "powerPlayer": "Sunil Narine (kkr)",
@@ -8166,7 +8491,8 @@
             "teams": [
                 "royal-challengers-bangalore",
                 "kolkata-knight-riders"
-            ]
+            ],
+            "numPlayersPlaying": 8
         },
         {
             "powerPlayer": "Ambati Rayudu (csk)",
@@ -8191,7 +8517,8 @@
             "teams": [
                 "chennai-super-kings",
                 "delhi-daredevils"
-            ]
+            ],
+            "numPlayersPlaying": 3
         },
         {
             "powerPlayer": "Virat Kohli (rcb)",
@@ -8216,7 +8543,8 @@
             "teams": [
                 "royal-challengers-bangalore",
                 "mumbai-indians"
-            ]
+            ],
+            "numPlayersPlaying": 9
         },
         {
             "powerPlayer": "Shreyas Iyer (dd)",
@@ -8241,7 +8569,8 @@
             "teams": [
                 "delhi-daredevils",
                 "rajasthan-royals"
-            ]
+            ],
+            "numPlayersPlaying": 3
         },
         {
             "powerPlayer": "Suresh Raina (csk)",
@@ -8266,7 +8595,8 @@
             "teams": [
                 "kolkata-knight-riders",
                 "chennai-super-kings"
-            ]
+            ],
+            "numPlayersPlaying": 6
         },
         {
             "powerPlayer": "Chris Gayle (kxp)",
@@ -8291,7 +8621,8 @@
             "teams": [
                 "kings-xi-punjab",
                 "mumbai-indians"
-            ]
+            ],
+            "numPlayersPlaying": 5
         }
     ]
 }
