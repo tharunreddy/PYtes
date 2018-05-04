@@ -857,32 +857,6 @@
                 "chennai-super-kings"
             ],
             "numPlayersPlaying": 6
-        },
-        {
-            "powerPlayer": "Shane Watson (csk)",
-            "secondPowerPlayer": "Lungi Ngidi (csk)",
-            "createTime": 1525357457980,
-            "players": [
-                "Rishabh Pant (dd)",
-                "Shane Watson (csk)",
-                "Ambati Rayudu (csk)",
-                "Virat Kohli (rcb)",
-                "Dwayne Bravo (csk)",
-                "Avesh Khan (dd)",
-                "Rohit Sharma (mi)",
-                "Krunal Pandya (mi)",
-                "Suresh Raina (csk)",
-                "Km Asif (csk)",
-                "Lungi Ngidi (csk)"
-            ],
-            "transfers": 2,
-            "matchId": 7926,
-            "matchDescription": "kxp vs mi",
-            "teams": [
-                "kings-xi-punjab",
-                "mumbai-indians"
-            ],
-            "numPlayersPlaying": 2
         }
     ],
     "Rocky United": [
@@ -1743,32 +1717,6 @@
                 "chennai-super-kings"
             ],
             "numPlayersPlaying": 5
-        },
-        {
-            "powerPlayer": "Ambati Rayudu (csk)",
-            "secondPowerPlayer": "Andre Russell (kkr)",
-            "createTime": 1525356726057,
-            "players": [
-                "Umesh Yadav (rcb)",
-                "Dwayne Bravo (csk)",
-                "Virat Kohli (rcb)",
-                "Ambati Rayudu (csk)",
-                "Ab De Villiers (rcb)",
-                "Prithvi Shaw (dd)",
-                "Trent Boult (dd)",
-                "Krunal Pandya (mi)",
-                "Andre Russell (kkr)",
-                "Shivam Mavi (kkr)",
-                "Ms Dhoni (csk)"
-            ],
-            "transfers": 2,
-            "matchId": 7926,
-            "matchDescription": "kxp vs mi",
-            "teams": [
-                "kings-xi-punjab",
-                "mumbai-indians"
-            ],
-            "numPlayersPlaying": 1
         }
     ],
     "RaisedByWolves": [
@@ -2629,32 +2577,6 @@
                 "chennai-super-kings"
             ],
             "numPlayersPlaying": 5
-        },
-        {
-            "powerPlayer": "Ambati Rayudu (csk)",
-            "secondPowerPlayer": "Robin Uthappa (kkr)",
-            "createTime": 1525357470477,
-            "players": [
-                "Shane Watson (csk)",
-                "Ambati Rayudu (csk)",
-                "Yuzvendra Chahal (rcb)",
-                "Virat Kohli (rcb)",
-                "Rishabh Pant (dd)",
-                "Suryakumar Yadav (mi)",
-                "Rohit Sharma (mi)",
-                "Sunil Narine (kkr)",
-                "Avesh Khan (dd)",
-                "Shivam Mavi (kkr)",
-                "Robin Uthappa (kkr)"
-            ],
-            "transfers": 2,
-            "matchId": 7926,
-            "matchDescription": "kxp vs mi",
-            "teams": [
-                "kings-xi-punjab",
-                "mumbai-indians"
-            ],
-            "numPlayersPlaying": 2
         }
     ],
     "Blaugrana": [
@@ -3515,32 +3437,6 @@
                 "chennai-super-kings"
             ],
             "numPlayersPlaying": 4
-        },
-        {
-            "powerPlayer": "Ambati Rayudu (csk)",
-            "secondPowerPlayer": "Shubman Gill (kkr)",
-            "createTime": 1525360665933,
-            "players": [
-                "Umesh Yadav (rcb)",
-                "Mayank Markande (mi)",
-                "Shreyas Iyer (dd)",
-                "Ambati Rayudu (csk)",
-                "Virat Kohli (rcb)",
-                "Andre Russell (kkr)",
-                "Quinton De Kock (rcb)",
-                "Shane Watson (csk)",
-                "Sanju Samson (rr)",
-                "Krishnappa Gowtham (rr)",
-                "Shubman Gill (kkr)"
-            ],
-            "transfers": 0,
-            "matchId": 7926,
-            "matchDescription": "kxp vs mi",
-            "teams": [
-                "kings-xi-punjab",
-                "mumbai-indians"
-            ],
-            "numPlayersPlaying": 1
         }
     ],
     "Alpine Warriors": [
@@ -4401,32 +4297,6 @@
                 "chennai-super-kings"
             ],
             "numPlayersPlaying": 6
-        },
-        {
-            "powerPlayer": "Shane Watson (csk)",
-            "secondPowerPlayer": "Lungi Ngidi (csk)",
-            "createTime": 1525357273696,
-            "players": [
-                "Mayank Markande (mi)",
-                "Suresh Raina (csk)",
-                "Shreyas Iyer (dd)",
-                "Virat Kohli (rcb)",
-                "Quinton De Kock (rcb)",
-                "Andre Russell (kkr)",
-                "Ambati Rayudu (csk)",
-                "Rohit Sharma (mi)",
-                "Shane Watson (csk)",
-                "Km Asif (csk)",
-                "Lungi Ngidi (csk)"
-            ],
-            "transfers": 2,
-            "matchId": 7926,
-            "matchDescription": "kxp vs mi",
-            "teams": [
-                "kings-xi-punjab",
-                "mumbai-indians"
-            ],
-            "numPlayersPlaying": 2
         }
     ],
     "Warriors": [
@@ -5287,32 +5157,6 @@
                 "chennai-super-kings"
             ],
             "numPlayersPlaying": 4
-        },
-        {
-            "powerPlayer": "Suresh Raina (csk)",
-            "secondPowerPlayer": "Robin Uthappa (kkr)",
-            "createTime": 1525357699525,
-            "players": [
-                "Shane Watson (csk)",
-                "Virat Kohli (rcb)",
-                "Mayank Markande (mi)",
-                "Rohit Sharma (mi)",
-                "Rishabh Pant (dd)",
-                "Suresh Raina (csk)",
-                "Avesh Khan (dd)",
-                "Colin Munro (dd)",
-                "Brendon Mccullum (rcb)",
-                "Km Asif (csk)",
-                "Robin Uthappa (kkr)"
-            ],
-            "transfers": 1,
-            "matchId": 7926,
-            "matchDescription": "kxp vs mi",
-            "teams": [
-                "kings-xi-punjab",
-                "mumbai-indians"
-            ],
-            "numPlayersPlaying": 2
         }
     ],
     "BaskinRobins": [
@@ -6173,32 +6017,6 @@
                 "chennai-super-kings"
             ],
             "numPlayersPlaying": 7
-        },
-        {
-            "powerPlayer": "Shane Watson (csk)",
-            "secondPowerPlayer": "Sunil Narine (kkr)",
-            "createTime": 1525357152032,
-            "players": [
-                "Shane Watson (csk)",
-                "Ms Dhoni (csk)",
-                "Chris Lynn (kkr)",
-                "Ambati Rayudu (csk)",
-                "Yuzvendra Chahal (rcb)",
-                "Krunal Pandya (mi)",
-                "Sanju Samson (rr)",
-                "Shahbaz Nadeem (dd)",
-                "Shubman Gill (kkr)",
-                "Dwayne Bravo (csk)",
-                "Sunil Narine (kkr)"
-            ],
-            "transfers": 2,
-            "matchId": 7926,
-            "matchDescription": "kxp vs mi",
-            "teams": [
-                "kings-xi-punjab",
-                "mumbai-indians"
-            ],
-            "numPlayersPlaying": 1
         }
     ],
     "TRDY": [
@@ -7059,32 +6877,6 @@
                 "chennai-super-kings"
             ],
             "numPlayersPlaying": 4
-        },
-        {
-            "powerPlayer": "Shane Watson (csk)",
-            "secondPowerPlayer": "Robin Uthappa (kkr)",
-            "createTime": 1525355676608,
-            "players": [
-                "Rashid Khan (sh)",
-                "Evin Lewis (mi)",
-                "Ambati Rayudu (csk)",
-                "Krishnappa Gowtham (rr)",
-                "Virat Kohli (rcb)",
-                "Colin Munro (dd)",
-                "Prithvi Shaw (dd)",
-                "Suryakumar Yadav (mi)",
-                "Robin Uthappa (kkr)",
-                "Shane Watson (csk)",
-                "Km Asif (csk)"
-            ],
-            "transfers": 2,
-            "matchId": 7926,
-            "matchDescription": "kxp vs mi",
-            "teams": [
-                "kings-xi-punjab",
-                "mumbai-indians"
-            ],
-            "numPlayersPlaying": 2
         }
     ],
     "MumbaiKarz": [
@@ -7919,32 +7711,6 @@
                 "chennai-super-kings"
             ],
             "numPlayersPlaying": 4
-        },
-        {
-            "powerPlayer": "Sunil Narine (kkr)",
-            "secondPowerPlayer": "Andre Russell (kkr)",
-            "createTime": 1525359380310,
-            "players": [
-                "Mayank Markande (mi)",
-                "Suryakumar Yadav (mi)",
-                "Mujeeb Ur Rahman (kxp)",
-                "Chris Gayle (kxp)",
-                "Virat Kohli (rcb)",
-                "Andre Russell (kkr)",
-                "Ms Dhoni (csk)",
-                "Shardul Thakur (csk)",
-                "Sanju Samson (rr)",
-                "Rohit Sharma (mi)",
-                "Sunil Narine (kkr)"
-            ],
-            "transfers": 0,
-            "matchId": 7926,
-            "matchDescription": "kxp vs mi",
-            "teams": [
-                "kings-xi-punjab",
-                "mumbai-indians"
-            ],
-            "numPlayersPlaying": 5
         }
     ],
     "Kolkata Rangers": [
@@ -8597,32 +8363,6 @@
                 "chennai-super-kings"
             ],
             "numPlayersPlaying": 6
-        },
-        {
-            "powerPlayer": "Chris Gayle (kxp)",
-            "secondPowerPlayer": "Hardik Pandya (mi)",
-            "createTime": 1525391862752,
-            "players": [
-                "Mayank Markande (mi)",
-                "Virat Kohli (rcb)",
-                "Ms Dhoni (csk)",
-                "Umesh Yadav (rcb)",
-                "Hardik Pandya (mi)",
-                "Ambati Rayudu (csk)",
-                "Chris Gayle (kxp)",
-                "Krunal Pandya (mi)",
-                "Sunil Narine (kkr)",
-                "Shubman Gill (kkr)",
-                "Lokesh Rahul (kxp)"
-            ],
-            "transfers": 4,
-            "matchId": 7927,
-            "matchDescription": "kxp vs mi",
-            "teams": [
-                "kings-xi-punjab",
-                "mumbai-indians"
-            ],
-            "numPlayersPlaying": 5
         }
     ]
 }
